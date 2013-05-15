@@ -19,24 +19,18 @@
 
   <authorgroup>
     <author>
-      <firstname>Nome</firstname>
-      <surname>Sobrenome</surname>
+      <firstname>Maria das Graças de Almeida Baptista</firstname>
       <affiliation>
-        <jobtitle>Professor</jobtitle>
+        <jobtitle>Professora</jobtitle>
         <orgname>Universidade Federal da Paraíba</orgname>
       </affiliation>
       <authorblurb>
         <para>
-          Principal contribuidor do livro.
+          Autora original do texto.
         </para>
       </authorblurb>
     </author>
 
-    <editor>
-      <firstname>Eduardo</firstname>
-      <surname>Medeiros</surname>
-      <othername>Santana</othername>
-    </editor>
 
   </authorgroup>
   
