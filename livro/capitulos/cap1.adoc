@@ -1,0 +1,199 @@
+== Noções introdutórias da psicologia e sua aplicação à educação
+
+No nosso componente curricular e de forma inicial nesse texto, 
+abordaremos alguns conceitos imprescindíveis a Fundamentos da 
+Psicologia da Educação. Trataremos dos fundamentos necessários à 
+compreensão do ser aprendente e do processo ensino aprendizagem como 
+um todo. Esse material pretende oferecer elementos para uma 
+formação de professores de computação conhecedores dos aspectos 
+psicológicos essenciais ao desenvolvimento do educando e de suas 
+aprendizagens. A construção desses conhecimentos se dará não só 
+pelo que esse escrito oferece, mas, também pela interação virtual 
+indispensável de aluno/equipe docente, e por intermédio de diversos 
+recursos educativos dentre eles: textos, pesquisas, reflexões 
+individuais e coletivas – desenvolvidas sobre as bases da 
+interação virtual entre aprendentes e equipe docente que estará 
+sempre pronta para atender às demandas dos seus aprendentes. 
+
+=== Fundamentação teórica
+
+A fundamentação teórica da disciplina volta-se para a compreensão 
+da importância do estudo da Psicologia na formação do educador e 
+será tratada a partir dos seguintes pontos: conceituação da 
+Psicologia como ciência; da especificidade da aplicação dos 
+saberes dessa ciência à prática do professor. Para esse trabalho 
+teremos uma carga horária de 60 horas e precisamos aproveita-la ao 
+máximo tendo em vista que esse tempo é pouco para conhecermos a 
+riqueza teórica dessa ciência e possibilidades de contribuição 
+para o exercício da docência. Portanto, convido-os ao deleite de 
+saborear o agradável sabor de conhecer um pouco acerca do humano, de 
+suas possibilidades, limitações e necessidades, sobretudo, as 
+necessidades educacionais. 
+
+=== Porque estudar Psicologia no curso de Licenciatura em Computação?
+
+Inicialmente devemos considerar que escolhemos um curso de 
+licenciatura que imprescinde de conhecimentos acerca do humano. 
+Assim, o estudo da Psicologia é fundamental para todos que fazem 
+opção pela carreira do magistério. Enquanto componente curricular 
+contempla parte dos fundamentos da formação pedagógica 
+possibilitadores da compreensão dos processos de desenvolvimento e 
+aprendizagem do ser aprendente. Tal conhecimento contribui para o 
+êxito no desenvolvimento do processo ensino-aprendizagem. E ainda, 
+devemos reconhecer que conhecimentos oriundos da Psicologia 
+contribuem para formação do professor, para o desenvolvimento de 
+habilidades e competências, além de atitudes e valores vitais à 
+prática docente bem sucedida. Visto que ela oferece elementos 
+teóricos oportunizadores do desenvolvimento da capacidade do 
+professor investigar a própria atividade e a partir disso 
+redimensionar seus saberes-fazeres. Por fim, vendo a construção do 
+conhecimento como o maior objetivo da educação, entendemos que 
+todas as ações devem estar comprometidas com a eficácia do 
+processo ensino aprendizagem. Assim, reconhecemos que com a ajuda da 
+Psicologia podemos buscar respostas a algumas das questões dos 
+educadores, a exemplo de: 
+
+____
+- O que é aprendizagem? 
+- Que fatores facilitam a aprendizagem? 
+- Como se aprende? 
+- Como se deve ensinar? 
+- Como deve ser a atuação do professor para que a atividade de
+  aprender seja coroada de sucesso?
+____
+
+
+=== Conceituação da Psicologia 
+A Psicologia é uma ciência que estuda o comportamento em sua 
+totalidade. Inclui-se dentre outros aspectos estudados por essa 
+ciência os processos intelectuais/cognitivos e emocionais. Esse 
+estudo se desenvolve em conformidade com um modelo científico 
+estabelecido pela ciência moderna, implantada com a transição da 
+filosofia natural da Antiguidade para o método científico atual. A 
+Psicologia, a exemplo do que ocorreu com as demais ciências humanas, 
+nasceu dos conhecimentos filosóficos que buscavam explicar os 
+fenômenos do universo e a própria natureza humana. Dessa forma a 
+ciência psicológica emerge de duas tradições: a filosofia e as 
+ciências sociais.  A psicologia não existia como disciplina 
+cientifica, e apenas em uma época muito recente, final do século 
+XIX, surgiu o conceito de ciência tal como hoje é de uso corrente.
+
+O primeiro indício da Psicologia como campo distinto de pesquisa foi 
+a adoção do método cientifico como um recurso na tentativa de 
+resolver problemas psicológicos. Nesse fazer em moldes científico 
+diversas afirmações formais contribuíram para que a psicologia 
+começasse a florescer e conquistar o status de ciência. Com isto 
+surgem diferentes posturas de investigação científica, estas 
+posturas são consideradas como abordagens - escolas ou correntes - 
+da Psicologia.
+
+Ao abordarmos a construção histórico-filosófica do conhecimento 
+psicológico é importante esclarecer que não conseguimos 
+estabelecer relações exatas de correspondência entre as diversas 
+teorias psicológicas existentes e os pressupostos filosóficos a 
+elas subjacentes. Também é pertinente sinalizar que não há uma 
+linearidade na história da Psicologia, visto que a diversidade 
+teórica que se instalou neste campo do conhecimento, quase que 
+simultaneamente, não permite falar de evolução de uma para outra 
+teoria, mas de oscilações entre uma e outra teoria, em conformidade 
+com a sua base epistemológica e com o contexto sociocultural do 
+lugar de onde emergiram.
+
+[NOTE]
+Na tentativa de consolidação científica dos conhecimentos acerca do
+comportamento humano em seus diversos aspectos, estudiosos
+desenvolveram formatos investigativos diferentes que deram origem as
+primeiras abordagens -- escolas ou correntes -- da Psicologia: o
+funcionalismo, o estruturalismo e o associacionismo.
+
+O Funcionalismo:: Considerada a primeira sistematização da 
+psicologia foi desenvolvida por William James no contexto da 
+sociedade americana do século XIX - marcada pela exigência de 
+pragmatismo para o desenvolvimento econômico – para essa abordagem 
+a consciência era o centro das preocupações e se buscava 
+compreender seu funcionamento na medida em que o homem a usa em suas 
+atividades adaptativas ao meio.
+
+Estruturalismo:: Essa escola foi iniciada por Wilhelm Wundt (1879), 
+considerado o fundador da psicologia cientifica e dessa corrente 
+denominada de estruturalista, que definia a psicologia como a 
+ciência da consciência. Apesar de iniciada por Wundt foi seu 
+seguidor Titchener quem usou o termo estruturalismo pela primeira 
+vez, diferenciando-o do Funcionalismo. Para os seguidores desta 
+corrente, as operações mentais resultam da organização de 
+sensações elementares que se relacionam com a estrutura do sistema 
+nervoso. Wundt é considerado o fundador da Psicologia como ciência 
+também por ter criado o primeiro laboratório para realizar 
+experimentos na área de psicofisiologia.
+
+Associacionismo:: Teve como principal representante Edward L. 
+Thorndike por ter sido o formulador da primeira teoria da 
+aprendizagem na Psicologia. Ele formulou a Lei do Efeito que foi 
+fundamental à Teoria Psicológica Comportamentalista. O termo 
+associacionismo refere-se à concepção de que a aprendizagem ocorre 
+por associação de ideias – das mais simples às mais complexas.
+
+A grande importância de conhecermos as três abordagens acima reside 
+no fato que elas foram precursoras das Teorias Psicológicas do 
+Desenvolvimento e Aprendizagem que breve iremos estudá-las.
+
+=== Psicologia da Educação
+
+A Psicologia da Educação utiliza princípios e informações que as 
+pesquisas psicológicas oferecem acerca do comportamento humano, para 
+tornar mais eficiente o processo ensino aprendizagem, constituindo-se 
+em um ramo da Ciência Psicologia e tem por objeto de estudo todos os 
+aspectos das situações da educação, sob a ótica psicológica, 
+dos quais derivam princípios, modelos, teorias e procedimentos de 
+ensino assim como métodos práticos de instrução e avaliação. E 
+por fim, estuda as relações existentes entre as situações 
+educacionais e os diferentes fatores que as determinam.
+
+A partir do que já foi colocado podemos entender que a 
+contribuição da Psicologia da Educação à formação do educador 
+se faz por oferecer elementos possibilitadores da compreensão do 
+aprendente e do processo ensino-aprendizagem. Compreender o 
+aprendente em suas características individuais e seu desenvolvimento 
+nos aspectos físico, emocional, intelectual e social é 
+pré-requisito para obtenção de êxito na atividade de ensino. O 
+ser aprendente não é um ser ideal, abstrato, é uma pessoa concreta 
+que tem necessidades, preocupações, interesses, desejos, 
+especificidades e que delas dependem a efetivação de aprendizagens. 
+O ramo da Psicologia que ora estudamos é indispensável para que o 
+professor tenha condições de compreender seus aprendentes e 
+desenvolver um trabalho mais eficiente. No percurso histórico vivido 
+pela nossa educação observamos que houve uma tendência a se dar 
+mais importância ao aspecto intelectual que aos outros aspectos e 
+sabemos que o desempenho intelectual pode ser prejudicado se não 
+houver o desenvolvimento concomitante dos outros aspectos.
+
+Para o professor, não é suficiente conhecer o aluno. É necessário 
+que ele saiba como funciona o processo de aprendizagem, quais os 
+fatores, envolvendo o aluno, o professor e a dinâmica de sala de 
+aula que facilitam ou prejudicam a aprendizagem. E ainda, para que o 
+professor consiga realizar satisfatoriamente seu trabalho é de 
+fundamental importância a compreensão do papel do professor. Diante 
+de tudo isso, podemos ver que o trabalho educativo não é tão 
+simples quanto se possa imaginar. E embora o conhecimento da 
+Psicologia da Educação não seja garantia de bom ensino, pode 
+ajudar o professor a desempenhar suas funções de maneira mais 
+satisfatória para ele e para os aprendentes, visto que essa ciência 
+procura estudar e explicar como a aprendizagem se desdobra sob a 
+ação de inúmeros fatores.
+
+=== Referências do Capítulo
+
+BOCK, Ana Mercês Bahia. Psicologias: uma introdução ao estudo de 
+psicologia. 14. Ed. São Paulo: Saraiva, 2008.
+
+PILETTI, Nelson. Psicologia Educacional, 17ª ed. Ática. São 
+Paulo, SP. 2006. 
+
+ANALISANDO E REFLETINDO...
+
+A) Em que momento ocorre a relação entre psicologia e 
+investigação científica?
+B) Como se definiram as primeiras correntes psicológicas?
+
+
+SUGESTÃO DE VÍDEO: http://www.youtube.com/watch?v=AAJPwZ0Csr0
