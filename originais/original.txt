@@ -1,0 +1,861 @@
+﻿
+CAPÍTULO 1
+
+NOÇÕES INTRODUTÓRIAS DA PSICOLOGIA E SUA APLICAÇÃO À EDUCAÇÃO
+
+
+No nosso componente curricular e de forma inicial nesse texto, abordaremos alguns conceitos imprescindíveis a Fundamentos da Psicologia da Educação. Trataremos dos fundamentos necessários à compreensão do ser aprendente e do processo ensino aprendizagem como um todo. Esse material pretende oferecer elementos para uma formação de professores de computação conhecedores dos aspectos psicológicos essenciais ao desenvolvimento do educando e de suas aprendizagens. A construção desses conhecimentos se dará não só pelo que esse escrito oferece, mas, também pela interação virtual indispensável de aluno/equipe docente, e por intermédio de diversos recursos educativos dentre eles: textos, pesquisas, reflexões individuais e coletivas -- desenvolvidas sobre as bases da interação virtual entre aprendentes e equipe docente que estará sempre pronta para atender às demandas dos seus aprendentes. 
+
+FUNDAMENTAÇÃO TEÓRICA
+A fundamentação teórica da disciplina volta-se para a compreensão da importância do estudo da Psicologia na formação do educador e será tratada a partir dos seguintes pontos: conceituação da Psicologia como ciência; da especificidade da aplicação dos saberes dessa ciência à prática do professor. Para esse trabalho teremos uma carga horária de 60 horas e precisamos aproveita-la ao máximo tendo em vista que esse tempo é pouco para conhecermos a riqueza teórica dessa ciência e possibilidades de contribuição para o exercício da docência. Portanto, convido-os ao deleite de saborear o agradável sabor de conhecer um pouco acerca do humano, de suas possibilidades, limitações e necessidades, sobretudo, as necessidades educacionais. 
+PORQUE ESTUDAR PSICOLOGIA NO CURSO DE LICENCIATURA EM COMPUTAÇÃO?
+
+
+
+Inicialmente devemos considerar que escolhemos um curso de licenciatura que imprescinde de conhecimentos acerca do humano. Assim, o estudo da Psicologia é fundamental para todos que fazem opção pela carreira do magistério. Enquanto componente curricular contempla parte dos fundamentos da formação pedagógica possibilitadores da compreensão dos processos de desenvolvimento e aprendizagem do ser aprendente. Tal conhecimento contribui para o êxito no desenvolvimento do processo ensino-aprendizagem. E ainda, devemos reconhecer que conhecimentos oriundos da Psicologia contribuem para formação do professor, para o desenvolvimento de habilidades e competências, além de atitudes e valores vitais à prática docente bem sucedida. Visto que ela oferece elementos teóricos oportunizadores do desenvolvimento da capacidade do professor investigar a própria atividade e a partir disso redimensionar seus saberes-fazeres. Por fim, vendo a construção do conhecimento como o maior objetivo da educação, entendemos que todas as ações devem estar comprometidas com a eficácia do processo ensino aprendizagem. Assim, reconhecemos que com a ajuda da Psicologia podemos buscar respostas a algumas das questões dos educadores, a exemplo de: 
+
+
+
+
+
+
+
+
+CONCEITUAÇÃO DA PSICOLOGIA 
+ 	
+A Psicologia é uma ciência que estuda o comportamento em sua totalidade. Inclui-se dentre outros aspectos estudados por essa ciência os processos intelectuais/cognitivos e emocionais. Esse estudo se desenvolve em conformidade com um modelo científico estabelecido pela ciência moderna, implantada com a transição da filosofia natural da Antiguidade para o método científico atual. A Psicologia, a exemplo do que ocorreu com as demais ciências humanas, nasceu dos conhecimentos filosóficos que buscavam explicar os fenômenos do universo e a própria natureza humana. Dessa forma a ciência psicológica emerge de duas tradições: a filosofia e as ciências sociais.  A psicologia não existia como disciplina cientifica, e apenas em uma época muito recente, final do século XIX, surgiu o conceito de ciência tal como hoje é de uso corrente.
+O primeiro indício da Psicologia como campo distinto de pesquisa foi a adoção do método cientifico como um recurso na tentativa de resolver problemas psicológicos. Nesse fazer em moldes científico diversas afirmações formais contribuíram para que a psicologia começasse a florescer e conquistar o status de ciência. Com isto surgem diferentes posturas de investigação científica, estas posturas são consideradas como abordagens -- escolas ou correntes -- da Psicologia.
+ Ao abordarmos a construção histórico-filosófica do conhecimento psicológico é importante esclarecer que não conseguimos estabelecer relações exatas de correspondência entre as diversas teorias psicológicas existentes e os pressupostos filosóficos a elas subjacentes. Também é pertinente sinalizar que não há uma linearidade na história da Psicologia, visto que a diversidade teórica que se instalou neste campo do conhecimento, quase que simultaneamente, não permite falar de evolução de uma para outra teoria, mas de oscilações entre uma e outra teoria, em conformidade com a sua base epistemológica e com o contexto sociocultural do lugar de onde emergiram.
+
+
+O Funcionalismo: Considerada a primeira sistematização da psicologia foi desenvolvida por William James no contexto da sociedade americana do século XIX -- marcada pela exigência de pragmatismo para o desenvolvimento econômico -- para essa abordagem a consciência era o centro das preocupações e se buscava compreender seu funcionamento na medida em que o homem a usa em suas atividades adaptativas ao meio.
+ 
+Estruturalismo: Essa escola foi iniciada por Wilhelm Wundt (1879), considerado o fundador da psicologia cientifica e dessa corrente denominada de estruturalista, que definia a psicologia como a ciência da consciência. Apesar de iniciada por Wundt foi seu seguidor Titchener quem usou o termo estruturalismo pela primeira vez, diferenciando-o do Funcionalismo. Para os seguidores desta corrente, as operações mentais resultam da organização de sensações elementares que se relacionam com a estrutura do sistema nervoso. Wundt é considerado o fundador da Psicologia como ciência também por ter criado o primeiro laboratório para realizar experimentos na área de psicofisiologia.
+
+ Associacionismo: Teve como principal representante Edward L. Thorndike por ter sido o formulador da primeira teoria da aprendizagem na Psicologia. Ele formulou a Lei do Efeito que foi fundamental à Teoria Psicológica Comportamentalista. O termo associacionismo refere-se à concepção de que a aprendizagem ocorre por associação de ideias -- das mais simples às mais complexas.
+A grande importância de conhecermos as três abordagens acima reside no fato que elas foram precursoras das Teorias Psicológicas do Desenvolvimento e Aprendizagem que breve iremos estudá-las.
+
+
+                          PSICOLOGIA DA EDUCAÇÃO
+
+     
+  	A Psicologia da Educação utiliza princípios e informações que as pesquisas psicológicas oferecem acerca do comportamento humano, para tornar mais eficiente o processo ensino aprendizagem, constituindo-se em um ramo da Ciência Psicologia e tem por objeto de estudo todos os aspectos das situações da educação, sob a ótica psicológica, dos quais derivam princípios, modelos, teorias e procedimentos de ensino assim como métodos práticos de instrução e avaliação. E por fim, estuda as relações existentes entre as situações educacionais e os diferentes fatores que as determinam.
+A partir do que já foi colocado podemos entender que a contribuição da Psicologia da Educação à formação do educador se faz por oferecer elementos possibilitadores da compreensão do aprendente e do processo ensino-aprendizagem. Compreender o aprendente em suas características individuais e seu desenvolvimento nos aspectos físico, emocional, intelectual e social é pré-requisito para obtenção de êxito na atividade de ensino. O ser aprendente não é um ser ideal, abstrato, é uma pessoa concreta que tem necessidades, preocupações, interesses, desejos, especificidades e que delas dependem a efetivação de aprendizagens. O ramo da Psicologia que ora estudamos é indispensável para que o professor tenha condições de compreender seus aprendentes e desenvolver um trabalho mais eficiente. No percurso histórico vivido pela nossa educação observamos que houve uma tendência a se dar mais importância ao aspecto intelectual que aos outros aspectos e sabemos que o desempenho intelectual pode ser prejudicado se não houver o desenvolvimento concomitante dos outros aspectos.
+Para o professor, não é suficiente conhecer o aluno. É necessário que ele saiba como funciona o processo de aprendizagem, quais os fatores, envolvendo o aluno, o professor e a dinâmica de sala de aula que facilitam ou prejudicam a aprendizagem. E ainda, para que o professor consiga realizar satisfatoriamente seu trabalho é de fundamental importância a compreensão do papel do professor. Diante de tudo isso, podemos ver que o trabalho educativo não é tão simples quanto se possa imaginar. E embora o conhecimento da Psicologia da Educação não seja garantia de bom ensino, pode ajudar o professor a desempenhar suas funções de maneira mais satisfatória para ele e para os aprendentes, visto que essa ciência procura estudar e explicar como a aprendizagem se desdobra sob a ação de inúmeros fatores.
+                          
+                          REFERÊNCIAS
+
+
+BOCK, Ana Mercês Bahia. Psicologias: uma introdução ao estudo de psicologia. 14. Ed. São Paulo: Saraiva, 2008.
+
+PILETTI, Nelson. Psicologia Educacional, 17ª ed. Ática. São Paulo, SP. 2006. 
+
+
+                         
+                     ANALISANDO E REFLETINDO...
+
+A) Em que momento ocorre a relação entre psicologia e investigação científica?
+B) Como se definiram as primeiras correntes psicológicas?
+
+
+
+
+
+
+
+
+
+
+
+
+== TEORIAS PSICOLÓGICAS CONTEMPORÂNEAS DO DESENVOLVIMENTO E APRENDIZAGEM
+
+
+
+A Psicologia do Desenvolvimento expressa nos dias atuais uma complexa rede de significações a respeito das mudanças pelas quais passam os indivíduos humanos, da concepção à morte. Em toda história do ser humano a busca por compreender e explicar o mundo em que se vive sempre esteve presente. A forma como o conhecimento foi se constituindo ao longo de nossa história apresenta diferenças significativas, desde o momento áureo na antiguidade entre os gregos até a contemporaneidade -- nossos dias.
+Temos em Descartes a inauguração do formato de pensamento moderno e que por sua vez abriu caminho para o pensamento contemporâneo. As ideias cartesianas enfatizam o método como um imperativo para a organização do conhecimento. O método cartesiano é analítico, propõe a decomposição dos problemas de pesquisa em partes constitutivas como caminho metodológico para organização lógica do conhecimento. A partir da proposição metodológica cartesiana a decomposição dos problemas de estudo passou a ser característica principal da ciência moderna.
+Além do destaque dado ao método, Descartes defende a existência de três substâncias: Uma pensante (a alma); uma material (o corpo); e uma substância infinita (Deus). Essa tricotomia cartesiana foi definidora dos rumos do desenvolvimento das ciências -- dentre elas a Psicologia e a educação -- até os nossos dias. Esse filósofo, físico e matemático francês leva a ciência moderna a adotar o mundo da realidade quantitativa que minimiza a qualidade transformando-a em quantidade.
+	O racionalismo pressupõe que o conhecimento é reduzido à razão. O conhecimento verdadeiro se chega pela razão e esse é gerado pelo homem de dentro para fora. Nessa perspectiva o conhecimento é anterior à experiência e está sujeita a uma programação inata. O empirismo considera que o conhecimento surge dos fatos e acontecimentos do mundo, nega a intuição intelectual colocando o conhecimento relacionado ao plano sensível ou empírico. Nessa concepção o conhecimento se constitui a partir das estimulações ambientais, portanto, de fora para dentro.
+O racionalismo e o empirismo constituem em eixos epistemológicos a partir dos quais as principais teorias psicológicas do século passado se desenvolveram. Também subsidiam, juntamente com o criticismo kantiano, o idealismo e o materialismo histórico e dialético, as principais teorias psicológicas do desenvolvimento e aprendizagem na contemporaneidade.
+
+____
+Com Descartes o mecanicismo do universo torna-se o paradigma dominante da ciência moderna. As plantas e os animais, como não possuíam alma, de acordo com Descartes, passaram a ser considerados como sendo "simples máquinas" e, portanto, possíveis de serem conhecidos através do mesmo método aplicado aos objetos. 
+
+A alma, entretanto, deveria ser estudada de maneira diferente do estudo do mundo dos objetos, das plantas e dos animais. Enquanto o conhecimento do meio ambiente galgou os caminhos abertos pela experimentação, iniciando a constituição das ciências da natureza, o conhecimento sobre a alma do homem ainda estava na dependência absoluta dos sistemas filosóficos. 
+	
+A partir das ideias cartesianas, dois grandes sistemas filosóficos vão se desenvolvendo -- o racionalismo e o empirismo -- que, por mais divergentes que fossem, visavam, ambos, libertar o homem da tutela das Escrituras Sagradas e fundamentar novas perspectivas de construção do conhecimento em uma nova ordem social, que já estava causando a desintegração do mundo medieval. Tais sistemas filosóficos são definidores dos pressupostos epistemológicos de muitas das teorias psicológicas no mundo contemporâneo.
+____
+
+=== TEORIAS PSICOLÓGICAS DO DESENVOLVIMENTO E APRENDIZAGEM: UMA TESSITURA CONTEMPORÂNEA
+		
+	A seguir faremos a caracterização das Teorias que vigoram no cenário teórico da psicologia contemporânea: Teorias maturacionais, Teorias comportamentistas, Teorias de campo, Teorias psicanalíticas e neopsicanalíticas, Teorias fenomenológicas e humanistas e, por fim, Teorias psicogenéticas. Compreende-las é imprescindível à formação do educador sob o ponto de vista de apreensão de fundamentos psicológicos para a educação que possibilitem uma formação de qualidade. Conhecer as diversas perspectivas teóricas da psicologia acerca do desenvolvimento e aprendizagem nos credencia a compreender o processo ensino-aprendizagem, e assim desenvolver a docência com clareza e eficácia. Sobre cada uma das teorias evidenciaremos a base epistemológica a que pertencem os teóricos representantes, as proposições teóricas e a contribuição dada aos conhecimentos acerca do desenvolvimento e aprendizagem.
+
+
+=== Teorias Maturacionais
+De base epistemológica racionalista tem como principais representantes Arnold Gesell, Francis Galton, Cattell, Stanley Hall e Alfred Binet. Essa teoria tem como propositura que as características fundamentais de qualquer organismo vivo estão programadas em sua constituição genética e enraizadas em processos biológicos, significando que há uma sequência ordenada no desenvolvimento do comportamento humano. Para os teóricos maturacionistas o desenvolvimento e aprendizagem se dão por determinantes genéticos e maturacionais.
+A principal contribuição dessa teoria para o conhecimento acerca das questões do desenvolvimento e aprendizagem se deu, sobretudo nas décadas de 30, 40 e 50, com os estudos normativos, nos quais o ritmo e as sequências previsíveis do desenvolvimento infantil eram caracterizados.
+
+____
+Para Arnold Gesell, um dos pioneiros acerca da teoria maturacional, o desenvolvimento é um desdobramento natural de um plano biológico, em que a experiência não interessa.
+
+Gesell incentiva os pais a deixarem as crianças desenvolverem-se sozinhas, sem ajuda. Pois acredita que sem ajuda dos adultos, comportamentos como falar, brincar e raciocinar surgiriam com a naturalidade da idade.
+
+Sendo operacional Gesell é responsável pela produção de escalas de desenvolvimento. Estas escalas estão dividas em 4 dimensões que são: motora, verbal, adaptativa e social fazendo parte da teoria da maturação.
+
+Outra teoria da perspectiva biológica é a teoria etológica. Esta é referente a uma perspectiva evolucionista e defende que, muitos comportamentos das crianças, são da adaptação para sobreviver. Exemplos desses comportamentos como abraçar, chorar e agarrar que tem como objetivo a de aliciarem os cuidados dos adultos.
+
+
+
+
+
+
+
+
+
+
+
+
+Figura Gesell em observação e registro
+(Foto de Cushing / Whitney Medical Library)
+____
+
+=== Teorias Comportamentistas
+A base epistemológica dessa teoria é o empirismo. Seus principais representantes são John Watson, Skinner e outros. Essa posição teórica defende que todo conhecimento provém da experiência (pedra angular das teorias comportamentistas). Propõe como ideal de objetividade a utilização de uma metodologia experimental e rompe com o objeto tradicional da Psicologia, a alma, o espírito, a consciência, os fenômenos psíquicos. Para os representantes dessa teoria o objeto de estudo é o comportamento ou as reações observáveis de um organismo através de respostas a estímulos do meio ambiente, também observáveis. Essa perspectiva tem a crença na possibilidade do controle objetivo do estímulo do meio ambiente na determinação de respostas do indivíduo a tais estímulos, ou seja, crença na possibilidade de manipulação do comportamento humano. Assim, todo e qualquer comportamento pode ser previsto. Na prática o comportamento humano é fracionado em seus elementos constituintes, em estímulos e respostas (E -- R).
+A contribuição dessa teoria, ao possibilitar a medida e avaliação quantitativa dos fenômenos de estudo (o comportamento humano), foi fundamental para o campo do saber da psicologia se firmasse no cenário científico. A possibilidade de quantificação do comportamento humano permitiu à psicologia o uso do método cientifico estabelecido pala ciência na modernidade e assim, a Psicologia adquire o status de ciências. E por fim, essa teoria colabora, de alguma forma, com a possibilidade de compreender os processos de desenvolvimento e aprendizagem humanos com ênfase na natureza social do homem.
+
+____
+Skinner defendia um sistema empírico (conhecimento derivado de experiências cotidianas, que provém de tentativas, erros e acertos) sem estrutura teórica para a condução de uma pesquisa. 
+
+A visão de Skinner era resumida da seguinte forma: "Nunca ataquei um problema construindo uma hipótese. Jamais deduzi teoremas, nem os submeti a verificação experimental. Até onde consigo enxergar, não tenho nenhum modelo preconcebido de comportamento e, certamente, nem fisiológico nem mentalista e, creio, nem conceitual" 
+
+Skinner aceitava a existência das condições fisiológicas internas ou mentais, apenas não concordava a sua validade no estudo científico do comportamento. Um biógrafo reiterou que a posição de Skinner "não era uma negação dos eventos mentais, mas uma recusa em classificá-los como entidades explicativas" (Riuchelle,1993, p. 10). 
+
+figura Burrhus Skinner
+
+Burrhus Skinner em ação
+(condicionamento operante de animais)
+Fonte:http://webspace.ship.edu/cgboer/genpsylearning.html
+____
+
+=== Teorias de Campo
+De base racionalista e idealista essa teoria tem como principais representantes Wertheimer (1880-1943), Köhler (1887-1967), Koffka (1886-1941) e Kurt Lewin (1890-1947) e apresentam como proposição A Psicologia da Gestalt ou Psicologia da Forma, principal representante deste grupo de teorias. Essa posição teórica representa forte reação à psicologia elementarista, que explica o comportamento mediante o seu fracionamento em estímulos e respostas por entender e defender cientificamente que os comportamentos e as experiências não são fracionáveis. O todo não é a soma das partes. A associação dos elementos não se constitui num mero processo aditivo, mas há também a ocorrência da ``síntese integradora'', irredutível às partes constituintes. Os teóricos gestaltistas procuravam descrever e compreender os fenômenos a partir da observação da experiência dos sujeitos, evitando a idiossincrasia. Procuravam encontrar leis gerais explicativas, sem, contudo reduzir o todo às partes. Buscavam organizações universais nos campos perceptivos dos indivíduos. Esta universalidade é que possibilitava, de acordo com o positivismo, um discurso verdadeiramente científico.
+O ser humano é dotado de estruturas pré-formadas que determinam e condicionam todas as suas experiências perceptuais em uma totalidade do ser.
+A principal contribuição dessa teoria reside no fato de atribuir importância à percepção no processo de conhecimento. Enfatiza as diferenças individuais e a maturação das funções cognitivas, fundamentando a organização do material didático segundo as leis da percepção e importância da significação de conteúdos e experiências para os alunos.
+
+[NOTE]
+A Psicologia do Gestalt surge na Alemanha, no ano de 1912. 
+Por isso, também é conhecida como Escola de Berlim. Surgiu com o objetivo de questionar a psicologia americana.
+
+Ernst Mach (1838-1916), físico, e Chrinstiam von Ehrenfels (1859-1932), filósofo e psicólogo, desenvolviam uma psicofísica com estudos sobre as sensações (o dado psicológico) de espaço-forma e tempo-forma (o dado físico) e podem ser considerados como os mais diretos antecessores da Psicologia da Gestalt. Max Wertheimer, Wolfgang Köhler e Kurt Koffka, baseados nos estudos psicofísicos que relacionaram a forma e sua percepção, construíram as bases de uma teoria eminentemente psicológica. Eles iniciaram seus estudos pela percepção e sensação do movimento.
+
+Os Gestaltistas estavam preocupados em compreender quais os processos psicológicos envolvidos na ilusão de ótica, quando o estímulo físico é percebido pelo sujeito com uma forma diferente do que ele é na realidade.
+
+
+
+
+
+Figura cubo
+Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
+
+=== Teorias Psicanalítícas e Neopsicanalíticas
+
+A base epistemológica dessa teoria é a dialética, que constitui uma síntese entre o racionalismo e o empirismo. Freud (1856-1939), médico psiquiatra vienense, é o fundador da teoria psicanalítica que serve de base para o surgimento das teorias neopsicanalíticas desenvolvidas por teóricos tais como Eric Erikson (1950), Margareth Mahler (1977), Spitz (1954) dentre outros. Freud ao colocar em dúvida a abordagem organicista da psiquiatria do seu tempo, desenvolve uma abordagem psicológica para estudo das doenças mentais em que, mesmo usando o modelo cartesiano de ciência contrapõe-se aos racionalistas acerca a razão humana. Na visão freudiana o homem é grandemente comandado pelo inconsciente. Racionalidade (consciente) e irracionalidade (inconsciente) não se opõem, constituem as bases dialéticas de um único processo: o da formação da personalidade.
+As proposituras freudianas tem enorme relevância na constituição da Psicologia científica. Dentre as contribuições que oferece podemos destacar o resgate da subjetividade -- enquanto objeto de estudo da psicologia -- que foi abandonada na transição do saber psicológico, da filosofia, para o campo cientifico estabelecido pela modernidade. Assim, a partir de Sigmund Freud inaugura-se a possibilidade de estudar a subjetividade (dimensão humana essencial) atendendo ao rigor do método científico.
+A contribuição desse arsenal teórico à educação encontra-se, principalmente na definição que paz do papel da escola: ajudar o aluno a equilibrar as exigências instintivas, proibitivas e da realidade. Educar é procurar fazer com que as pessoas atuem e pensem de modo mais racional e mais prazeroso.
+
+=== Teorias Fenomenológicas e Humanistas
+É difícil precisar a filiação epistemológica para o grupo de teorias fenomenológicas e humanistas. Podemos considerá-la relacionada com o criticismo Kantiano e com seus desdobramentos através do idealismo e da fenomenologia. Como representantes dessas teorias, citamos: Maslow (1972), Rogers (1975) e Comb (1975).
+	Postula uma consciência a priori intencional, uma consciência constituída pela relação sujeito-objeto, em que o sujeito individual é a origem e o fim do conhecimento.  A compreensão do humano se dá para além da visão mecanicista ou racionalista, mas como um ser que dirige e avança a partir de suas experiências e valores perspectivadores do próprio bem estar e realização pessoal.
+	Para as Teorias fenomenológicas Humanistas o passado de uma pessoa e o seu organismo biológico não determinam seu modo de viver, o jeito de ser no mundo está relacionado com a percepção da realidade (fenômeno). O papel da Psicologia, e por extensão, da educação passam a ser: promover possibilidades de visualização dos fenômenos humanos e si mesmo e alternativas de avanço.
+	A contribuição dessa sistematização teórica refere-se ao avanço que impacta no pensamento científico acerca do humano, oferecendo uma alternativa ao reducionismo behaviorista -- que coloca o comportamento humano como sendo respostas a estímulos -- e reagindo à irracionalidade psicanalítica -- que postula o inconsciente como mola mestra das manifestações humanas.
+	A principal contribuição para a educação refere-se á defesa de uma aprendizagem significante, não circunscrita à acumulação de informações, mas que provoque reorganização dos valores e atitudes na vida do ser em todos os seus aspectos: emocionais, cognitivos, sociais e físicos, dentre outros. Para tanto a aprendizagem deve ser auto iniciada pelo aluno a partir de seus interesses e objetivos, processo no qual o professor é um facilitador e não apenas um planejador curricular, ou mero usuário de livros e outros recursos, ou elaborador de provas e atribuidor de notas. 
+	O que implica dizer que ``o professor deixe o aluno livre para aprender, para escolher o seu próprio curso de ações; que o professor tenha uma confiança básica de que o aluno é digno e merecedor de oportunidades para o seu desenvolvimento; que o professor tenha compreensão empática, ou seja, que consiga colocar-se no lugar do estudante.'' COUTINHO (1999).
+
+Psicólogo norte-americano, Abraham Maslow  foi o criador da hierarquia de necessidades, conhecida como a ``Pirâmide de Maslow''. Nasceu no Brooklin, Nova York, em 1° de abril de 1908. Seus pais eram semi-analfabetos, mas como a família sonhava em ter um filho advogado, ingressou na faculdade de Direito de Nova York.
+
+Insatisfeito, largou o curso e transferiu seus estudos para a Universidade de Cornell. Casou-se a contragosto com sua prima, logo mudou-se para Wisconsin, onde conheceu o estudioso Harry Harlow, responsável pelos estudos a respeito do comportamento de filhotes de macacos.
+Esse contato despertou o interesse de Maslow pela psicologia. 
+
+Tornou-se, na área acadêmica psicológica, barachel em 1930, mestre em 1931 e doutor pela Universidade de Wisconsin em 1934.
+
+No ano seguinte, retornou a Nova York, e começou a trabalhar na Universidade de Columbia e a lecionar na Universidade do Brooklin, onde conheceu importante grupos de psicólogos. Passou a se dedicar aos estudos da motivação humana e das hierarquias da necessidade do indivíduo.
+
+
+
+
+
+Figura piramede
+
+
+
+Na psicologia, defendeu a ideia de que as necessidades fisiológicas devem ser saciadas para que  posteriormente sejam saciadas as necessidades de segurança, e na ordem as sociais, de autoestima e a auto-realização, etapa final da felicidade do ser humano.
+
+Fonte: http://www.infoescola.com/biografias/abraham-maslow/
+=== Teorias Psicogenéticas
+
+De base dialética, essas teorias, representadas por Jean Piaget (1896-1980), Vygotsky (1896-1934), Leontiev (1903-1979), Luria (1902-1977) e Wallon (1879-1962), chamados teóricos interacionistas, entendem a gênese do comportamento humano na perspectiva interacionista, em que sujeito e objeto interagem em um processo que constrói e reconstrói estruturas cognitivas.
+A principal contribuição dessas teorias à educação está na possibilidade de visualizar o sujeito na sua totalidade, compreendendo-o nos processos subjacentes a interação sujeito objeto, em que a escola tem o papel de desenvolver o pensamento/capacidade de analisar do aluno.
+	Após realizar o estudo dessas teorias é importante considerar a relevância do mesmo para nossa formação docente. Bem como buscar identificar a perspectiva teórica subjacente na prática de cada professor. Pois cada um de nós revela, na forma de conduzir a prática docente, a teoria implícita em nossas crenças em nossa forma de fazer a leitura de homem e de mundo/sociedade e de educação.
+                                             
+Segundo Vygotsky, o desenvolvimento cognitivo do aluno se dá por meio da interação social, ou seja, de sua interação com outros indivíduos e com o meio e aprendizagem é uma experiência social, mediada pela utilização de instrumentos e signos, de acordo com os conceitos utilizados pelo próprio autor.
+ 
+A aprendizagem seria uma experiência social, a qual é mediada pela interação entre a linguagem e a ação. Sendo assim, o professor deve mediar a aprendizagem utilizando estratégias que levem o aluno a tornar-se independente.
+Sua orientação deve possibilitar a criação de ambientes de participação, colaboração e constantes desafios.
+
+Essa teoria mostra-se adequada para atividades colaborativas e troca de ideias, como os modelos atuais de fóruns e chats. 
+
+Piaget sustenta que a gênese do conhecimento está no próprio sujeito, ou seja, o pensamento lógico não é inato ou tampouco externo ao organismo, mas é fundamentalmente construído na interação homem-objeto. Quer dizer, o desenvolvimento da filogenia humana se dá através de um mecanismo auto regulatório que tem como base um 'kit' de condições biológicas (inatas, portanto), que é ativado pela ação e interação do organismo com o meio ambiente -- físico e social, tanto a experiência sensorial quanto o raciocínio são fundantes do processo de constituição da inteligência, ou do pensamento lógico do homem. 
+
+
+
+
+
+
+
+
+Fig quadro
+
+
+                             === REFERÊNCIAS
+
+COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da Educação: um estudo dos processos psicológicos de desenvolvimento e aprendizagem humanos, voltado para a educação*. Belo Horizonte: Lê, 1999.
+
+BOCK, Ana Mercês Bahia. *Psicologias: uma introdução ao estudo de psicologia*. 14. Ed. São Paulo: Saraiva, 2008.
+
+=== ANALISANDO E REFLETINDO
+
+A. . Quais seriam as bases filosóficas da psicologia?
+B. . Qual a importância da tricotomia cartesiana para os estudos acerca do conhecimento humano?
+C. . Complete o quadro abaixo destacando a contribuição de cada teoria psicológica do desenvolvimento e aprendizagem no campo da educação.
+
+
+
+
+
+
+
+
+
+
+
+
+== O ESTUDO DO DESENVOLVIMENTO HUMANO
+
+
+Abordaremos aqui as noções gerais acerca da Psicologia do Desenvolvimento e a contribuição que esse campo do saber oferece aos profissionais da educação possibilitando tornar mais eficaz o cumprimento do exercício profissional. Compreender os fatores múltiplos que influenciam no desenvolvimento e na vida humana é de extrema necessidade a todos que lidam com a dimensão humana. Um físico, engenheiro, médico, enfermeiro, assistente social administrador ou profissional de qualquer outra área relacionada com o ser humano enfrentará as repercussões de uma formação defeituosa em seu curso de graduação sem a consciência do papel da psicologia, quando se trata de oferecer contribuições científicas ou técnicas para qualquer área que envolve o homem.
+
+A Psicologia do Desenvolvimento é o estudo sistemático do desenvolvimento do ser em todos os aspectos desde a formação, no momento da fecundação ou anterior a ela, até o envelhecimento ou estágio final da vida. Ela se ocupa da compreensão do comportamento humano em que se considera a contínua interação entre fatores passados e presentes, entre configurações hereditárias integradoras das estruturas e funções neurofisiológicas, experiências de aprendizagem e contexto sócio-histórico-cultural em que se desenvolve. Assim, essa área de conhecimento da Psicologia se constitui numa dimensão charneira entre a genética, a neurologia, a sociologia e outros campos do saber, o que a torna com alta complexidade e conduz o estudo do desenvolvimento do humano da concepção até a morte numa perspectiva interdisciplinar. Dessa forma, reconhecemos que mesmo se tratando da mesma espécie, os seres humanos diferem em seu patrimônio hereditário e contexto sociocultural e assim se constituem pessoas com evidentes diferenças individuais e complexidade do comportamento humano.
+
+Compreendemos que o desenvolvimento humano é um processo longo e gradual de mudanças em que cada pessoa, ao seu tempo e no seu jeito de ser no mundo, dá sentido ao que vive. Assim, o passado, presente e futuro constituem demarcações individuais do existir. A vida e valores e características de uma pessoa se configuram em um determinado contexto histórico. Afinal, além da dimensão individual o tempo tem também uma dimensão social.
+
+Igm escada
+
+=== OBJETIVOS DA PSICOLOGIA DO DESENVOLVIMENTO
+
+Consideramos que a Psicologia do Desenvolvimento persegue três objetivos em que o primeiro deles volta-se para a identificação da gênese dos comportamentos psicomotores, afetivos, cognitivos e sociais e seus impactos ao longo da vida. O segundo refere-se ao reconhecimento dos fatores, mecanismos e processos responsáveis pelo surgimento dos comportamentos e suas mudanças. O terceiro corresponde ao estabelecimento de fases ou estágios no desenvolvimento, em que se considera como um período de tempo no qual o ciclo vital apresenta uma configuração particular de características físicas, emocionais sociais e intelectuais.
+
+
+=== BREVE HISTÓRICO DA PSICOLOGIA DO DESENVOLVIMENTO
+==== A VISÃO DESENVOLVIMENTO NA GRÉCIA ANTIGA
+  
+Ao longo dos séculos tem havido mudanças no interesse pelo estudo do desenvolvimento. *Na antiguidade grega, Platão, em sua perspectiva filosófica idealista*, postulou que os seres humanos não poderiam conhecer a realidade como ela é, visto que duas pessoas têm diferentes percepções do mundo real, pois este é modificado pelas percepções individuais. Enquanto *Aristóteles acreditava que as pessoas compreendiam a realidade a partir de suas impressões sensoriais*.
+
+Img platão
+
+Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8ª ed., p.35
+
+img aristoteles
+
+Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8ª ed., p.35
+
+Na Idade Média (séculos XI ao XIV) as questões relacionadas aos processos relativos ao desenvolvimento humanos foram conduzidas com desinteresse. Somente no período da Renascença, a partir de um movimento humanitarista os estudos acerca do desenvolvimento do ser humano na sociedade começam a ser focalizados. Os estudos de Pestalozzi, Rousseau e Tiedemann abrem caminho para o período pré-científico no estudo do desenvolvimento infantil. A fase pré-científica caracteriza-se pelo uso do método da descrição dos comportamentos das crianças sem buscar a origem dos mesmos. Assim esses estudos limitaram-se à observação de comportamentos específicos, sem a atenção ao controle das técnicas de investigação e da interpretação dos resultados dos estudos.
+
+Somente no século XIX as bases para a fase experimental na psicologia do desenvolvimento são lançadas por Darwin, Hall e outros, com o uso da observação controlada e o método de questionário, análise e interpretação estatística. Entre os séculos XIX e XX despertou-se para o estudo da infância enquanto fase da vida humana que apresenta especificidade. Do século XX para este século o interesse pelo estudo da adolescência vem acontecendo, bem como se verifica a tendência em analisar a evolução para atingir a fase adulta e velhice. 
+
+[quote]
+O que aconteceu no século passado com a descoberta da infância, voltou a acontecer neste século com a adolescência. Apenas recentemente, nas nações e culturas industrializadas, os adultos começaram a levar em conta as necessidades e capacidades fisiológicas e psicológicas características dos adolescentes, e esta percepção deu-lhes a oportunidade de reconhecer um estádio de desenvolvimento humano. (Sprinthall, 2008, p. 7)
+
+Enquanto o estudo do desenvolvimento adolescente está sendo desvelado, se discute a urgência em priorizar o estudo do desenvolvimento do idoso, visto ser essa população a que mais irá crescer neste século. E nessa realidade, conhecer características e necessidades desse setor populacional é imprescindível para se processar a inclusão -- principalmente a escolar/digital -- com vistas à constituição de um mundo sócio/economicamente sustentável.
+
+=== DESENVOLVIMENTO: MATURAÇÃO E APRENDIZAGEM
+
+Assim como a hereditariedade e o meio ambiente, a maturação e aprendizagem são processos interativos do desenvolvimento. Em que a maturação corresponde a padrões de diferenciação do comportamento que ocorrem por mudanças ordenadas e sequenciais. E que a aprendizagem implica em aquisição realizada na interação com o meio.  Esses processos se desenvolvem intimamente relacionados. Contudo, entre os estudiosos, não há acordo acerca do entendimento sobre como ocorre essa relação. Para alguns a maturação antecede a aprendizagem, sendo um processo inato. Para outros a maturação cria condições para aprendizagem, que, estimula o processo maturacional. Para nós, educadores na escola contemporânea, é a crença na maturação como processo dinâmico que fundamenta nossa ação educativa. Visto que não se espera simplesmente a maturação ocorrer para que o ser possa desenvolver a aprendizagem, mas se cria condições para que esta ocorra.
+
+=== DIFERENÇA ENTRE CRESCIMENTO E DESENVOLVIMENTO
+
+É importante fazer essa diferenciação para facilitar a compreensão de alguns conceitos fundamentais da psicologia do desenvolvimento. O crescimento deve ser entendido como referente ao aspecto quantitativo das proporções do corpo, tratando do aumento físico das proporções do corpo. Enquanto que o desenvolvimento refere-se mais ao aspecto qualitativo, sem, contudo excluir alguns aspectos quantitativos. 
+
+O crescimento estaciona em determinada idade do ser humano, ao atingir a maturidade biológica. Diferentemente do processo de desenvolvimento que permanece da concepção até a morte.
+
+Apesar das diferenças que caracterizam o desenvolvimento de cada pessoa, há certos princípios universais do desenvolvimento. Fundamentados em Moreira (2000), trataremos de alguns princípios maturacionais previsíveis de serem observados no desenvolvimento humano.
+
+=== PRINCÍPIOS GERAIS DO DESENVOLVIMENTO HUMANO
+
+O desenvolvimento se processa por etapas:: o desenvolvimento humano se dá por fases que apresentam características próprias. Contudo, a definição dos critérios de periodização da vida humana não é única. Há teóricos que abordam o desenvolvimento sob o aspecto físico como Gesell, aspecto cognitivo segundo estudos de Piaget, ou ainda pelo aspecto psicossexual segundo as investigações de Freud. Mesmo havendo grande diversidade de critérios para o estabelecimento de fases no desenvolvimento do ser humano há uma convergência para o entendimento de que o desenvolvimento implica em novos padrões de comportamentos constituídos por processos de reintegração sucessiva de estruturas comportamentais e/ou orgânicas.
+
+O desenvolvimento, embora contínuo e sequencial, é marcado por profundas transformações:: a evolução implica em transformações estruturais possibilitadores de novos desempenhos. Tanto o crescimento como o desenvolvimento produzem mudanças nos componentes físico, mental, emocional e social que ocorrem em ordem invariante. Uma constatação desse princípio é que a criança antes de correr, anda e engatinha.
+
+O desenvolvimento é direcional e se dá numa direção céfalo-caudal e próximo distal:: a embriologia corrobora esse princípio com a constatação que o organismo desenvolve primeiro a cabeça, em seguida o tronco e os membros. Por direção próximo-distal diz-se de um desenvolvimento que acontece do centro (cérebro/medula espinhal -- eixo central) para a periferia do corpo (membros superiores e inferiores). Inicialmente há crescimento e desenvolvimento das partes próximas ao cérebro e depois se estende descendentemente até as partes mais distantes. 
+
+O desenvolvimento caminha de atividades gerais para as específicas:: o comportamento motor se desenvolve de respostas difusas e não diferenciadas para as mais específicas e elaboradas. Quando tocamos o corpo de um recém-nascido, ele responde com movimentos gerais (todo o corpo se move), com o desenvolvimento do organismo, apenas a parte do corpo diretamente estimulada responde ao estímulo.
+
+O desenvolvimento se dá em velocidade diferente para diversas partes do corpo:: A cabeça cresce intensamente do nascimento até os dois anos de idade quando desacelera esse crescimento. O tronco cresce significativamente até o um ano e os membros superiores e inferiores em torno dos dois anos começam um crescimento acelerado. Em cada aspecto o ser apresenta ritmos diferentes nas diversas fases. No aspecto cognitivo a capacidade de raciocínio lógico indutivo-dedutivo aparece na adolescência.  
+
+[TIP]
+.Lembremos 
+====
+
+OS FATORES QUE INFLUENCIAM O DESENVOLVIMENTO HUMANO...
+
+       Vários fatores indissociados e em permanente interação afetam todos os aspectos do desenvolvimento. São eles:
+
+Hereditariedade:: a carga genética estabelece o potencial do indivíduo, que pode ou não desenvolver-se. Existem pesquisas que comprovam os aspectos genéticos da inteligência. No entanto, a inteligência pode desenvolver-se aquém ou além do seu potencial, dependendo das condições do meio que encontra.
+
+Crescimento orgânico:: refere-se ao aspecto físico. O aumento de altura e a estabilização do esqueleto permitem ao indivíduo comportamentos e um domínio do mundo que antes não existiam.
+
+Pense nas possibilidades de descobertas de uma criança, quando começa a engatinhar e depois a andar, em relação a quando esta criança estava no berço com alguns dias de vida.
+
+Maturação neurofisiológica:: é o que torna possível determinado padrão de comportamento. A alfabetização das crianças, por exemplo, depende dessa maturação. Para segurar o lápis e manejá-lo como nós, é necessário um desenvolvimento neurológico que a criança de 2, 3 anos não tem. Observe como ela segura o lápis.
+Meio:: o conjunto de influências e estimulações ambientais altera os padrões de comportamento do indivíduo. Por exemplo, se a estimulação verbal for muito intensa, uma criança de 3 anos pode ter um repertório verbal muito maior do que a média das crianças de sua idade, mas, ao mesmo tempo, pode não subir e descer com facilidade uma escada, porque esta situação pode não ter feito parte de sua experiência de vida.
+
+Bock, 2008, p. 99
+====
+
+
+=== REFERÊNCIAS
+
+
+BOCK, Ana Mercês Bahia. *Psicologias: uma introdução ao estudo de psicologia*. 14. Ed. São Paulo: Saraiva, 2008.
+
+CAMPOS, Dinah Martins de Souza. *Psicologia e desenvolvimento humano*. 6. Ed. Petrópolis: Vozes, 2010.
+
+CORIA-SABINI, Maria Aparecida. *Psicologia do Desenvolvimento*. 2. ed. São Paulo: Ática. 2004.
+
+COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da Educação: um estudo dos processos psicológicos de desenvolvimento e aprendizagem humanos, voltado para a educação*. Belo Horizonte: Editora lê, 2000.
+
+SPRINTHAL, W. Andrews Collins. *Psicologia do adolescente: uma abordagem desenvolvimentista*. 4. Ed. Lisboa: Fundação Calouste Gul benkian. 2008.
+
+[NOTE]
+.ANÁLISE E REFLEXÃO .... 
+====   
+Com base nos princípios gerais do desenvolvimento humano, reflita sobre eles e tente estabelecer uma relação entre esses princípios e a aprendizagem escolar. Leve suas reflexões para o Fórum de Discussões da aula.
+
+====
+
+
+
+
+== FASES DO DESENVOLVIMENTO HUMANO
+
+Compreender as características do desenvolvimento humano nas diversas fases é imprescindível ao trabalho docente exitoso. Estudaremos as noções fundamentais acerca dos momentos evolutivos da infância, adolescência e envelhecimento, abordando os fundamentos da construção do conhecimento psicológico acerca dessas fases. Apesar de nossa ciência estudar o desenvolvimento humano infantil, adolescente, adulto e idoso, abordaremos três dessas quatro fases. A infância por ser base para compreender as demais, a adolescência e envelhecimento por constituírem grande desafio para os educadores que ainda não detêm os conhecimentos necessário sobre as especificidades do ser aprendente adolescente e em envelhecimento. 
+
+=== DESENVOLVIMENTO INFANTIL
+
+O conceito de Infância, bem como sua caracterização, em que o ser deve ser protegido e cuidado, é considerado recente uma vez considerando a historia da ciência, isto porque até o século XVII predominava a visão de criança como adulto em miniatura, nessa perspectiva podemos dizer que a infância não era valorizada, visto que a sociedade fazia pouca distinção entre a infância e a idade adulta. De acordo com Ariés, o ingresso precoce da criança para o mundo adulto, acontecia da seguinte forma:
+
+[quote]
+De criancinha pequena, ela se transformava imediatamente em homem jovem, sem passar pelas etapas da juventude, que talvez fossem praticadas antes da Idade Média e que se tornaram aspectos essenciais das sociedades evoluídas de hoje. (ARIÈS, 2006, p.9)
+
+Esta percepção era o reflexo do tratamento que a sociedade dispensava as crianças, até os sete anos de idade elas recebiam cuidados especiais, após esta idade passavam a desenvolver as mesmas atividades que os adultos, inclusive a participação em festas coletivas e orgias, que até então não era considerada como maléfica a formação do caráter e da moral da criança. A concepção da criança como adulto em miniatura segue até os séculos XV, XVI e XVII, onde gradativamente a criança começou a ser notada como um ser que possui particularidades e características que as diferenciam dos adultos, um ser dotado de capacidade e desenvolvimento. 
+
+=== ESTUDOS SOBRE O DESENVOLVIMENTO INFANTIL 
+
+Os primeiros estudos acerca do desenvolvimento infantil, limitaram-se a observação dos bebes nos primeiros anos de vida e tinha como objetivo a descrição da regularidade das mudanças do comportamento de acordo com a idade e as variações existentes entre crianças que possuíam a mesma faixa etária.
+
+Watson foi um dos representantes do Behaviorismo e analisou as variáveis ambientais como estímulos progressivamente associados a respostas empregando o modelo do condicionamento clássico como resultantes de um processo de aprendizagem, neste caso as respostas passam a ser dadas através de determinados estímulos.
+
+[NOTE]
+====
+O caso do bebê Albert
+
+Watson realizou uma experiência durante dois meses com o  bebê Albert  de 9 meses, ele condicionou a criança a ter medo de animais e objetos brancos peludos, como coelhos , cães e ratos. Durante dois meses ele expôs este bebé a várias coisas de cor branca e felpudas, e o deixava interagir com estes sem intervir. Após algumas repetições Watson fez com que a presença do animal fosse seguida pelo som do gongo, fazendo com que a criança chorasse assim que o animal era colocado a sua frente. Após um mês a criança foi novamente testada, e a reação do medo foi novamente provocada. Watson concluiu que as emoções humanas são resultantes de um processo de aprendizagem.
+
+====
+
+A teoria Psicanalítica de Freud surgiu nas décadas de 1920 e 1930, e enfatizava as relações afetivas que eram desenvolvidas na infância, especialmente nos primeiros cinco anos de idade. Conforme Freud três sistemas formam a personalidade: Id, ego e superego, o id caracteriza a satisfação imediata dos instintos que dispõe de uma quantidade de energia limitada. Nesta perspectiva se esta energia for descarregada em um objeto, haverá menos energia para outros propósitos. O ego representa a parte racional e serve de mediador entre as exigências do id e a realidade, o superego reflete a consciência moral. Freud também percebeu que alguns comportamentos são moldados pela sexualidade, e que este fator inicia-se na infância através de relação que a criança tem com seu próprio corpo, sendo a busca de prazer o fator que motiva o comportamento do ser humano.
+
+FIGURA
+
+Após os estudos de Watson e Freud, os estudos na área do desenvolvimento infantil começaram a diminuir, contudo a partir da década de 1950 a Psicologia do Desenvolvimento começou a expandir-se, e junto com essa expansão veio a preocupação com as bases biológicas da conduta humana.
+
+As pesquisas explicativas ganharam vez na teoria de Jean Piaget, e sua teoria do desenvolvimento cognitivo ou intelectual, passou a dominar a área do desenvolvimento. Para Piaget a inteligência possui a função de adaptar o organismo as exigências do ambiente, tratando-se pois de uma estrutura biológica, esta adaptação se faz por meio de dois processos: *assimilação e acomodação*.
+
+A assimilação se dá através da incorporação dos desafios e informações do meio aos esquemas mentais já existentes, já a acomodação caracteriza-se por ser o processo de criação ou mudança de esquemas mentais resultantes da necessidade de assimilar os desafios ou informações do meio. A interação entre assimilação e acomodação torna-se comum ao longo da vida e está presente nos níveis de funcionamento intelectual e comportamental. Piaget desenvolveu sua teoria em estágios, e isto faz com que indique a natureza biológica da inteligência.
+
+
+
+[TIP]
+====
+Piaget descreve quatro estágios, que caracterizam as diferentes formas de adaptação de que o ser humano é capaz: sensório-motor, intuitivo, operatório concreto e operatório formal. Sabini (2004, p.34)
+
+====
+
+
+=== DESENVOLVIMENTO DO ADOLESCENTE
+
+==== Concepções históricas 
+
+A concepção de infância, tal como temos na atualidade, teve sua vigência muito recentemente e apenas, no século XIX, as sociedades passaram a perceber a infância e os anos juvenis como estágios especiais de desenvolvimento. Em anos de história, a psicologia da adolescência tem se deparado com estereótipos e estigmas.
+
+O reconhecimento social da adolescência começa a acontecer a partir da última metade do século XX. Com Stanley Hall é que se tem a identificação da adolescência como uma etapa marcada por tormentos e conturbações vinculadas à emergência da sexualidade. 
+
+Ao se falar de Stanley Hall, vinculamos suas ``descobertas'' ao processo da industrialização que traz um contexto favorável a essa descoberta diante do crescimento industrial e do crescimento dos movimentos de trabalhadores, que passaram a exigir leis de proteções trabalhistas e reivindicar a proibição do trabalho infantil, exigindo que crianças e jovens passem das atividades laboral para frequentar a escola pública, essas questões estavam muito ligadas a remuneração barata que era destinada aos trabalhadores mais jovens. Além disso, a educação do público juvenil seria uma forma de se ter mão-de-obra futura mais qualificada e que se adequasse ao processo de aceleração da produção industrial e do desenvolvimento tecnológico.
+
+Em meio a esse processo surge Stanley Hall que, baseando-se nas descobertas da Teoria da Evolução das Espécies de Charles Darwin, segundo Sprinthall (2008), considerava que a adolescência necessitava de estudos especiais, por ser um estágio de desenvolvimento evolutivo humano dotado de necessidades específicas, afirmando que, nessa fase, o ser humano passa a experimentar, novamente, todos as sensações já vivenciadas no desenvolvimento durante a infância.   
+
+Para Hall adolescência seria uma experiência comparada a um segundo nascimento, em que o ser humano teria a oportunidade de repassar por todos os estágios anteriores e, obter, com isso, o ápice de seu desenvolvimento, além disso, essa seria uma fase caótica e difícil devido a velocidade com que se dão as transformações. Essa concepção foi reforçada na teoria psicanalista que a caracterizaram como uma etapa de confusões, estresse e luto também causados pelos impulsos sexuais que emergem nessa fase do desenvolvimento.
+
+.FIQUE DE OLHO
+____
+
+Há diversas leituras da adolescência dentro da psicanálise. Autores da escola inglesa, por exemplo, concebem-na numa perspectiva mais desenvolvimentista, cumprindo a última etapa da sexualidade, tal como Freud descreve nos ``Três ensaios sobre a teoria da sexualidade''. Para alguns deles, a crise da adolescência é vista como um desvio do curso normal do desenvolvimento. As diferentes formas de perceber a questão refletem diretamente no diagnóstico do caso, o que pode levar a resultados desastrosos no processo terapêutico.
+
+Para esses autores a genitalidade é a grande questão da adolescência, o que significa dizer que o adolescente vai finalmente ao encontro da sua sexualidade, ou seja, que a anatomia é o destino da pulsão. Nossa leitura da adolescência vem no sentido de pô-la em questão, como tempo de revivescência e de resignificação edípica. Que caminho poderia nos levar até nosso objetivo?
+
+Articulando-a com o mecanismo do a posteriori, modelo, por princípio, do funcionamento psíquico, constituído de um primeiro tempo, em que ocorre a estruturação psíquica do sujeito através do Édipo, intercalado pelo período de latência e seguido pela adolescência, que tem função tempo de revivescência e de re-significação edípica. Podendo constituir-se de pura repetição ou elaboração e abertura, permitindo que o sujeito possa historiar seu passado.
+
+A história, portanto, não é somente passado; trata-se de um trabalho de construção, como aponta Lacan (1986, p. 21) quando diz que ``a história não é o passado. A história é o passado na medida em que é historiado no presente -- historiado no presente porque vivido no passado''
+A adolescência é o momento de deixar para trás a criança idealizada pelos pais. É tempo de desinvestimentos e reinvestimentos, de busca de uma identidade sexual. Não é à-toa que a ``crise da adolescência'' costuma ser motivo de preocupação. Por outro lado, não poderíamos reencontrar esses conflitos e esse modo de funcionamento também na vida adulta? Não é isso que se encontra permeando as relações? 
+
+Muitas crises acompanharão o sujeito ao longo da vida. Para a psicanálise, diferentemente da psicologia, não faz sentido falar-se de fases da vida, que começam na infância e terminam na idade adulta. O infantil está presente no adulto. Daí perguntarmos se, no adulto, além do que é dado pelo infantil e que o estrutura, também não comportaria um funcionamento adolescente como função de reinscrição do sujeito, integrando o que não foi simbolizado da sua história. Não que a adolescência, em si, vá cumprir o papel da análise. 
+
+Esta última cria as condições necessárias para que o sujeito se depare com uma angústia mobilizadora do trabalho psíquico e isso só é possível pela suspensão da fala do analista. 
+
+A adolescência, na medida em que tem que se haver com uma nova realidade, a do corpo transformado pela puberdade, poderá dar um novo encaminhamento ao ressurgimento do Édipo, através da simbolização. Pode ser, portanto, um momento muito criativo ou de pura repetição. Questionamos se não é a partir da adolescência que se vai instalar pela vida afora esse mal-estar ao qual Freud se referiu em O mal-estar na civilização (1929), à proporção em que haverá uma tensão entre um corpo transformado,``pulsante'', e as exigências do mundo externo, que caminham em direção oposta. 
+
+DANTAS, Nara Maria. Adolescência e Psicanálise: Uma possibilidade teórica.Recife 2002.
+
+____
+
+
+Além dessas perspectivas históricas há uma variação do conceito e visão do adolescente de acordo com a cultura em que vive, como destaca  Sprinthall (2008) p.20, ao descrever a pesquisa da antropóloga Margaret Mead sobre o desenvolvimento do adolescente entre as culturas nativas da sociedade de Samoa na Polinésia (Pacífico Sul) e Quênia na África Oriental (Oceano Índico).
+
+Na sociedade de Samoa a adolescência é uma experiência de crescimento tranquilo e livre de conflitos e tensões. Visto que, na cultura samoana, os principais acontecimentos da vida, incluindo o nascimento, a morte e o sexo são tratados de forma aberta. Sendo assim, os acontecimentos terrenos da vida eram tratados de modo que essa transição, como a passagem da infância para adolescência, se desse de forma calma e gradual. As tarefas designadas aos adolescentes e as crianças eram adequadas a suas capacidades.
+
+Já no Quênia a transição da adolescência para a vida adulta acontece de forma abruta e traumática, a passagem para vida adulta consiste em cerimônias e rituais através de traumas físicos como circuncisão e extração de cílios, além disso, as tarefas são rigidamente diferencias e de estatuto muito baixo para jovens e crianças.
+
+NOTE
+====
+``A solução para problemas dos adultos de amanhã depende grande parte da forma como os nossos filhos crescem hoje." 
+
+
+MARGARET MEAD by Alex from Virginia
+
+Margaret Mead nasceu em Filadélfia em 1901 e morreu em Nova York em 1978. Ela estudou primeiramente aprender teoria e impressão, a fim de obter uma melhor compreensão das práticas de criação dos filhos. Em 1925, ela foi para a Polinésia para estudar como as diferenças culturais influenciariam na criação dos filhos e se expandiu para estudar outras áreas também.
+====
+
+=== DESENVOLVIMENTO FÍSICO E COGNITIVO DO ADOLESCENTE
+
+De acordo com Sprinthall (2008) fisicamente os adolescentes passam por mudanças hormonais promovidas pelo hipotálamo, que estimulam os órgãos sexuais a produzir certos hormônios. Em análogo a essa maturação sexual o desenvolvimento corporal vai se efetuando, com o crescimento de membros inferiores e, posteriormente, os membros superiores e troncos. Isto pode originar desequilíbrios proporcionais e desconforto físicos e que, as vezes provocam embaraçados em certas situações sociais. 
+
+Após a puberdade ocorre o crescimento ponderal com o aumento da massa muscular nos rapazes, e de tecido adiposo nos homens. Paralelamente, ocorrem alterações do sistema digestivo e do índice metabólico, que trazem distúrbios alimentares e aumento do apetite. Estas alterações da alimentação podem desencadear, devido à hipersensibilidade com o corpo, comportamentos como a anorexia, bulimia, irritabilidade, sentimentos de culpa, isolamento e depressões. 
+
+Essa evolução física e sexual acelerada, deve estar em sintonia com o ritmo do desenvolvimento cognitivo, para que não desencadeie comportamentos desviantes em relação às normas impostas pela sociedade. 
+
+==== Desenvolvimento cognitivo e aprendizagem adolescente 
+
+As transformações a nível intelectual são de extrema importância  durante a adolescência, visto que, nessa fase, a inteligência toma a sua forma final com o pensamento abstrato ou formal. Para Piaget (1949), ocorre entre os 11-12 anos e os 14-15 anos. Estas modificações podem influenciar no entendimento das regras. Esse pensamento tido como período das operações formais, vai ajustar o adolescente ao mundo real e ao seu quotidiano, além disso, proporcionando a capacidade de formular grandiosas teorias e ideias. 
+
+Para Piaget as transformações emocionais que ocorrem na adolescência dependem das transformações cognitivas e, uma das grandes transformações do estágio de desenvolvimento operatório formal é o surgimento do pensamento hipotético-dedutivo, diferente do estágio operatório concreto, em que a criança apenas raciocina sobre proposições que julgasse verdadeiras, apoiando-se no concreto para isso. 
+
+Na fase da adolescência o ser humano torna-se capaz de raciocinar corretamente sobre proposições em que não acredita, ou ainda não acredita, isto é, ou seja, pensa e reflete hipoteticamente. Desta forma, adquire a capacidade de ultrapassar, pelo pensamento, situações vividas e a projetar ideias para o futuro. 
+
+Na fase adolescente o ser humano desenvolve a capacidade para pensar sobre o seu próprio pensamento e sobre o pensamento dos outros, chamada de metacognição (Sprinthall, 2008). 
+
+A autorreflexão permite um amplo alargamento da imaginação. Os adolescentes podem tomar consciência da forma como conhecem para além daquilo que conhecem, outra característica importante do pensamento adolescente é a tomada de consciência da variedade de estratégias de aprendizagem que poderão ser utilizadas. Com isto as oportunidades de autocorreção em nível de resolução de problemas são muito maiores. Os adolescentes têm a capacidade de falar consigo próprios, processo este, por vezes, designado de diálogo interno, e chegar a novas formas de compreensão sem estarem presos a experiências concretas. 
+
+A metacognição traz a consciência sobre o fato das pessoas serem diferentes e terem pensamentos diferentes sobre a mesma situação ou ideia, havendo uma variedade de pontos de vistas, diferentemente, das crianças mais novas que tendem a pensar que todos nós encaramos as situações da mesma forma que elas, esse comportamento passa a ser chamado de egocêntrico, centrados na sua própria perspectiva. 
+
+Para um melhor desenvolvimento intelectual, as influências e os estímulos externos são de grande importância por serem modelos para os adolescentes e constituírem uma estimulação. Existem formas poderosas de estimular o pensamento abstrato. Para Sprinthall (2004) são o visionamento de filmes ou vídeos e a participação em atividades artísticas, tais como pintura, o drama, a dança e a música. Quanto mais ativo for o processo simbólico, tanto maior o estímulo ao desenvolvimento cognitivo. 
+
+Durante este estádio, escrever poemas é mais eficaz do que ler poemas; fazer filmes é mais eficaz que visioná-los; participar numa dramatização de improviso é mais eficaz do que observá-la. Pois na perspectiva piagetiana, o desenvolvimento cognitivo depende da ação, em qualquer dos estádios. Em todos os seus trabalhos ele tem uma frase chave: a ação produz desenvolvimento (SPRINTHALL, 2004). Para Piaget (1970), a atividade de assimilar certas experiências do meio circundante força a criança a acomodá-las ou internalizá-las. Esta internalização de experiências é fundamental para o desenvolvimento cognitivo, o qual sugere que o desenvolvimento mais completo tem lugar quando as crianças assimilam experiências do seu meio, porque só então são capazes de acomodar ou internalizar essas experiências. 
+
+===  DESENVOLVIMENTO DO IDOSO
+
+O envelhecimento é definido como um conjunto de transformações que ocorrem com o avançar da idade. É um processo inverso no desenvolvimento humano. Enquanto que na infância é evolução, na senescência é involução. O declínio das capacidades funcionais e das aptidões inicia-se na fase adulta e se precipita no envelhecer. De acordo com Souza (1998) o envelhecimento se caracteriza por algumas perdas das capacidades fisiológicas dos órgãos, dos sistemas e de adaptação a certas situações de estresse. Tal fenômeno é universal, progressivo, na maioria das vezes irreversível e resultará num aumento exponencial da mortalidade com a idade, bem como mais probabilidade de doenças. No entanto, a ocorrência de uma alimentação balanceada, a prática regular de exercícios físicos, o viver em um ambiente saudável, além dos progressos da medicina, têm levado a subverter este conceito e aumentar a longevidade. Muitos dos problemas que eram considerados elementos inevitáveis da idade avançada, agora são vistos como parte do processo de envelhecer, resultantes do estilo de vida ou de patologias.
+De acordo com Papalia (2010) o envelhecimento primário é um processo gradual e inevitável de deterioração física que começa cedo na vida e continua ao longo dos anos, não importa o que as pessoas façam para evitá-lo. Ocorre de forma semelhante nos indivíduos da mesma espécie, de forma gradual e previsível. O sujeito está dependente da influência de vários fatores determinantes para o envelhecimento, como estilo de vida, alimentação educação e posição social, embora as suas causas sejam distintas.
+O envelhecimento secundário é o envelhecimento resultante das interações das influências externas, e é variável entre indivíduos em meios diferentes. É resultante de doenças, abusos e maus hábitos de uma pessoa, fatores que em geral podem ser controlados.
+Saúde e longevidade estão intimamente relacionadas à educação e outros aspectos do status socioeconômicos. Alguns estudiosos classificam os indivíduos idosos, situando-os em categorias funcionais, que são: meia-idade; velhice; velhice avançada; e velhice muito avançada. Porém, segundo Papalia (2010), a classificação mais significativa é por idade funcional, que é a capacidade de uma pessoa interagir em um ambiente físico e social em comparação com outros da mesma idade cronológica. A diferença individual determina como cada ser humano irá envelhecer. Entretanto variáveis como sexo, herança genética e estilo de vida contribuirão determinando entre homens e mulheres as diferenças nos ritmos de envelhecimento que cada um apresentará.
+Segundo, ainda, Shephard (2003), a categorização funcional do idoso não depende apenas da idade, mas também de sexo, estilo de vida, saúde, fatores sócio-econômicos e influências constitucionais, estando provado, assim, que não há homogeneidade na população idosa. A idade funcional está estreitamente ligada à idade subjetiva do indivíduo. Várias áreas de pesquisa tem se debruçado sobre o estudo do envelhecimento, como a Gerontologia e a Geriatria.
+
+ 
+=== Desenvolvimento Físico 
+==== Longevidade e envelhecimento
+A expectativa de vida aumentou pragmaticamente desde 1900. Pessoas brancas tendem a ter mais longevidade de que pessoas negras, e as mulheres mais que os homens; por isso, o número de mulheres mais velhas ultrapassa o de homens mais velhos em uma proporção de três para dois.
+As taxas de mortalidade têm diminuído, doenças cardíacas, câncer e derrame são as três principais causas de morte para pessoas com mais de 65 anos. A senescência período do ciclo de vida marcado por mudanças físicas associadas ao envelhecimento começa em idades variadas para as diferentes pessoas.
+As teorias de envelhecimento biológico enquadram-se em duas categorias: teorias de programação genética, sugeridas pelo limite hayflick, e teorias de taxas variáveis, (ou teorias de erro), como aquelas que apontam para os efeitos dos radicais livres e da autoimunidade.
+ As curvas de sobrevivência apoiam a ideia de um limite definido para o ciclo de prolongamento de vida através de manipulação genética ou de restrição calórica, alguns teóricos contestam essa ideia.
+
+==== Mudanças Físicas
+As mudanças no sistema e nos órgãos corporais com a idade são altamente variáveis e podem ser resultado de doenças, o que, por sua vez, é influenciado pelo estilo de vida. As mudanças físicas comuns incluem perda de coloração, de textura e de elasticidade da pele, o branqueamento dos cabelos diminuição da estatura, comprometimento ósseo, tendência a dormir menos. A maioria dos sistemas corporais costuma continuar funcionando bem, mas o coração torna-se mais suscetível a doença a capacidade de reserva do coração e de outros órgãos diminui.
+Embora o cérebro mude com a idade, as mudanças variam consideravelmente, elas incluem perda ou redução das células nervosas e um retardo geral das respostas. O cérebro também parece ser capaz de produzir novos neurônios e formar novas redes neurais no decorrer da vida. Problemas visuais e auditivos pode prejudicar a vida cotidiana, mas, muitas vezes podem ser corrigidos. Transtornos visuais comuns são: catarata, e degeneração relacionada a idade, perdas no paladar e no olfato podem causar má nutrição.
+Com atividades físicas é possível melhorar a força muscular, o equelibrio e o tempo de reação. Muitos idosos são sexualmente ativos, embora a frequência e a intensidade da experiência sexual geralmente sejam menores do que para adultos jovens.
+==== Saúde Física e Mental
+Grande parte das pessoas mais velhas principalmente aquelas que vivem uma rotina e um estilo de vida saudável tem uma saúde estável, é fato também que a grande maioria das pessoas mais velhas tem doenças crônicas, principalmente artrite, essa geralmente não limitam outras atividades que usam a cognição ou o funcionamento de outros órgãos vitais, não interferindo de forma tão decisiva na vida cotidiana, para isso se faz necessário exercícios e uma dieta balanceada para influenciar positivamente sobre a saúde, a periodente que é a perda de dentes, pode afetar seriamente a alimentação e consequentemente a nutrição dos idosos.
+Existem transtornos mentais reversíveis e irreversíveis que acometem os idosos, lembrando que a maioria das pessoas mais velhas possui boa saúde mental. As doenças ou transtornos reversíveis são: depressão, alcoolismo entre outras doenças incluindo algumas formas de demência, e são reversíveis porque podem ser curadas através de um tratamento adequado. As doenças irreversíveis como: o mal de Alzheimer, mal de Parkinson ou demência de infarto múltiplo podem apenas serem amenizadas através de medicação adequada mas não há cura. Por isso são irreversíveis. 
+O mal de Alzheimer é mais prevalecente com a idade, é caracterizado pela presença de Emaranhados Neurofibrilares e de Placa Amiloide no cérebro, pesquisas apontam fatores genéticos para este mal, mas suas causas ainda não foram definitivamente estabelecidas. Para que esse processo de deterioração possa ser retardado terapias comportamentais e medicamentosas se fazem necessárias. 
+
+
+=== 1.2. Desenvolvimento cognitivo 
+É por meio da cognição que os seres humanos absolvem os conhecimentos, e que contribui para o desenvolvimento intelectual dos indivíduos, as habilidades cognitivas estão diretamente ligadas a fatores diversos como a linguagem, a percepção, o pensamento, a memória, atenção e o raciocínio dentre outro.
+Em pessoas mais jovens, os processos cognitivos acontecem com maior fluidez e isso se deve a vários fatores principalmente, ao vigor da juventude. Nas primeiras fases do desenvolvimento humano, fatores interligados a cognição, proporciona ao individuo maior agilidade tanto no que diz respeito aos aspectos psicoemocional quanto, aos físico-biológicos. 
+Quando avaliado o nível cognitivo do sujeito que se encontra na última fase do desenvolvimento humano, fica evidente o seu declínio, principalmente nos aspectos ligados a atenção e a memória, influenciando o rendimento escolar, pois, os comprometimentos ocasionados pelas suas diminuições interferem diretamente no processo de aquisição de novos conhecimentos. Tal problemática se acentua através de comportamentos que contribui negativamente para o bom desempenho da cognição da pessoa idosa como, distanciamento do convívio social e familiar, depressão, estresse, o uso indevido de medicamentos e os problemas de ordem emocional, nutricional. 
+Tendo em vista o comprometimento intelectual do idoso, faz-se necessárias sugestões de atividades onde possam ser trabalhadas as habilidades perceptivas e de memorização destes indivíduos. Estudos comprovam que estímulos diretivos e adequados têm demonstrado resultados positivos com o sujeito aprendente da terceira idade fazendo com que estes não só recupere competências cognitivas perdidas, mas até pra superar seus limites anteriores (Papalia, 2010).
+Através de inúmeras pesquisas científicas pode-se perceber a complexidade do processo intelectual do ser humano. Papalia (2010) em seu livro ``desenvolvimento humano'' faz distinção entre habilidades (inteligência) fluida e cristalizada:
+A habilidade fluida depende muito da condição neurológica do sujeito aprendente enquanto que a habilidade cristalizada depende dos conhecimentos acumulados durante toda a vida do individuo. Esses dois tipos de inteligências seguem padrões diferentes. No padrão clássico de envelhecimento, entretanto, a tendência tanto na pontuação do desempenho como no verbal é de queda ao longo da maior parte da vida adulta; a diferença embora substancial é de grau (PAPALIA, 2010)
+A referida pesquisa mostra que quando comparada a inteligência fluida com a cristalizada, esta se apresenta muito mais encorajadora, pois, tal habilidade cognitiva mesmo com o passar do tempo tende a se aperfeiçoar por um período maior da vida do adulto idoso, independente do declínio que ocorre com a inteligência fluida.
+Diante das limitações psicológicas, físicas e neurológicas pelas quais passam a pessoa idosa, é importante uma melhor compreensão de seu ritmo, habilidades cognitivas e fragilidades características deste estágio do desenvolvimento humano, para que assim, possa ser feito intervenções diretivas e com objetividade tornando a pessoa idosa integrada dentro do processo de aprendizagem, não apenas no ambiente escolar, como também, em diferentes contextualizações socioculturais.
+
+=== 1.3. Desenvolvimento Psicossocial 
+É um estágio de desenvolvimento em que as pessoas reavaliam suas vidas, fecham situações deixadas em aberto e decidem como melhor canalizar suas energias e passar seus dias ou anos restantes. Alguns querem deixar aos descendentes ou ao mundo suas experiências ou corroborar o significado de suas vidas. Outros querem apenas curtir seus passatempos favoritos ou fazer coisas que não fizeram quando jovens.
+Fazendo referencia ao termo personalidade, este não possui uma definição única, e pode variar de acordo com os parâmetros estabelecidos em cada doutrina. Mas, de maneira geral, estudiosos a prescrevem como o conjunto de características psicológicas que marcam os padrões de pensar, sentir e agir, ou seja, atitudes e comportamentos típicos, de um determinado ser humano. 
+	Os traços de personalidade são mutáveis (SILVA e NAKANO, 2011; IRIGARAY e SCHNEIDER, 2007; 2009) também na velhice, podendo colaborar no processo adaptativo do envelhecimento, melhorando a saúde e priorizando a longevidade; desta forma, descreve-se a interligação da personalidade com os índices de resiliência, com os sintomas depressivos (transtorno de humor mais frequente), como também, com o bem-estar subjetivo.
+=== A Personalidade muda na Terceira Idade?
+Depende do modo como a estabilidade e a mudança são avaliadas. Podemos identificar:
+Pessoas hostis:: não costumam amadurecer com a idade a não ser que se submetam a tratamento psicoterápico;
+Pessoas otimistas:: tendem a permanecer assim;
+Pessoas afetadas por neuroticismo:: não há deterioração saúde física ou na função cognitiva.
+Comparação por ordem de graduação as diferenças relativas são estáveis no período entre 50 e 70 anos. Estudos apontam uma estabilidade na terceira idade. A inflexibilidade ou aumento de rigidez não são atribuídos a idade e sim a experiência de vida. (Schaie & Willis, 1991).
+==== Personalidade, Emotividade e Bem-estar 
+A Personalidade é um elemento prognosticador da emotividade e do bem-estar subjetivo. Emoções negativas auto reportadas como inquietação, tédio, solidão, infelicidade e depressão abrandaram-se com a idade (diminui após os 60 anos). E a emotividade positiva -- excitação, interesse, orgulho e um senso de realização permanecem estáveis ate uma fase avançada e depois tem uma queda ligeira e gradual.  
+Teoria Seletividade sócio emocional explica que a medida que envelhecem, as pessoas tendem a procurar atividades e pessoas que as satisfaçam. Os mais velhos conseguem controlar as emoções que ao adultos mais jovens.
+Dois dos mais fortes traços da personalidade: *Extroversão* personalidade extrovertida (expansiva e sociável) elevados níveis de emoções positivas e conservam ao longo da vida. E o *neuroticismo* personalidades neuróticas (instáveis, suscetíveis, ansiosas e inquietas) demonstram emoções negativas e tendem a se manter negativa. Este é um elemento prognosticador de humores e de transtornos de humor muito mais poderoso que a idade, a raça, o gênero, a renda, a educação ou o estado civil. (Costa e McCrae 1980).
+==== Erick Erikson: questões e tarefas normativas
+ Senso de integridade do ego: fundamentada na reflexão da própria vida. Na oitava e ultima etapa do desenvolvimento psicossocial, as pessoas da terceira idade adquirem um senso de integridade do ego pela aceitação da vida que tiveram e assim aceitar a morte, ou se entregarem ao desespero pela impossibilidade de reviver suas vidas.
+Nesta etapa pode se desenvolver a VIRTUDE que é sabedoria: ``aceitar a vida que se viveu sem maiores arrependimentos, sem se alongar em todos os ``deveria ter feito'' ou ``como poderia ter sido'', o que significa aceitar as imperfeições em si próprio, nos pais, nos filhos e na vida''.
+A integridade deve ser mais importante que o desespero nesta etapa, para que seja resolvida com êxito. Segundo Erikson, algum desespero é inevitável pela vulnerabilidade da condição humana, mas mesmo quando as funções do corpo enfraquecem é necessário manter um ``envolvimento vital''. Integridade do ego resulta da reflexão sobre o passado de contínuos estímulos e desafios.
+Modelos de enfrentamento::
+Enfrentamento::: é o pensamento ou comportamento de adaptação visando reduzir ou aliviar o estresse advindo de condições prejudiciais, ameaçadoras ou desafiantes.  É um importante aspecto da Saúde Mental.
+As Abordagens Teóricas de George Vaillant::: o uso das Defesas Adaptativas maduras no enfrentamento de problemas em fases anteriores da vida. Por exemplo: o altruísmo, humor, persistência (no sentido de não desanimar), antecipação (de planos futuros), sublimação (redirecionando emoções negativas para atividades produtivas). O funcionamento das defesas adaptativas podem mudar as percepções das realidades que as pessoas são incapazes de modificar. As defesas Adaptativas podem ser inconscientes ou intuitivas. E o Modelo de Avaliação Cognitiva enfatiza estratégias de enfrentamento escolhidas conscientemente.  
+No Modelo de Avaliação Cognitiva as pessoas escolhem conscientemente estratégias de enfrentamento com base no modo como percebem ou analisam uma situação que sobrecarregue seus recursos normais:  
+Por Focalização no problema -- para eliminar, administrar ou melhorar uma situação estressante;
+Por Focalização na emoção ou enfrentamento paliativo -- administrar a resposta emocional a uma situação de estresse para aliviar seu impacto físico ou psicológico.
+Os adultos mais velhos tendem a usar o seguinte estilo de enfrentamento:
+
+
+ESQUEMA            Avaliação da Situação        Recursos Pessoais x Ambiente          
+    Avaliação dos Resultados         Execução            Escolha da Estratégia           
+                    Positivo           Manutenção 
+                    Negativo         Reavaliação da situação, escolha de nova estratégia.
+
+
+=== Modelo de envelhecimento ``Bem - Sucedido'' ou ``Ideal''
+No envelhecimento bem sucedido encontramos três componentes principais: anulação da doença ou de incapacidade relacionada a doença; manutenção elevada das funções psicológicas e cognitivas; engajamento sustentado e ativo em atividades sociais e produtivas
+O envelhecimento bem sucedido ou ideal tem uma carga de valor, inevitável podem sobrecarregar mais do que libertar as pessoas idosas, pressionando-as a alcançar padrões que elas não podem ou não querem atingir. Desta forma não é considerado os fatores de coação que podem limitar as escolhas de um estilo de vida. Vamos apresentar algumas teorias sobre envelhecer bem:
+Teoria do Desengajamento:: teoria do envelhecimento proposta por Cumming e Henry, sustenta que o envelhecimento bem sucedido é caracterizado pelo mútuo afastamento entre idosos e a sociedade. Ex. sentar numa cadeira de balanço e ficar olhando o tempo passar.
+Teoria da Atividade:: Teoria do envelhecimento proposta por Neugarten e outros, sustenta que para envelhecer bem a pessoa deve permanecer tão ativa quanto possível. Associa a atividade com a satisfação de viver.
+Teoria continuidade: teoria do envelhecimento, descrita por Atctchley, sustenta que para envelhecer bem, as pessoas devem manter um equilíbrio entre a continuidade e a mudança nas estruturas internas e externas de suas vidas. Ex. ajudar a viver o mais independente possível.
+O papel da produtividade é um ponto essencial para viver bem, as pessoas podem continuar a serem produtivas e até mesmo ser mais produtivas ainda. As atividades como ler um livro ou trabalhos manuais, não trazem benefícios físicos porem proporciona um senso de desenvolvimento com a vida.
+Baltes e colaboradores descrevem que o desenvolvimento ocorre por meio de um processo de alocação de recursos pessoais -- sensório motores, cognitivos, da personalidade e sociais -- que permitem atingir os objetivos. Ou seja, o desenvolvimento ao longo da vida trás ganhos e perdas, mas na idade avançada a balança tende a pender para o lado negativo. Portanto é necessário o desvio de recursos do crescimento e da manutenção para lidar com a perda.
+
+
+                          === REFERÊNCIAS
+
+
+ARIÈS, Philippe. *História social da criança e da família*. 2 ed. Rio de Janeiro: LTC, 2006.
+
+LERNER, Richard M. *Handbook of Adolescent Psychology*. 2. ed. Copyright. USA, 2004. 
+
+PAPALIA, Diane E. *Desenvolvimento Humano*. Tradução: Carla Filomena Marques. 10ºed. Porto Alegre: AMGH, 2010.
+
+SABINI, Maria Aparecida Cória. *Psicologia do Desenvolvimento*. 2. ed. São Paulo: Ed. Ática.2004.
+
+SHEPHARD. R.J. *Envelhecimento, atividade física e saúde*. São Paulo: Phorte, 2003.
+
+SPIRDUSO, W.W. *Dimensões físicas do envelhecimento*. Barueri, SP: Manole, 2005.
+	
+SPRINTHALL, Norman A., W. COLLINS Andrews. *Psicologia do Adolescente Uma abordagem desenvolvimentista*. Fundação Calouste Gulbenkian, 1994.
+
+
+[NOTE]
+.ANÁLISE E REFLEXÃO .... 
+====
+
+Quais as etapas do desenvolvimento humano e o que caracteriza cada uma delas em termos, físicos, psicológicos e psicossociais. Leve suas reflexões para o Fórum de Discussões da aula.
+====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== DESENVOLVIMENTO COGNITIVO
+
+O desenvolvimento cognitivo é entendido como o processo pelo qual o ser humano constrói o conhecimento. A sequência contínua e dinâmica de operações que ocorrem na aquisição de conhecimento envolve diversas funções cognitivas como atenção, memória, linguagem, percepção e raciocínio. Essas funções se desenvolvem em interação entre si, visto que o ser humano existe numa totalidade e assim se desenvolve em sua condição de aprender.
+
+Estudos acerca do desenvolvimento cognitivo, sob o olhar de posições teóricas encontradas no universo científico da Psicologia referindo-se a modelos díspares de homem, enfatizam a relação entre pensamento e linguagem. Ambos carregando verdades imprescindíveis a quem anseia conhecer cada vez mais os fenômenos do comportamento humano. 
+
+Estudaremos o aspecto cognitivo do desenvolvimento humano sob visões teóricas diversas com ênfase nas concepções contemporâneas interacionistas, que concebem o conhecimento como construção que se dá na interação entre sujeito e objeto.
+
+Uma das perspectivas teóricas emana do pensamento do filósofo inglês John Lock (1632 - 1704) e cresce com os trabalhos de psicólogos ambientalistas como J B Watson (1878 - 1958), representantes respectivamente da teoria behaviorista e neobehaviorista que dominaram a psicologia entre as décadas de 50 e 80. Na análise behaviorista o indivíduo aprende o sistema linguístico de sua comunidade verbal por mecanismos, pelos quais o indivíduo reage, utilizando a linguagem em relação aos outros e em relação a si mesmo (o pensamento). A ligação entre pensamento e linguagem se apresenta no behaviorismo radical de Skinner com a crença que nega a existência de eventos privados, embora questione a sua suposta natureza física e seu status enquanto categoria explicativa do comportamento, defendendo que o pensamento é apenas comportamento, verbal ou não, encoberto ou aberto.
+
+Os comportamentalistas ao se referirem à linguagem como comportamento verbal afirmam que as palavras são respostas aprendidas por associação e reforçamento. A relação entre a palavra e seu significado existe enquanto percepção simultânea de determinado objeto. Há uma associação palavra -- objeto, que pode fortalecer-se, enfraquecer ou ser extinta em função das contingências reforçadoras. A linguagem surge como mecanismo social que medeia a passagem do comportamento público para o privado em que as palavras sofrem mudanças externas e quantitativas, bem como são capazes de produzir mudanças no ambiente. Nessa concepção o organismo é visto como ser que reage ao ambiente modificando-se, e como ser que opera sobre seu ambiente, modificando-o.
+
+Outro paradigma existente no campo epistemológico da psicologia surge a partir do pensamento inatista. Dentre os psicólogos que enfatizam tais ideias estão Carl Rogers e o psicolinguista Noam Chomsky. Este defende que o sistema nervoso humano contém mecanismos inatos possibilitadores da criança construir regras de linguagem. Nessa visão, as crianças adquirem a linguagem de uma maneira maturacional, biologicamente determinada tal como elas aprendem a andar. Assim, a linguagem é um processo que se desenvolve de dentro para fora.
+
+A luta entre as concepções materialistas e idealista na psicologia tem sido mais acirrada que em qualquer outra ciência. A dualidade predominante reflete-se na incompatibilidade entre essas estruturas teóricas, com seus tons metafísicos e idealistas e bases empíricas sobre as quais se edificaram.
+
+=== DESENVOLVIMENTO COGNITIVO NA PERSPECTIVA INTERACIONISTA DE PIAGET E IMPLICAÇÕES PEDAGÓGICAS
+
+Jean Piaget, cientista suíço de expressiva agudeza intelectual, desenvolveu investigações sobre o desenvolvimento do pensamento que o constituiu destaque dentre os estudiosos do desenvolvimento cognitivo. Suas ousadas proposições acerca do desenvolvimento cognitivo ofereceram contribuições fundamentais para que no mundo contemporâneo se tenha a compreensão que temos acerca de como se desenvolve a cognição. Suas investigações sobre o desenvolvimento do pensamento oportunizaram entender como se dá o processo de desenvolvimento cognitivo do nascimento até a adolescência. Para esse pesquisador a inteligência é uma estrutura que tem a função de ajustar o organismo às realidades do meio. Em que meio tem o sentido de meio do conhecimento e refere-se a tudo que está disponível para o indivíduo enquanto desafio a sua inteligência. O conceito piagetiano de meio não corresponde a um sentido genérico relativo a meio ambiente. Piaget foi um dos primeiros estudiosos a colocar o conhecimento como não predeterminado nas estruturas internas do indivíduo ou como preexistentes nos objetos e sim como uma construção resultante de trocas dialéticas realizadas entre o indivíduo e o meio do conhecimento. O termo construtivismo é característico da proposição teórica de Piaget e foi por ele usado, pela primeira vez, na década de setenta. Essa expressão refere-se aos mecanismos subjacentes à construção das estruturas cognitivas.
+Nessa perspectiva, a inteligência é uma estrutura biológica, e assim como as outras, tem a função de realizar adaptações do organismo. As adaptações intelectivas se fazem por meio de dois processos complementares que os nomeou de assimilação e acomodação. Por assimilação entende-se o processo de incorporação dos desafios e informações do meio aos esquemas mentais já existentes. Enquanto acomodação corresponde ao processo de criação ou mudança de esquemas mentais para que ocorra a assimilação. Na linguagem piagetiana esquema significa a condição inicial das trocas que se efetuam entre o indivíduo e o meio. No humano os esquemas iniciais, ponto de partida da interação sujeito meio, são os reflexos. A partir deles todos os demais esquemas são produzidos por assimilação e acomodação.
+==== Relação pensamento linguagem na perspectiva de Piaget
+Piaget tenta escapar dessa dualidade inevitável levantando a questão da interrelação objetiva de todos os traços característicos do pensamento infantil por ele observados. Sua concepção do desenvolvimento do pensamento baseia-se na premissa, extraída da psicanálise, de que o pensamento infantil é original e naturalmente autístico, se transformando em pensamento realista sob longa e persistente pressão social. O autismo é, aqui considerado, a forma original e mais primitiva do pensamento. A lógica aparece relativamente mais tarde e o pensamento egocêntrico é o elo entre ambos.
+A base da crença de Piaget é fornecida pelas pesquisas que realizou sobre o uso da linguagem pelas crianças. Suas observações sistemáticas levaram-no à conclusão de que todas as conversas infantis podem ser divididas e classificadas em dois grupos: egocêntrica e socializada. Na linguagem egocêntrica a criança fala apenas para si própria, sem interesse pelo seu interlocutor, não tenta comunicar-se, não espera resposta e, frequentemente, sequer se preocupa em saber se alguém a ouve. Na linguagem socializada ela tenta estabelecer uma espécie de comunicação com outros. Pede, ordena, ameaça, transmite informações e faz perguntas.
+Nessa perspectiva teórica a linguagem segue o desenvolvimento do pensamento até tornar-se parte dele, as formas como as palavras são usadas e os significados atribuídos a elas refletem os níveis de desenvolvimento cognitivo, o que permite considera-la como um mapa do pensamento.
+Para Piaget o processo da linguagem não traz em si um correspondente progresso em operações, ao passo que o inverso é uma realidade. Nessa afirmação pode-se verificar uma posição filosófica, apesar dele tentar evitar teorizações, sua obra acaba extrapolando os limites da ciência factual pura. A própria recusa deliberada da filosofia já é, em si mesma, uma filosofia -- e uma filosofia que pode envolver o seu proponente em muitas contradições.
+A teoria piagetiana defende que durante os dois primeiros anos de vida a linguagem tem um papel insignificante no desenvolvimento da criança. Tendo em vista que sua forma de agir sobre o mundo e de compreendê-lo são individuais e construídas no plano de ação imediata. A criança se relaciona com o mundo e o elabora por meio dos seus sentidos e movimentos (período sensório motor).
+Da inteligência sensório-motora surge a função simbólica, possibilidade de representação, que cria condições para aquisição e desenvolvimento da linguagem. Nessa concepção a linguagem integra-se à função simbólica. Ela não é sua causa e sim seu resultado. Mais ainda, ela é apenas um caso particular das formas de simbolização. E como tal diz respeito aos sistemas de signos coletivos que transmitem ao indivíduo uma porção de conceitos, um sistema pronto de classificações e de relações que vão sendo aprendidos e elaborados por ele de acordo com seus esquemas de ação e de pensamento.
+Somente o desenvolvimento do pensamento operatório possibilita ao indivíduo aprender as relações lógicas, de abstração e de generalização. A partir desse estágio o conhecimento se constrói sobre proposições e hipóteses enunciadas verbalmente. A palavra torna-se uma condição necessária, embora não suficiente, do conhecimento lógico-abstrato.
+As uniformidades de desenvolvimento estabelecidas por Piaget aplicam-se ao meio dado, nas condições em que o pesquisador realizou seu estudo. Não são leis da natureza, mas leis históricas e socialmente determinadas. A propósito, Piaget recebeu várias críticas por não ter dado a devida importância à situação social e ao meio. O fato de a fala ser mais egocêntrica ou mais social depende não só da idade da criança, mas das condições que a cercam. Num meio social em que as crianças têm mais atividades em grupo que as crianças observadas por Piaget em uma escola de Genebra, o coeficiente de egocentrismo apresenta-se um tanto menor.
+Para essa proposição teórica a inteligência relaciona-se com a adaptação do homem ao mundo externo e se desenvolve progressivamente como resultado da equilibração majorante de estruturas que se constituem durante o processo de desenvolvimento. Para Piaget esse fator é o mais fundamental na estruturação da Inteligência. Para compreender o termo piagetiano ``equilibração majorante'' devemos entender que se refere ao processo de desenvolvimento intelectual ocorrido numa estrutura cognitiva que tende a funcionar em equilíbrio, aumentando o grau de organização interna e de adaptação ao meio. Quando esse equilíbrio é comprometido por experiências não assimiláveis, o organismo (mente) se reestrutura (processo de acomodação) para construir novos esquemas de assimilação restabelecendo o equilíbrio, chamado por Piaget de equilibração majorante e considerado fator preponderante no desenvolvimento mental cognitivo. Tal fator possibilita aumento de conhecimento (aprendizagem). Nessa perspectiva aprender é um mecanismo desenvolvido a partir da capacidade de reequilibração. E o ensino precisa ativar esse mecanismo.
+Para percebermos as implicações pedagógicas da abordagem construtivista na educação em que a escola tem papel relevante na construção da inteligência trazemos as ideias desenvolvidas por Piaget a partir de estudo/observação no comportamento infantil e adolescente e que representam fundamentos para alcançarmos também a compreensão do comportamento intelectivo adulto e idoso. Para ele: 
+[quote]
+A criança (sujeito) constitui com o meio (objeto) uma totalidade. À medida que esse meio se modifica, no caso quando a escola entre em cena na vida da criança, novas estimulações passam a exigir-lhe novas condutas, tirando-a do estado de equilíbrio cognitivo a que estava acostumada. O resultado das novas solicitações feitas, pelo ambiente escolar, à criança, deve ser o de leva-la a formar novos padrões de conduta ou esquemas, aumentando e tornando mais complexo o seu repertório de condutas cognitivas. Assim, o processo de ensino aprendizagem deve ser de propiciar à criança o aparecimento de várias capacidades especiais que lhe assegurem o desenvolvimento cognitivo. Através de cada uma das disciplinas que compõem o currículo do aluno, isto será possível, dependendo da forma como seja conduzido o processo pedagógico. (Coutinho, 1999, p. 122)
+
+Assim, ser professor de qualquer disciplina implica em ser um profissional detentor de boa formação pedagógica afinal:
+[quote]
+[...] o ensino em nossas escolas não deve se limitar apenas a transmitir ao aluno determinados conhecimentos ou a formar certo número de aptidões, de hábitos. Uma de suas tarefas primordiais deve ser, sem dúvida, desenvolver o pensamento do aluno, a sua capacidade de analisar e generalizar fenômenos da realidade, de raciocinar corretamente; numa palavra, desenvolver ``no todo'' as suas estruturas operatórias. No plano cognitivo o desenvolvimento do pensamento lógico deve ser, portanto, uma das principais tarefas da escola. (Ibidem, p. 124)
+
+ 	Em nosso fazer pedagógico, para atingirmos as capacidades do pensamento lógico de nossos aprendentes, é imperativo nos instrumentalizar de conhecimentos esclarecedores acerca de como as possibilidades do pensamento lógico se desenvolvem. Para tanto é imprescindível nos apropriarmos da noção de estágio proposta por Piaget, noção central na abordagem piagetiana sobre o desenvolvimento cognitivo. Para ele os estágios são estruturas de conjunto em que cada estrutura se relaciona ao todo e somente tem significado nesse todo. Possuem caráter integrativo, sendo as estruturas de um nível integradas no nível subsequente. E têm um nível de preparação -- esquemas construídos no estágio anterior -- e um nível de acabamento -- construção de novos esquemas. Por fim, os estágios apresentam uma ordem de sucessão invariável em uma cronologia variável. Assim, na sequência dos estágios podem ocorrer defasagens.
+____
+Em sua proposição teórica Piaget apresenta três grandes estágios de desenvolvimento cognitivo, cada um com subestágios. O primeiro deles é o estágio da inteligência sensório-motora que consiste em adaptação prática ao mundo. Formada, progressivamente, após o nascimento, a partir dos reflexos -- esquemas mais primitivos de assimilação -- e desenvolvida em seis estágios por meio dos quais a criança realiza adaptações inteligentes. O segundo é o estágio da inteligência operatório-concreto, dividido em dois subestágios: Pré-operatório e Lógico-concreto. O pré-operatório é um período de preparação para as operações lógico-concretas vivenciado dos dois aos sete anos. Nesse subestágio verifica-se o desenvolvimento da linguagem impactante na socialização da ação, marcada pela interação entre indivíduos, no desenvolvimento do pensamento por meio do pensamento verbal (finalismo -- porquês, animismo e artificialismo) e no desenvolvimento da intuição. O subestágio lógico-concreto, vivenciado dos sete aos 12 anos, é marcado pelo surgimento do pensamento lógico sobre as coisas concretas compreendendo as relações entre coisas e capacidades para classificar objetos, superação do egocentrismo da linguagem, aparecimento das noções de conservação de substância, peso e volume.
+
+Enfatizamos que as idades acima colocadas servem para dar noção de aproximação cronológica. Como já vimos, a cronologia no desenvolvimento é variável. O terceiro é o estágio da inteligência formal em que se verifica o desenvolvimento de estruturas operatórias formais, marcada pelo pensamento capaz de construir sistemas e teorias abstratas, formando e entendendo conceitos abstratos. Jean Piaget, nascido na Suíça em 1896, foi um Biólogo por formação e estudou Filosofia e Ciências Naturais. Construiu a "Teoria do conhecimento" que serve até hoje como orientação sobre práticas pedagógicas para o professor. Para o autor, a criança se desenvolve a partir das relações que têm com o meio em que vive e desenvolvimento passa por estágios que devem ser classificados para o trabalho do professor em fornecer ferramentas para que o aluno construa seu saber. Para Piaget, o conhecimento é construído na experiência, sendo essa experiência tal como seu valor moral e cultural. Outra máxima de Piaget é sobre a relação do professor com o aluno, que deve se fazer de maneira mútua e não unilateral, democratizando-as.
+
+Fonte: PELLEGRINI, Denise. "Aprenda com eles e ensine melhor" Revista Nova Escola. Janeiro/Fevereiro de 2001.
+
+JUVENTUDE: PROJETO DE VIDA
+
+Conforme Piaget, a personalidade começa a se formar no final da infância, entre 8 e 12 anos, com a organização autônoma das regras, dos valores, a afirmação da vontade. Esses aspectos subordinam-se num sistema único e pessoal e vão-se exteriorizar na construção de um projeto de vida. Esse projeto é que vai nortear o indivíduo em sua adaptação ativa à realidade, que ocorre através de sua inserção no mundo do trabalho ou na preparação para ele, quando ocorre um equilíbrio entre o real e os ideais do indivíduo, [pg. 106] isto é, de revolucionário no plano das ideias, ele se torna transformador, no plano da ação.
+
+É importante lembrar que na nossa cultura, em determinadas classes sociais que ``protegem'' a infância e a juventude, a prorrogação do período da adolescência é cada vez maior, caracterizando-se por uma dependência em relação aos pais e uma postergação do período em que o indivíduo vai se tornar socialmente produtivo e, portanto, entrará na idade adulta.
+
+Na idade adulta não surge nenhuma nova estrutura mental, e o indivíduo caminha então para um aumento gradual do desenvolvimento cognitivo, em profundidade, e uma maior compreensão dos problemas e das realidades significativas que o atingem. Isto influencia os conteúdos afetivo-emocionais e sua forma de estar no mundo.
+(BOCK, 2008, p. 139)
+____
+=== DESENVOLVIMENTO NA PERSPECTIVA INTERACIONISTA DE VYGOTSKY E IMPLICAÇÕES PEDAGÓGICAS
+	
+Lev Vygotsky em parceria com seus colaboradores Alexander Romanovich Luria (1902-1977) e Alexei Nikolaievich Leontiev (1904-1979) compõe o grupo de teóricos da chamada Psicologia Soviética, que muito se destacou após a revolução de 1917 ao buscar abordar a natureza e significação dos fenômenos psicológicos humanos sob novas bases, perspectivando a democratização do saber produzido pela e para a sociedade do novo contexto político soviético.
+Vygotsky buscou uma abordagem possibilitadora de descrição e explicação das funções psicológicas superiores em termos aceitáveis para as ciências naturais. O grande avanço de sua abordagem foi tratar as funções psicológicas a partir do estudo de fenômenos propriamente humanos, sem reduzi-las a inferências extraídas da psicologia animal. Assim, as atividades humanas ganham novo status epistemológico em que a função linguagem ocupa lugar de destaque no desenvolvimento humano pela importância que tem na construção dos processos do pensamento. Com essa posição teórica inaugura-se nova perspectiva para a Psicologia. Esse teórico foi o primeiro psicólogo a visualizar a cultura como integrante da natureza humana, mecanismo por ele chamado de processo de internalização que acontece do interpsíquico para o intrapsíquico. No campo da Psicologia Vygotsky propôs uma abordagem dialética dos fenômenos psicológicos e buscou revelar a gênese social da consciência. Para ele as funções psicológicas são efeito e causa da atividade social do homem. Pois a consciência se constrói no processo de produção social do homem.
+A prática profissional como professor de educação especial, psicólogo e a reflexão sobre essas experiências o levou a uma concepção avançada sobre o papel da aprendizagem no desenvolvimento, ampliando os pressupostos acerca da inteligência infantil. Evidencia que na avaliação da capacidade intelectual da criança o desempenho nos testes psicológicos é insuficiente por mensurarem apenas o nível de desenvolvimento cognitivo alcançado, nada informando acerca do desenvolvimento iniciado e ``não atingido ainda'' e com ajuda podem alcançar -- desenvolvimento proximal. Diante disso o papel da escola é ensinar a aprender, permitir que o sujeito trabalhe além do nível de desenvolvimento real (desenvolvimento já completado) mobilizando a zona de desenvolvimento (espaço entre o real e o potencial -- o que está próximo de ser atingido, mas precisa de ajuda para alcançar).
+	Na visão de Vygotsky os processos de desenvolvimento e aprendizagem não coincidem. Opondo-se às ideias ate então colocadas, ele fundamenta a posição teórica em que os processos de desenvolvimento podem ser beneficiados pelas aprendizagens. Ou seja, o indivíduo se desenvolve enquanto aprende. Nesse ponto Vygotsky e Piaget se contrapõem. Enquanto o primeiro defende que a aprendizagem antecede o desenvolvimento, o segundo defende que o desenvolvimento antecede a aprendizagem.
+==== Relação pensamento linguagem na perspectiva de Vygotsky
+O enfoque de Vygotsky sobre a relação linguagem e pensamento dá-se no sentido de buscar compreender as implicações da linguagem no processo de hominização, isto é, na passagem da consciência predominantemente biológica, instintiva, para a racional, em que a palavra não é analisada como uma das funções simbólicas, mas como o sistema simbólico básico, produzido a partir da necessidade de intercâmbio entre os indivíduos durante o trabalho, atividade especificamente humana, que exige a troca de informações e ações conjuntas sobre o mundo.
+Nessa perspectiva a linguagem é um produto histórico e significante da atividade mental, que encerra em si o saber, os valores, as normas de conduta, as experiências organizadas pelos antepassados, por isso participa diretamente no processo de formação do psiquismo desde o nascimento. Inicialmente o bebê interage com o meio orientado por motivos biológicos. Suas atividades são impulsionadas por uma consciência reflexológica, pré-consciente. Nesse momento, a linguagem e consciência são duas linhas de ação inteiramente independentes, de um lado tem-se a linguagem pré-intelectual, movida por sensações, uma comunicação expressa, principalmente, pelo choro e através de movimentos, ainda desprovidos de sentido para quem escuta. De outro lado, observa-se uma consciência pré-linguística que não intui, não simboliza. Uma ``inteligência prática'' como denomina Vygotsky, logo, não há pensamento.
+O encontro entre a linguagem social -- aprendida no meio -- e a consciência reflexológica é o momento de maior impacto no curso da constituição do pensamento. As imagens e as representações conceituais invadem a inteligência prática, tornando-a consciente. Quando isso acontece não há mais distinção entre linguagem e pensamento, estes passam a ser processos interdependentes, compondo uma única unidade. 
+A linguagem intervém na formação e no funcionamento de todos os processos psíquicos. Mas, é em relação ao pensamento que suas implicações são fundamentais e decisivas. Ela está intimamente ligada ao pensamento. Não é nem anterior nem posterior a este, ambos se elaboram juntos no trabalho e por meio dele -- motivo pelo qual a mesma só reflete o que é produzido no contexto das relações sociais. Linguagem e pensamento coexistem numa cumplicidade indissolúvel na qual a primeira dá forma e objetiva a existência do segundo.
+=== Lev Vigotsky/Imagem Revista Escola
+imagem do cabinha
+
+
+Lev Vigotsky, nascido em 1896, foi um pensador Bielo-Russo formado em Direito.
+Trabalhou com o conceito de que o indivíduo não é cópia do meio no qual vive. Isto é, ele sofre influências de várias direções. Com esse pensamento, Vygotsky se posicionou contra as principais correntes de sua época (pensamento inatista). Para o pensador, o indivíduo sofre influências baseadas em suas experiências que constroem sua vivência, sendo muito importante o grupo cultural no qual esta inserido. O papel do professor nesse desenvolvimento é de ``tradutor'' do conhecimento que o aluno possui de maneira superficial, o professor deve estar entre a zona de "desenvolvimento real" e o "desenvolvimento potencial" na educação. O desenvolvimento real seria a zona de conhecimento que o indivíduo já conhece e o desenvolvimento potencial o que ele poderá conhecer.
+
+Fonte: PELLEGRINI, Denise. "Aprenda com eles e ensine melhor" Revista Nova Escola. Janeiro/Fevereiro de 2001.
+
+==== PENSAMENTO E PALAVRA
+
+O significado de uma palavra representa um amálgama tão estreito do pensamento e da linguagem, que fica difícil dizer se se trata de um fenômeno da fala ou de um fenômeno do pensamento. Uma palavra sem significado é um som vazio; o significado, portanto, é um critério da ``palavra'', seu componente indispensável. Pareceria, então, que o significado poderia ser visto como um fenômeno da fala. Mas, do ponto de vista da Psicologia, o significado de cada palavra é uma generalização ou um conceito. E como as generalizações e os conceitos são inegavelmente atos de pensamento, podemos considerar o significado como um fenômeno do pensamento. Daí não decorre, entretanto, que o significado pertença formalmente a duas esferas diferentes da vida psíquica. O significado das palavras é um fenômeno de pensamento apenas à medida que o pensamento ganha corpo por meio da fala, e só é um fenômeno da fala à medida que esta é ligada ao pensamento, sendo iluminada por ele. 
+
+É um fenômeno do pensamento verbal, ou da fala significativa — uma união da palavra e do pensamento.
+
+Nossas investigações experimentais confirmam plenamente essa tese básica. Não só provaram que o estudo concreto do desenvolvimento do pensamento verbal é possível usando-se o significado das palavras como unidade analítica, mas também levaram a outra tese, que consideramos o resultado mais importante de nosso estudo, e que decorre diretamente da primeira: o significado das palavras evolui. A compreensão desse fato deve substituir o postulado da imutabilidade do significado das palavras.
+
+Do ponto de vista das antigas escolas de Psicologia, o elo entre a palavra e o significado é associativo, estabelecido pela reiterada percepção simultânea de um determinado som e de um determinado objeto. Em nossa mente, uma palavra evoca o seu conteúdo do mesmo modo que o casaco de um amigo nos faz lembrar desse amigo, ou uma casa, de seus habitantes. A associação entre a palavra e o significado pode tornar-se mais forte ou mais fraca, enriquecer-se pela ligação com outros objetos de um tipo semelhante, expandir-se por um campo mais vasto ou tornar-se mais limitada, isto é, pode passar por alterações quantitativas e externas, mas não pode alterar a sua natureza psicológica. Para isso, teria que deixar de ser uma associação. 
+
+Desse ponto de vista, qualquer desenvolvimento do significado das palavras é inexplicável e impossível — uma conclusão que constitui um obstáculo tanto para a Lingüística quanto para a Psicologia. Uma vez comprometida com a teoria da associação, a semântica persistiu em tratar o significado das palavras como uma associação entre o som da palavra e o seu conteúdo. Todas as palavras, das mais concretas às mais abstratas, pareciam ser formadas do mesmo modo em termos do seu significado, não contendo nada de peculiar à fala como tal; uma palavra fazia-nos pensar em seu significado da mesma maneira que qualquer objeto nos faz lembrar de um outro. Pouco surpreende que a semântica sequer tenha colocado a questão mais ampla do desenvolvimento do significado das palavras. O desenvolvimento foi reduzido às mudanças nas conexões associativas entre palavras e objetos isolados: uma palavra podia, a princípio, denotar um objeto e, em seguida, associar-se a outro, do mesmo modo que um casaco, tendo mudado de dono, nos faria lembrar primeiro de uma pessoa e, depois, de outra. A linguística não percebeu que, na evolução histórica da linguagem, a própria estrutura do significado e a sua natureza psicológica também mudam. A partir das generalizações primitivas, o pensamento verbal eleva-se ao nível dos conceitos mais abstratos. Não é simplesmente o conteúdo de uma palavra que se altera, mas o modo pelo qual a realidade é generalizada e refletida em uma palavra.
+(VYGOTSKY, 1993)
+
+Após estudarmos o desenvolvimento cognitivo a partir das contribuições de Piaget e Vygotsky podemos compreender quão importante é aprofundarmos estudos possibilitadores do conhecimento acerca de como se desenvolve a inteligência humana e quanto a educação pode oportunizar às pessoas um desenvolvimento que propicie o empoderamento que todos necessitam para termos uma sociedade inclusiva, em que todos sejam educados/escolarizados numa perspectiva de equidade.
+
+=== REFERÊNCIA
+
+COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. Psicologia da Educação: um estudo dos processos psicológicos de desenvolvimento e aprendizagem humanos, voltado para a educação. Belo Horizonte: Editora lê, 2000.
+
+
+SUGESTÕES PARA LEITURA E REFLEXÃO:
+http://www.nutes.ufrj.br/abrapec/viiienpec/resumos/R1092-2.pdf 
+
+
+
+== PSICOLOGIA DA APRENDIZAGEM
+
+
+Dentre os animais, o homem é o que apresenta o menor número de comportamentos reflexos -- reações inatas, fixas e invariáveis. A forma como o humano atua no mundo apresenta um repertorio de comportamentos aprendidos, construídos a partir de experiências. O processo de aprender se inicia com o nascimento e se desenvolve até a morte. A aprendizagem é o processo pelo qual se constrói conhecimentos capazes de contribuir para realização de atividades possibilitadoras de ajustamentos em todos os aspectos -- físico, emocional e social. A importância da aprendizagem é inegável quando se reconhece que o homem vive de acordo com o que aprende. Cada um é o que é pelo que aprendeu e pelas aprendizagens possíveis de serem realizadas frente às demandas de ajustamentos, em que novas estruturas são desenvolvidas para o atingimento do equilíbrio. Tal processo tem papel fundamental na vida de cada pessoa. Em toda a história da civilização o homem desenvolveu comportamentos visando superar dificuldades próprias dos indivíduos, sociedades, civilizações e buscando garantir o viver de forma equilibrada. 
+
+Cada geração desenvolve conhecimentos a partir das experiências e aprendizagens de pessoas que viveram em época anterior e assim é ampliada a riqueza cultural composta por conhecimentos e técnicas humanas. Os modos de ser -- costumes, valores, legislação, religião e linguagens -- se constituem pela capacidade que o homem tem de aprender conteúdos que historicamente são construídos. A atividade de aprender é essencial à sobrevivência exitosa do homem. Em decorrência disso, meios educacionais/escolares foram organizados perspectivando a educação necessária a tornar a vida do homem sustentável nos diversos aspectos.
+
+=== EVOLUÇÃO HISTÓRICA DA PSICOLOGIA 
+
+Lembremos....
+
+A preocupação com a aprendizagem é tão antiga quanto à existência do homem. Podemos identificar proposições acerca do aprender humano desde os filósofos e pensadores gregos até os nossos dias. É curioso perceber como a ideia acerca do aprender humano vai se diferenciando ao longo da história do conhecimento ocidental. Para Sócrates o conhecimento preexistia no espírito do homem e a aprendizagem se constituía no despertar de conteúdos inatos. 
+
+Em Platão, discípulo de Sócrates, temos a postulação dualista de corpo (coisas) e alma (ideias) em que esta guarda lembranças da encarnação anterior. Nessa perspectiva a aprendizagem é reminiscência. Aristóteles preconiza uma forma de abordagem científica ao rejeitar a preexistência das ideias e utilizar a observação e experimentação, defendendo que ``nada está na inteligência que não tenha primeiro estado nos sentidos''. Utilizou o método dedutivo, característico de seu sistema lógico e aplicou o método indutivo em suas observações, experiências e hipóteses.
+
+[TIP]
+.Uma pausa para aprofundamento... 
+====
+
+
+Fim da imagem.
+====
+
+
+==== A IMPOTÊNCIA DA EDUCAÇÃO
+
+Donde vem que tantos homens de méritos tenham filhos medíocres? Eu vou te explicar. A coisa nada tem de extraordinário, se considerares o que já disse antes com razão, que, nesta matéria, a virtude, para que uma cidade possa subsistir, consistiria em não ter ignorantes. Se esta afirmação é verdadeira (e ela o é) no mais alto grau, considera, segundo teu parecer. Suponhamos que a cidade não pudesse subsistir a não ser que fôssemos todos flautistas, cada um na medida em que fosse capaz; que esta arte fosse também ensinada por todos e para todos publicamente e, em particular, que se castigasse quem tocasse mal, e que não se recusasse este ensinamento a ninguém, da mesma forma que hoje a justiça e as leis são ensinadas a todos sem reserva e sem mistério, diferentemente dos outros misteres -- porque nós nos prestamos serviços reciprocamente, imagino, por nosso respeito da justiça e da virtude, e é por isto que todos estamos sempre prontos a revelar e a ensinar a justiça e as leis -- bem, nestas condições, a supor que tivéssemos o empenho mais vivo de aprender e de ensinar uns aos outros a arte de tocar flauta, crês, por acaso, Sócrates, disse-me ele, que se veria frequentemente os filhos de bons flautistas levarem vantagem sobre os dos maus? 
+
+Quanto a mim não estou convencido, mas penso que aquele que tivesse filho melhor dotado para a flauta vê-lo-ia distinguir-se, enquanto que o filho mal dotado permaneceria obscuro; poderia acontecer, frequentemente, que o filho do bom flautista se revelasse medíocre e que o do medíocre viesse a ser bom flautista; mas, enfim, todos, indistintamente, teriam qualquer valor em comparação aos profanos e aos que são absolutamente ignorantes na arte de tocar flauta.
+
+Pensa desta forma, que hoje o homem que te parece o mais justo numa sociedade submetida às leis seria um justo e um artista nesta matéria, se o fôssemos comparar aos homens que não tiveram nem educação, nem tribunais, nem leis, nem constrangimento de qualquer espécie para forçá-los alguma vez a tomar cuidado da virtude, homens que fossem verdadeiros selvagens (...) Todo o mundo ensina a virtude na proporção do melhor que possa; e te parece que não há ninguém que a possa ensinar; é como se procurasses o mestre que nos ensinou a falar grego: tu não encontrarias; e não te sairias melhor, imagino, se procurasses qual mestre poderia ensinar aos filhos de nossos artesãos o trabalho de seu pai, quando se sabe que eles aprenderam este mister do próprio pai, na medida em que este lhe podia ter ensinado, e seus amigos ocupados no mesmo trabalho, de maneira que eles não têm necessidade de um outro mestre. Segundo meu ponto de vista, não é fácil, Sócrates, indicar um mestre para eles, enquanto seria facílimo para pessoas alheias a toda experiência; assim, também, da moralidade e de qualquer outra qualidade análoga. É o que acontece com a virtude e tudo o mais: por pouco que um homem supere os outros na arte de nos conduzir para ela, devemos nos declarar satisfeitos.
+
+Creio ser um destes, e poder melhor que qualquer outro prestar o serviço de tornar os homens perfeitamente educados, e merecer, por isto, o salário que peço, ou mais ainda, segundo a vontade de meus discípulos. Assim eu estabeleci da seguinte maneira a regulamentação do meu salário: quando um discípulo acabou de receber minhas lições, ele me paga o preço pedido por mim, caso ele o deseje fazer; do contrário, ele declara num templo, sob a fé dum juramento, o preço que acha justo ao meu ensinamento, e não me dará mais nada além.
+
+Eis aí, Sócrates, o mito e o discurso, segundo os quais eu desejei demonstrar que a virtude podia ser ensinada e que tal era a opinião dos atenienses, e que , por outro lado, não era de nenhuma maneira estranho que um homem virtuoso tivesse filhos medíocres ou que um pai medíocre tivesse filhos virtuosos: não vemos que os filhos de Policleto, que têm a mesma idade que Xantipo e Paralos aqui presentes, não estão à altura de seu pai, e que a mesma coisa acontece para muitos filhos de artistas? Quanto a estes jovens, não devemos apressar-nos em condená-los; ainda não deram tudo quanto prometem, porque são jovens.
+
+PLATÃO, Protágora., São Paulo, Maltes
+GADOTTI, Moacir. História das Idéias Pedagógicas. São Paulo, Ática, 1993
+
+Na Idade Média Santo Agostinho revive o método indutivo e adota a introspecção para o registro de suas experiências mentais. Santo Tomás de Aquino distingue verdades científicas (pautadas na pesquisa e experimentação) e verdades religiosas (fundadas na autoridade divina). Concebia a atividade de quem aprende como agente essencial da aprendizagem, considerando o processo de aprendizagem: inteligente, dinâmico e auto-ativo. Juan Luis Vives também adotou o método indutivo no desenvolvimento do pensamento filosófico e psicológico. Porém, na Idade Média a educação era essencialmente teológica e teórica. Portanto, pensadores como os dois últimos aqui citados não encontraram eco para suas ideias.
+
+A ciência moderna teve em seus precursores Copérnico, Bacon, Galileu, Descartes, Locke, dentre outros, o uso do método indutivo aristotélico, sistematizando a observação, experimentação, quantificação e classificação dos fenômenos. Locke adotando o princípio aristotélico e rejeitando a preexistência das ideias influencia a compreensão psicológica da educação na Inglaterra, Alemanha e Estados Unidos da América do Norte. Esse teórico foi ponto de partida para trabalhos de Comenius, Frobel e Pestalozzi. Contudo, é pelas mãos de Herbart que suas ideias são sistematizadas. 
+
+Lloyd Morgan formulou a teoria do ensaio-e-erro que teve grande impacto nas teorias modernas de aprendizagem por colocar a ação/comportamentos como base.
+
+As teorias da aprendizagem que fundamentam os meios educacionais se estabeleceram a partir das contribuições dos criadores da psicologia pedagógica moderna Herbart, Binet, Dewey, Thorndike, Claparede, Piaget e Vygotsky, dos reflexologistas Pavlov e Bechterev, dos behavioristas como Watson e Lashley, dos gestaltistas Koffka, Kohler e Wertheimer. O estudo dos fatos da aprendizagem também recebeu contribuições de K Lewin. As teorias contemporâneas da aprendizagem se constituem, também, a partir do pensamento psicanalítico de Freud, Adler, Jung, Fromm e do pensamento da fenomenologia de Husserl, Scheler e Merleau Ponty e do existencialismo de Heidegger, Jaspers e Sartre. Assim, podemos compreender que a construção conceitual da Psicologia e a fundamentação que oferece à educação constitui rico arsenal teórico que vem se configurando da Grécia antiga até os nossos dias e que muito há para aprendermos e nos instrumentalizar para um fazer pedagógico bem fundamentado que atenda às necessidades das pessoas que precisam de mediadores, da aprendizagem, competentes.
+
+=== CONCEITO E CARACTERÍSTICAS DA APRENDIZAGEM
+
+Encontramos na literatura ampla diversidade de conceitos e definições de aprendizagem, decorrentes da diversidade de perspectivas teóricas e cada uma delas apresenta posições filosófico-epistemológicas próprias para analisar o fenômeno humano. As posições teóricas que dispomos na psicologia e demais ciências humanas são lastreadas por visões de homem e de mundo constituídas a partir de posições político-teóricas. Dessa forma é necessário reconhecermos que a visão que temos acerca de qualquer fenômeno humano, e aqui nos referimos à aprendizagem e prática docente, manifesta postura acadêmica e revela a fundamentação filosófica-teórica. Portanto, o educador precisa ter formação consistente e coerente na dimensão pedagógica, condição imprescindível para uma prática docente bem sucedida.
+
+Em função da diversidade de conceitos e definições de aprendizagem abordaremos duas correntes: Teorias do Condicionamento e Teorias Cognitivistas. Tradicionalmente esses são os conjuntos de teorias mais aplicados à Psicologia da aprendizagem. Contribuem para reflexões que precisamos desenvolver com vistas à construção dos fundamentos psicológicos da educação, imprescindíveis à pratica docente eficaz. 
+
+==== Teorias do Condicionamento
+
+Nessas teorias temos contribuições definidoras da aprendizagem como consequências comportamentais, em que as condições ambientais são forças propulsoras. Nessa visão aprendizagem se dar por uma conexão entre estímulo e resposta tornando os comportamentos aprendidos, hábitos adquiridos pela prática. A transferência da aprendizagem, possibilitadora de resoluções de novas situações, é atingida pela evocação de hábitos passados que se apresentam como adequado para solução de novos problemas.
+
+==== Teorias Cognitivistas
+
+
+Nas teorias que compõem esse conjunto temos a aprendizagem entendida como um processo de relação envolvendo sujeito e mundo externo, numa perspectiva de interação. A aprendizagem é construída na comunicação com o mundo e se acumula na forma de conteúdos cognitivos. A construção dos conceitos ocorre por ação de uma estrutura cognitiva que organiza informações e as integra mantendo os conteúdos aprendidos por processos cognitivos como atenção e memória.
+
+O processo de organização das informações e de integração dos conteúdos à estrutura cognitiva é o que os cognitivistas consideram aprendizagem. Esse grupo de teorias enfatiza a diferença entre aprendizagem mecânica e aprendizagem significativa. A primeira entendida como a que se realiza com pouca ou nenhuma associação com conceitos disponíveis na estrutura cognitiva. A segunda ocorre quando uma nova informação articula-se com ``pontos de ancoragem para aprendizagem'' -- termo utilizado pelos cognitivistas com o sentido de conceitos existentes e disponíveis à articulação com novos conteúdos para constituição de aprendizagens.
+
+=== CARACTERÍSTICAS DA APRENDIZAGEM
+
+A partir da contribuição de várias teorias consideramos que a aprendizagem é um processo dinâmico, contínuo, global, pessoal, gradativo e cumulativo:
+
+Processo dinâmico:: por realizar-se somente com a atividade do ser aprendente. A aprendizagem não é um processo de absorção passiva, carece de atividade tanto externa (física) quanto interna (afetivo-emocional, intelectual e social).
+
+Processo contínuo:: porque está presente na vida do ser em todas as fases da vida: no início da vida, na infância, adolescência, idade adulta e no envelhecimento.
+
+Processo global:: por envolver todos os aspectos constitutivos da personalidade do ser no ato de aprender. 
+
+Processo pessoal:: visto que a aprendizagem é intransferível de pessoa para pessoa apesar da escola, movida por concepções antigas, ter acreditado que os professores ao ensinar os conteúdos de suas aulas levavam os alunos à aprenderem. 
+
+Processo gradativo:: por se realizar por meio de operações crescentemente complexas. A cada aprendizagem novos elementos são acrescidos às experiências anteriores (pontos de ancoragem) em dimensão gradativa e ascendente. 
+
+Processo cumulativo:: visto que a experiência de aprendizagem atual utiliza-se das experiências anteriores.
+
+
+=== REFERÊNCIAS
+
+BOCK, Ana Mercês Bahia. Psicologias: uma introdução ao estudo de psicologia. 14. Ed. São Paulo: Saraiva, 2008.
+
+CAMPOS, Dinah Martins de Souza. Psicologia da aprendizagem. 33. ed.  Petrópolis: Vozes, 2003. 
+
+COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. Psicologia da Educação: um estudo dos processos psicológicos de desenvolvimento e aprendizagem humanos, voltado para a educação. Belo Horizonte: Editora lê, 2000.
+
+=== ANÁLISE E REFLEXÃO
+
+Dialogando acerca das diversas teorias da Aprendizagem e Desenvolvimento discutidas da Grécia até os dias de hoje... 
+
+Estudamos até aqui, as diversas visões, desde os filósofos até os principais teóricos da psicologia e educação. Cada um com uma visão dos processos de desenvolvimento e aprendizagem, uns defendem ou defendiam que o desenvolvimento humano depende, exclusivamente, do amadurecimento das estruturas mentais e do desenvolvimento fisiológico, outros vêm na herança genética a explicação para alguns comportamentos, ou seja, percebem o desenvolvimento cognitivo como inato,  a partir de um código genético. Outros teóricos acreditam que o ambiente é quem molda os nossos comportamentos. 
+
+Neste capítulo trouxemos uma reflexão socrática, das Protágoras de Platão, que traz uma reflexão sobre o que é aprendido e o que pode ser ensinado...
+
+TIP: Faça, então, uma reflexão, junto a esses filósofos da educação grega, em seguida, procure, dentre as teorias discutidas por nós acerca do desenvolvimento e aprendizagem, em seguida, se posicione diante de qual teoria seria a mais viável para os processo educacionais que envolve o ensino aprendizagem das tecnologias na atualidade.
+
+// Explicar melhor como o aluno poderia fazer isto.
+
+
+=== MATERIAL COMPLEMENTAR
+
+NOTE: Esse espaço será utilizado para refletir dois textos ilustrativos que muito tem a contribuir com a formação do educador. O primeiro é um texto com título: Duas espécies de aprendizagem, do livro Liberdade para aprender do psicólogo humanista Carl Rogers. O segundo é um resumo do livro escrito por Maria Cristina Kupfer intitulado Freud e a educação: o mestre do impossível.
+
+
+==== TEXTO 1: DUAS ESPÉCIES DE APRENDIZAGEM
+
+ROGERS, Carl R. Liberdade para aprender. Belo Horizonte, Interlivros, 1978. p. 4-5.   
+
+A aprendizagem, creio, pode ser dividida em duas espécies gerais, dentro da mesma continuidade de significação, num extremo da escola está à espécie de tarefa que os psicólogos algumas vezes impõem a seus clientes -- a aprendizagem de sílabas sem sentido. Guardar de memória certos itens como baz, ent, nep, arl, lud e outros de igual teor é tarefa difícil. Porque não há significado algum aí, aprender tais sílabas não é fácil e, se aprendidas, são logo esquecidas.
+
+Com frequência nos negamos a reconhecer que muito do material apresentado aos estudantes em salas de aula tem, para eles, a mesma qualidade desconcertante e destituída de significado que tem para nós a lista de sílabas sem sentido. Isto é verdade, sobretudo para a criança pouco privilegiada, a quem uma experiência anterior não oferece contexto algum dentro do qual se insira o material com que se defronta. Mas quase todo estudante descobre que extensas porções do seu currículo não têm, a seu ver, o menor significado. Assim, a educação se transforma na frustrada tentativa de aprender matérias sem qualquer significação pessoal. Tal aprendizagem lida apenas com cérebro. Só se coloca ``do pescoço para cima''. Não envolve sentimentos ou significados pessoais; não tem a mínima relevância para a pessoa como um todo.
+
+Em contraste, há algo significante, pleno de sentido -- a aprendizagem experiencial. Quando a criança que está aprendendo a andar toca no aquecedor, aprenda a si mesma o significado de uma palavra ``quente''; percebe a necessidade de ter certos cuidados em relação a objetos semelhantes, no futuro; e sua aprendizagem é feita de modo tão significativo, que dela não se esquecerá. Também a criança que guarda de memória ``dois mais dois igual a quatro'' pode, um dia, ao brincar com seus toquinhos ou com suas bolas de gude, compreender, subitamente, que ``dois devem fazer quatro''. Descobriu algo que, para ela, tem significado, de um modo que envolve, ao mesmo tempo, o seu pensar e o seu sentir. Ou a criança que, laboriosamente, adquiriu a ``habilidade de ler'' pode -- se ver encantada, um dia, com uma história ilustrada, seja um livro cômico ou um conto de aventuras, e se capacita de que as palavras têm um poder mágico que põe fora de si mesma, dentro de outro mundo. Só então, aprendeu realmente a ler.
+
+Marshall Mcluhan dá-nos outro exemplo. Acentua ele que se uma criança de cinco anos é levada a um país estrangeiro, e se lhe é permitido brincar, livremente, durante horas, com seus novos companheiros, sem nenhuma instrução prévia sobre a língua que eles falam, aprendê-la-á em poucos meses e adquirirá até mesmo a entonação sentido para ela, e tal aprendizagem se processa em espaço de tempo relativamente curto. Mas se alguém tentar instrui-la na nova língua, baseada essa instrução nos elementos que têm significado para o professor, a aprendizagem será tremendamente lenta ou simplesmente não se fará.
+
+Esse exemplo, fundado em fato comum, merece ser bem ponderado. Por que é que a criança, deixada a si mesma, aprende rapidamente, de forma que não se esquecerá tão cedo e por um meio que tem significado eminentemente prático para ela? E por que tudo se poderia deteriorar se fosse ``ensinada'' de maneira a só envolver a sua inteligência? Talvez um exame mais aprofundado nos ajude a responder.
+
+Definamos, com um pouco mais de precisão, os elementos envolvidos em tal aprendizagem significativa ou experiencial. Ela tem a qualidade de um envolvimento pessoal: a pessoa como um todo, tanto sob o aspecto sensível quanto sob o aspecto cognitivo, inclui-se no fato de aprendizagem. Ela é auto iniciada; mesmo quando o primeiro impulso ou o estímulo vem de fora, o senso da descoberta, do alcançar, do captar e do compreender vem de dentro. É penetrante: suscita modificação no comportamento, nas atitudes, talvez mesmo na personalidade do educando: este sabe que se está indo ao encontro de suas necessidades, em direção ao que quer saber se a aprendizagem projeta luz sobre a sombria área de ignorância da qual tem ele experiência. O lócus da avaliação pode-se dizer, reside no educando. Significar é sua essência: quando se verifica a aprendizagem, o elemento de significação desenvolve-se para o educando dentro da sua própria experiência como um todo.
+
+==== TEXTO 2: FREUD E A EDUCAÇÃO
+
+KUPFER, Maria Cristina. Freud e a educação. O mestre do impossível. São Paulo: Scipione, 1989.
+
+Freud acalentava o sonho de que um dia a psicanálise pudesse ser colocada a serviço da sociedade como um todo e, principalmente, da educação. E assim faz parte de uma coleção de pensadores que reúne pensadores da educação. Seu modo de produzir teoria revelou a preciosa relação que tinha com o ato de pensar. Foi um mestre da Educação porque abriu caminho para a reflexão sobre o que é ensinar e o que é aprender.
+
+Por volta de 1908, ele julgava existir uma relação entre a repressão sexual exercida pela vida social de sua época e o aumento de neuroses. Se assim fosse, bastaria, a principio, propor à sociedade práticas educativas não-repressivas e respeitadoras.
+
+No final de sua vida, Freud mudou de ideia. Para ele, a educação sexual, as práticas educativas não repressivas, não garantem que a neurose seja evitada. Contudo, sua filha Anna dedicou-se à pesquisa das bases psicanalíticas para uma educação. Através de seus livros, muitos professores entram em contato com aquilo que passou a ser chamado de desenvolvimento afetivo das crianças.
+
+Hoje pouco resta dos reforços de Anna Freud. Basicamente, esse conhecimento teórico revelou-se inoperante, ou seja, não se converteu num instrumento útil ao educador. Atualmente, são muitos os psicanalistas que negam a possibilidade de existir uma pedagogia analítica, ou uma psicanálise aplicada à educação.
+
+O tema das relações entre a psicanálise e Educação, e da complexidade da ``missão'' do educador pode ser refletido a partir da seguinte afirmação de Freud: ``Vamos deixar claro para nós mesmo qual a tarefa mais imediata da educação. A criança deve aprender a dominar seus instintos. É impossível lhe dar liberdade para seguir sem restrições a seus impulsos. Seria uma experiência muito instrutiva para os psicólogos de crianças, mas os pais não poderiam viver, e as crianças mesmas teriam grande prejuízo, de imediato e com o passar do tempo. Logo, a Educação tem que inibir, proibir, reprimir, e assim fez em todos os tempos''.
+
+Quando nasceu a Psicanálise, os educadores progressistas se entusiasmaram com a possibilidade de uma nova pedagogia, que, possuindo mais compreensão e concedendo mais liberdade à criança, impedisse o surgimento das angustias e neuroses. Mas, logo se percebeu que essa esperança era pouco realista. A ausência de restrições e de orientações pode produzir delinquentes, em vez de crianças saudáveis. As angustias são inevitáveis; mesmo a infância mais feliz tem seu grão de angustia. Contudo a repressão excessiva dos impulsos pode dar origem a distúrbios neuróticos. O problema, portanto, é encontrar um equilíbrio entre proibição e permissão. O rigor é algo necessário ao bom funcionamento psíquico, nem por isso precisa ser excessivo.
+
+As descobertas acerca da sexualidade é um ponto de destaque na teoria de Freud. Dentre outras coisas, defende que cada um dos aspectos perversos, presentes na sexualidade infantil, os quais chama de pulsões parciais -- pulsão oral, no caso do prazer de sucção; anal, no caso da defecação; escópica, no caso do olhar. A pulsão sexual é passível de se dirigir a outros fins que não os propriamente sexuais: é passível de sublimação. Eis aí um ponto que interessa muito ao educador, pois a educação tem um papel primordial no processo de sublimação.
+
+Uma pulsão é dita sublimada quando deriva para um alvo não-sexual. Além disso, visa objetos socialmente valorizados. Segundo Freud, há uma espécie de excesso libidinal, algo como uma reserva, que não é usada para fins diretamente sexuais e deve ser, então, de alguma maneira reaproveitada. Haveria, por isso, a possibilidade de certa reciclagem dessa energia, através da ``dessexualização'' do objeto e da inibição de seu fim sexual. Com isso, torna-se possível que o individuo se volte para atividades ``espiritualmente elevadas'', segundo a expressão usada por Freud. São elas a produção cientifica, artística, e todas aquelas que promovem um aumento no bem-estar e da qualidade de vida dos homens. O interessante a ser observado, nesse aspecto das ideias desse estudioso, é o fato de tais atividades serem impulsionadas pela libido, embora o objeto visado não seja sexual. Mas devido a presença da libido, o objeto visado adquire um ``colorido eterno'', a ânsia sexual ainda se faz presente, só que de modo mais brando, transformada em algo terno ou simplesmente prazeroso.
+
+Freud defende que educador é aquele que busca para seu educando o justo equilíbrio entre prazer individual -- vale dizer, o prazer inerente à ação das pulsões -- e as necessidades sociais -- vale dizer, a repressão e a sublimação dessas pulsões.
+
+O inconsciente, conceito importante da teoria desse estudioso, foi entendido melhor através do estudo dos sintomas neuróticos, isto porque, esses são vistos como manifestações do inconsciente. E aos poucos, foi encontrando em outras formações psíquicas não neuróticas a manifestações do inconsciente.  Essas outras manifestações, ao lado dos sintomas, são os sonhos e os atos falhos.
+
+Para os propósitos de um educador vale a pena concentrar a atenção sobre os atos falhos. Esses são pequenas manifestações que emergem em nossa fala, às quais se costuma dar muita importância. Veja por exemplo o conferencista citado por Freud que, ao invés de iniciar a conferencia com ``Boa noite'', começou dizendo ``Até logo''. Estes pequenos episódios, longe de serem casuais, são significativos e poderão ser esclarecidos, caso se proceda a uma analise de uma ocorrência. O caso do conferencista é óbvio, ao contrário de outros, que exigem uma análise mais minuciosa. Tudo indica que ele não estava muito disposto a dar tal conferencia, e o ato falho manifestou seu desejo de que ela já tivesse terminado, ao invés de estar apenas começando.
+
+Através de atos falhos, diz Freud, um homem pode revelar seus mais íntimos segredos, ``e se aparecem com facilidade e frequência especiais em indivíduos sãos, que conseguirem realizar com êxito a repressão de suas tendências inconsistentes, isto se deve à futilidade, à aparência insignificante com que surgem''.
+
+Todo individuo que abre a boca está comprometido com que diz num limite que ultrapassa sua consciência. Alguém que fala pode expressar muito mais do que está procurando dizer. Com essa descoberta, a consciência foi desalojada da posição de comando que vinha ocupando até então na Filosofia.
+
+O que Freud nos apresenta é a ideia de que não somos ``senhores em nossa própria casa'' e acrescenta mais ima ``ferida narcísica'' àquelas anteriormente trazidas por Copérnico e por Darwin: a terra não é o centro do sistema, o homem não é o centro da criação, Agora, a consciência não é o centro de nosso psiquismo, não reina soberana sobre nossa vontade.
+
+As realidades do inconsciente e da pulsão de morte não casam bem com os ideais de promoção de bem-estar e de felicidade próprios da educação. Portanto, podemos perceber que do pensamento de Freud emana uma filosofia educacional que leva em conta a dialética da vida. A educação exerce seu poder através da palavra. Seus esforços concentram-se na tentativa de estimular, pelo discurso à consciência, os indivíduos a se conduzirem em uma direção por ela própria determinada. Da palavra, essa disciplina extrai seu poder de convencimento e de submissão do ouvinte a ela. A retórica, entendida como instituição de leis orientadoras para a construção de um discurso, não aspira senão ao aumento desse poder de convencimento, característico da palavra.
+
+A realidade do inconsciente nos ensina, como já foi dito, que a palavra escapa ao falante. Ao falar, um político ou um educador estará também fadado a se perder, a revelar-se, a ir em direção contrária àquela que seu eu havia determinado. A palavra com a qual esperava submeter acaba, na verdade, por submetê-lo à realidade de seu próprio desejo inconsciente. Aí está o paradoxo. A palavra ensina a psicanálise, é ao mesmo tempo lugar de poder e submissão; de força e de fraqueza; de controle e de descontrole. Como então construir um edifício educacional sobre uma base paradoxal, incoerente?
+
+As ideias de Freud sobre Educação, inspiradas pela psicanálise, são de certa forma, por ele ``desditas'' ou questionadas. O educador deve promover a sublimação, mas a sublimação não se promove, por ser inconsciente. Deve-se ilustrar esclarecer às crianças a respeito da sexualidade, se bem que elas não irão dar ouvidos. O educador deve se reconciliar com a criança que há dentro dele, mas é uma pena que ele tenha se esquecido de como era mesmo essa criança! Conclusão: a Educação é uma profissão impossível. Impossível não é sinônimo de irrealizável, mas indica principalmente a ideia de algo que não pode ser jamais integralmente alcançado: o domínio, a direção e o controle que estão na base de qualquer sistema pedagógico.
+
+NOTE: A viagem ao país das formulações de Freud termina aqui, com uma conclusão, ao que tudo indica decepcionante: a psicanálise não serve como principio organizador de um sistema ou de uma metodologia educacional.
+
