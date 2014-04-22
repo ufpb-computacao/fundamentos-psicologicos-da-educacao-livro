@@ -11,7 +11,7 @@ aprendizagens. A construção desses conhecimentos se dará não só
 pelo que esse escrito oferece, mas, também pela interação virtual 
 indispensável de aluno/equipe docente, e por intermédio de diversos 
 recursos educativos dentre eles: textos, pesquisas, reflexões 
-individuais e coletivas – desenvolvidas sobre as bases da 
+individuais e coletivas -- desenvolvidas sobre as bases da 
 interação virtual entre aprendentes e equipe docente que estará 
 sempre pronta para atender às demandas dos seus aprendentes. 
 
@@ -53,6 +53,7 @@ processo ensino aprendizagem. Assim, reconhecemos que com a ajuda da
 Psicologia podemos buscar respostas a algumas das questões dos 
 educadores, a exemplo de: 
 
+.Questões dos educadores
 ____
 - O que é aprendizagem? 
 - Que fatores facilitam a aprendizagem? 
@@ -84,7 +85,7 @@ resolver problemas psicológicos. Nesse fazer em moldes científico
 diversas afirmações formais contribuíram para que a psicologia 
 começasse a florescer e conquistar o status de ciência. Com isto 
 surgem diferentes posturas de investigação científica, estas 
-posturas são consideradas como abordagens - escolas ou correntes - 
+posturas são consideradas como abordagens -- escolas ou correntes -- 
 da Psicologia.
 
 Ao abordarmos a construção histórico-filosófica do conhecimento 
@@ -99,12 +100,13 @@ teoria, mas de oscilações entre uma e outra teoria, em conformidade
 com a sua base epistemológica e com o contexto sociocultural do 
 lugar de onde emergiram.
 
-[NOTE]
+****
 Na tentativa de consolidação científica dos conhecimentos acerca do
 comportamento humano em seus diversos aspectos, estudiosos
 desenvolveram formatos investigativos diferentes que deram origem as
 primeiras abordagens -- escolas ou correntes -- da Psicologia: o
 funcionalismo, o estruturalismo e o associacionismo.
+****
 
 O Funcionalismo:: Considerada a primeira sistematização da 
 psicologia foi desenvolvida por William James no contexto da 
@@ -181,18 +183,24 @@ satisfatória para ele e para os aprendentes, visto que essa ciência
 procura estudar e explicar como a aprendizagem se desdobra sob a 
 ação de inúmeros fatores.
 
-=== Analisando e Refletindo
-
+.Analisando e Refletindo
+____
 . Em que momento ocorre a relação entre psicologia e 
 investigação científica?
 . Como se definiram as primeiras correntes psicológicas?
+____
 
+[TIP]
+====
+Por que este vídeo é sugerido?
 
 .Sugestão de vídeo: http://youtu.be/AAJPwZ0Csr0
 ["qrcode", size=3]
 ----
 http://youtu.be/AAJPwZ0Csr0
 ----
+
+====
 
 === Referências do Capítulo
 
@@ -202,4 +210,5 @@ psicologia*. _14. Ed. São Paulo: Saraiva, 2008_.
 PILETTI, Nelson. *Psicologia Educacional*. _17ª ed. Ática. São 
 Paulo, SP. 2006_. 
 
+// Linha em branco
 
