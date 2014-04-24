@@ -211,5 +211,7 @@ psicologia*. _14. Ed. São Paulo: Saraiva, 2008_.
 PILETTI, Nelson. *Psicologia Educacional*. _17ª ed. Ática. São 
 Paulo, SP. 2006_. 
 
-// Linha em branco
+////
+Sempre termine os arquivos com uma linha em branco.
+////
 
