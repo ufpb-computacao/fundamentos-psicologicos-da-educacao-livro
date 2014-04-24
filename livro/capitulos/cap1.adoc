@@ -1,4 +1,6 @@
 == Noções introdutórias da psicologia e sua aplicação à educação
+:cap: 1
+:img: {img_dir}/{cap}
 
 No nosso componente curricular e de forma inicial nesse texto, 
 abordaremos alguns conceitos imprescindíveis a Fundamentos da 
