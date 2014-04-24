@@ -1,4 +1,6 @@
 == Teorias Psicológicas Contemporâneas do Desenvolvimento e Aprendizagem
+:cap: cap2
+:img: {img_dir}/{cap}
 
 A Psicologia do Desenvolvimento expressa nos dias atuais uma complexa 
 rede de significações a respeito das mudanças pelas quais passam 
@@ -45,11 +47,12 @@ criticismo kantiano, o idealismo e o materialismo histórico e
 dialético, as principais teorias psicológicas do desenvolvimento e 
 aprendizagem na contemporaneidade.
 
+.Decartes
 ****
 Com Descartes o mecanicismo do universo torna-se o paradigma 
 dominante da ciência moderna. As plantas e os animais, como não 
 possuíam alma, de acordo com Descartes, passaram a ser considerados 
-como sendo "simples máquinas" e, portanto, possíveis de serem 
+como sendo ``simples máquinas'' e, portanto, possíveis de serem 
 conhecidos através do mesmo método aplicado aos objetos. 
 
 A alma, entretanto, deveria ser estudada de maneira diferente do 
@@ -71,6 +74,9 @@ muitas das teorias psicológicas no mundo contemporâneo.
 ****
 
 === Teorias Psicológicas do Desenvolvimento e Aprendizagem: uma Tessitura Contemporânea
+++++
+<titleabbrev>Teorias Psicológicas do Desenvolvimento e Aprendizagem</titleabbrev>
+++++
 
 A seguir faremos a caracterização das Teorias que vigoram no 
 cenário teórico da psicologia contemporânea: Teorias 
@@ -106,6 +112,7 @@ décadas de 30, 40 e 50, com os estudos normativos, nos quais o ritmo
 e as sequências previsíveis do desenvolvimento infantil eram 
 caracterizados.
 
+.Arnold Gesell
 ****
 Para Arnold Gesell, um dos pioneiros acerca da teoria maturacional, o 
 desenvolvimento é um desdobramento natural de um plano biológico, 
@@ -127,8 +134,9 @@ comportamentos das crianças, são da adaptação para sobreviver.
 Exemplos desses comportamentos como abraçar, chorar e agarrar que 
 tem como objetivo a de aliciarem os cuidados dos adultos.
 
-Figura Gesell em observação e registro
-(Foto de Cushing / Whitney Medical Library)
+.Gesell em observação e registro. Foto de Cushing / Whitney Medical Library.
+image::{img}/Gesell.jpg[scaledwidth="50%"]
+
 ****
 
 ==== Teorias Comportamentistas
@@ -175,14 +183,14 @@ nem fisiológico nem mentalista e, creio, nem conceitual"
 Skinner aceitava a existência das condições fisiológicas 
 internas ou mentais, apenas não concordava a sua validade no estudo 
 científico do comportamento. Um biógrafo reiterou que a posição 
-de Skinner "não era uma negação dos eventos mentais, mas uma 
-recusa em classificá-los como entidades explicativas" 
-(Riuchelle,1993, p. 10). 
+de Skinner ``não era uma negação dos eventos mentais, mas uma 
+recusa em classificá-los como entidades explicativas''
+(Riuchelle, 1993, p. 10). 
 
-figura Burrhus Skinner
 
-Burrhus Skinner em ação (condicionamento operante de animais)
-Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
+.Burrhus Skinner em ação (condicionamento operante de animais). Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
+image::{img}/BurrhusSkinner[scaledwidth="25%"]
+
 ****
 
 ==== Teorias de Campo
@@ -218,6 +226,7 @@ fundamentando a organização do material didático segundo as leis
 da percepção e importância da significação de conteúdos e 
 experiências para os alunos.
 
+.Gestalt
 ****
 A Psicologia do Gestalt surge na Alemanha, no ano de 1912.  Por isso,
 também é conhecida como Escola de Berlim. Surgiu com o objetivo de
@@ -238,8 +247,8 @@ psicológicos envolvidos na ilusão de ótica, quando o estímulo
 físico é percebido pelo sujeito com uma forma diferente do que ele 
 é na realidade.
 
-Figura cubo
-Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
+.Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
+image::{img}/Necker.eps[scaledwidth="50%"]
 
 ****
 
@@ -275,8 +284,8 @@ aluno a equilibrar as exigências instintivas, proibitivas e da
 realidade. Educar é procurar fazer com que as pessoas atuem e pensem 
 de modo mais racional e mais prazeroso.
 
+.Sigmund Freud
 ****
-
 As teorias Psicanalíticas tiveram início com os estudos de Sigmund
 Freud e repercutiram em todos os campos do conhecimento psicológico.
 Contudo, ao contrário das demais teorias em Psicologia, a Psicanálise
@@ -288,8 +297,8 @@ terem surgido num período em que o objeto de estudo da Psicologia
 consistia na análise da consciência e em que o comportamento humano
 era estudado a partir de uma visão mecanicista e positivista.  
 
-Fonte: FADIMAN, James; FRAGER, Robert.  Teorias da Personalidade.
-Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
+//Fonte: FADIMAN, James; FRAGER, Robert.  Teorias da Personalidade.
+//Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
 
 ****
 
@@ -339,7 +348,7 @@ merecedor de oportunidades para o seu desenvolvimento; que o
 professor tenha compreensão empática, ou seja, que consiga 
 colocar-se no lugar do estudante.'' COUTINHO (1999).
 
-
+.Abraham Maslow
 ****
 Psicólogo norte-americano, Abraham Maslow  foi o criador da 
 hierarquia de necessidades, conhecida como a ``Pirâmide de Maslow''. 
@@ -364,8 +373,7 @@ onde conheceu importante grupos de psicólogos. Passou a se dedicar
 aos estudos da motivação humana e das hierarquias da necessidade do 
 indivíduo.
 
-
-Figura piramede
+image::{img}/piramede.eps[scaledwidth="80%"]
 
 Na psicologia, defendeu a ideia de que as necessidades fisiológicas 
 devem ser saciadas para que  posteriormente sejam saciadas as 
@@ -399,6 +407,7 @@ prática docente, a teoria implícita em nossas crenças em nossa
 forma de fazer a leitura de homem e de mundo/sociedade e de 
 educação.
 
+.Vygotsky
 ****
 Segundo Vygotsky, o desenvolvimento cognitivo do aluno se dá por 
 meio da interação social, ou seja, de sua interação com outros 
@@ -428,7 +437,7 @@ físico e social, tanto a experiência sensorial quanto o raciocínio
 são fundantes do processo de constituição da inteligência, ou do 
 pensamento lógico do homem. 
 
-Fig quadro
+TODO: Rever quadro de Vigostsky Fig quadro
 
 ****
 
