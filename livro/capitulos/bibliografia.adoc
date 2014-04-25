@@ -1,0 +1,15 @@
+[bibliography]
+== Referências
+
+[bibliography]
+
+
+- [["ARIES", "ARIÈS, 2006, p.9"]] ARIÈS, Philippe. 
+*História social da criança e da família*. 2 ed. Rio de Janeiro: LTC, 2006.
+
+
+////
+Sempre terminar o arquivo com uma nova linha.
+////
+
+
