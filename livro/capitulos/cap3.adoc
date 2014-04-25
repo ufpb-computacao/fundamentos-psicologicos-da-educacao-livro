@@ -1,6 +1,18 @@
 == O Estudo do Desenvolvimento Humano
-:cap: cap2
+
+:cap: cap3
+:online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
+:local: {code_dir}/{cap}
 :img: {img_dir}/{cap}
+
+.Objetivos do capítulo
+____
+Ao final deste capítulo você deverá ser capaz de:
+
+* objetivo 1
+* objetivo 2
+* objetivo N
+____
 
 Abordaremos aqui as noções gerais acerca da Psicologia do 
 Desenvolvimento e a contribuição que esse campo do saber oferece 
@@ -110,6 +122,7 @@ ____
 
 ____
 
+//TODO: Falta texto aqui?
 ____
 
 Na Idade Média (séculos XI ao XIV) as questões relacionadas aos 
@@ -134,6 +147,7 @@ fase da vida humana que apresenta especificidade. Do século XX para
 este século o interesse pelo estudo da adolescência vem 
 acontecendo, bem como se verifica a tendência em analisar a 
 evolução para atingir a fase adulta e velhice. 
+
 
 [quote]
 O que aconteceu no século passado com a descoberta da infância, 

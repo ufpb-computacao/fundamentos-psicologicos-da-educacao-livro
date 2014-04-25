@@ -1,6 +1,18 @@
 == Noções introdutórias da psicologia e sua aplicação à educação
-:cap: 1
+:cap: cap1
+:online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
+:local: {code_dir}/{cap}
 :img: {img_dir}/{cap}
+
+.Objetivos do capítulo
+____
+Ao final deste capítulo você deverá ser capaz de:
+
+* objetivo 1
+* objetivo 2
+* objetivo N
+____
+
 
 No nosso componente curricular e de forma inicial nesse texto, 
 abordaremos alguns conceitos imprescindíveis a Fundamentos da 

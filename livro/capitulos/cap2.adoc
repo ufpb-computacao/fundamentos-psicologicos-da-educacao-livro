@@ -1,6 +1,18 @@
 == Teorias Psicológicas Contemporâneas do Desenvolvimento e Aprendizagem
-:cap: cap2
+
+:cap: cap3
+:online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
+:local: {code_dir}/{cap}
 :img: {img_dir}/{cap}
+
+.Objetivos do capítulo
+____
+Ao final deste capítulo você deverá ser capaz de:
+
+* objetivo 1
+* objetivo 2
+* objetivo N
+____
 
 A Psicologia do Desenvolvimento expressa nos dias atuais uma complexa 
 rede de significações a respeito das mudanças pelas quais passam 
