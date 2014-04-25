@@ -1,4 +1,4 @@
-== Fases do desenvolvimento humanO
+== Fases do desenvolvimento humano
 
 :cap: cap4
 :online: {gitrepo}/blob/master/livro/capitulos/code/{cap}

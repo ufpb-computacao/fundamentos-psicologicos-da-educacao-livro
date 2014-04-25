@@ -1,6 +1,6 @@
 == Teorias Psicológicas Contemporâneas do Desenvolvimento e Aprendizagem
 
-:cap: cap3
+:cap: cap2
 :online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
 :local: {code_dir}/{cap}
 :img: {img_dir}/{cap}
