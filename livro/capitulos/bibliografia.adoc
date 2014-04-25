@@ -7,6 +7,27 @@
 - [["ARIES", "ARIÈS, 2006, p.9"]] ARIÈS, Philippe. 
 *História social da criança e da família*. 2 ed. Rio de Janeiro: LTC, 2006.
 
+- [["LERNER"]] LERNER, Richard M. *Handbook of Adolescent Psychology*. 2. ed. 
+Copyright. USA, 2004. 
+
+- [["PAPALIA","PAPALIA, 2010"]] PAPALIA, Diane E. 
+*Desenvolvimento Humano*. Tradução: Carla Filomena Marques. 10ºed.
+Porto Alegre: AMGH, 2010.
+
+- [["SABINI", "SABINI"]] SABINI, Maria Aparecida Cória. 
+*Psicologia do Desenvolvimento*. 2.  ed. São Paulo: Ed. Ática.2004.
+
+- [["SHEPHARD", "SHEPHARD"]] SHEPHARD. R.J. 
+*Envelhecimento, atividade física e saúde*. São Paulo: Phorte, 2003.
+
+- [["SPIRDUSO", "SPIRDUSO"]] SPIRDUSO, W.W. 
+*Dimensões físicas do envelhecimento*. Barueri, SP: Manole, 2005.
+
+- [["SPRINTHALL", "SPRINTHALL"]] SPRINTHALL, Norman A., W. COLLINS Andrews. 
+*Psicologia do Adolescente Uma abordagem desenvolvimentista*. Fundação
+Calouste Gulbenkian, 1994.
+
+
 
 ////
 Sempre terminar o arquivo com uma nova linha.

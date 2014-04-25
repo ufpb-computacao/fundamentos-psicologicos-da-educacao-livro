@@ -582,7 +582,7 @@ tipos de inteligências seguem padrões diferentes. No padrão
 clássico de envelhecimento, entretanto, a tendência tanto na 
 pontuação do desempenho como no verbal é de queda ao longo da 
 maior parte da vida adulta; a diferença embora substancial é de 
-grau (PAPALIA, 2010)
+grau (<<PAPALIA>>).
 
 A referida pesquisa mostra que quando comparada a inteligência 
 fluida com a cristalizada, esta se apresenta muito mais encorajadora, 
@@ -773,32 +773,6 @@ trás ganhos e perdas, mas na idade avançada a balança tende a
 pender para o lado negativo. Portanto é necessário o desvio de 
 recursos do crescimento e da manutenção para lidar com a perda.
 
-
-=== Referências do Capítulo
-
-
-////
-ARIÈS, Philippe. *História social da criança e da família*. 2 ed. Rio de Janeiro: LTC, 2006.
-////
-
-LERNER, Richard M. *Handbook of Adolescent Psychology*. 2. ed. 
-Copyright. USA, 2004. 
-
-PAPALIA, Diane E. *Desenvolvimento Humano*. Tradução: Carla 
-Filomena Marques. 10ºed. Porto Alegre: AMGH, 2010.
-
-SABINI, Maria Aparecida Cória. *Psicologia do Desenvolvimento*. 2. 
-ed. São Paulo: Ed. Ática.2004.
-
-SHEPHARD. R.J. *Envelhecimento, atividade física e saúde*. São 
-Paulo: Phorte, 2003.
-
-SPIRDUSO, W.W. *Dimensões físicas do envelhecimento*. Barueri, SP: 
-Manole, 2005.
-
-SPRINTHALL, Norman A., W. COLLINS Andrews. *Psicologia do Adolescente 
-Uma abordagem desenvolvimentista*. Fundação Calouste Gulbenkian, 
-1994.
 
 === Análise e Reflexão
 
