@@ -1,0 +1,298 @@
+== FASES DO DESENVOLVIMENTO HUMANO
+
+:cap: cap4
+:online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
+:local: {code_dir}/{cap}
+:img: {img_dir}/{cap}
+
+.Objetivos do capítulo
+____
+Ao final deste capítulo você deverá ser capaz de:
+
+* objetivo 1
+* objetivo 2
+* objetivo N
+____
+
+
+Compreender as características do desenvolvimento humano nas diversas fases é imprescindível ao trabalho docente exitoso. Estudaremos as noções fundamentais acerca dos momentos evolutivos da infância, adolescência e envelhecimento, abordando os fundamentos da construção do conhecimento psicológico acerca dessas fases. Apesar de nossa ciência estudar o desenvolvimento humano infantil, adolescente, adulto e idoso, abordaremos três dessas quatro fases. A infância por ser base para compreender as demais, a adolescência e envelhecimento por constituírem grande desafio para os educadores que ainda não detêm os conhecimentos necessário sobre as especificidades do ser aprendente adolescente e em envelhecimento. 
+
+=== DESENVOLVIMENTO INFANTIL
+
+O conceito de Infância, bem como sua caracterização, em que o ser deve ser protegido e cuidado, é considerado recente uma vez considerando a historia da ciência, isto porque até o século XVII predominava a visão de criança como adulto em miniatura, nessa perspectiva podemos dizer que a infância não era valorizada, visto que a sociedade fazia pouca distinção entre a infância e a idade adulta. De acordo com Ariés, o ingresso precoce da criança para o mundo adulto, acontecia da seguinte forma:
+
+[quote]
+De criancinha pequena, ela se transformava imediatamente em homem jovem, sem passar pelas etapas da juventude, que talvez fossem praticadas antes da Idade Média e que se tornaram aspectos essenciais das sociedades evoluídas de hoje. (ARIÈS, 2006, p.9)
+
+Esta percepção era o reflexo do tratamento que a sociedade dispensava as crianças, até os sete anos de idade elas recebiam cuidados especiais, após esta idade passavam a desenvolver as mesmas atividades que os adultos, inclusive a participação em festas coletivas e orgias, que até então não era considerada como maléfica a formação do caráter e da moral da criança. A concepção da criança como adulto em miniatura segue até os séculos XV, XVI e XVII, onde gradativamente a criança começou a ser notada como um ser que possui particularidades e características que as diferenciam dos adultos, um ser dotado de capacidade e desenvolvimento. 
+
+=== ESTUDOS SOBRE O DESENVOLVIMENTO INFANTIL 
+
+Os primeiros estudos acerca do desenvolvimento infantil, limitaram-se a observação dos bebes nos primeiros anos de vida e tinha como objetivo a descrição da regularidade das mudanças do comportamento de acordo com a idade e as variações existentes entre crianças que possuíam a mesma faixa etária.
+
+Watson foi um dos representantes do Behaviorismo e analisou as variáveis ambientais como estímulos progressivamente associados a respostas empregando o modelo do condicionamento clássico como resultantes de um processo de aprendizagem, neste caso as respostas passam a ser dadas através de determinados estímulos.
+
+[NOTE]
+====
+O caso do bebê Albert
+
+Watson realizou uma experiência durante dois meses com o  bebê Albert  de 9 meses, ele condicionou a criança a ter medo de animais e objetos brancos peludos, como coelhos , cães e ratos. Durante dois meses ele expôs este bebé a várias coisas de cor branca e felpudas, e o deixava interagir com estes sem intervir. Após algumas repetições Watson fez com que a presença do animal fosse seguida pelo som do gongo, fazendo com que a criança chorasse assim que o animal era colocado a sua frente. Após um mês a criança foi novamente testada, e a reação do medo foi novamente provocada. Watson concluiu que as emoções humanas são resultantes de um processo de aprendizagem.
+
+====
+
+A teoria Psicanalítica de Freud surgiu nas décadas de 1920 e 1930, e enfatizava as relações afetivas que eram desenvolvidas na infância, especialmente nos primeiros cinco anos de idade. Conforme Freud três sistemas formam a personalidade: Id, ego e superego, o id caracteriza a satisfação imediata dos instintos que dispõe de uma quantidade de energia limitada. Nesta perspectiva se esta energia for descarregada em um objeto, haverá menos energia para outros propósitos. O ego representa a parte racional e serve de mediador entre as exigências do id e a realidade, o superego reflete a consciência moral. Freud também percebeu que alguns comportamentos são moldados pela sexualidade, e que este fator inicia-se na infância através de relação que a criança tem com seu próprio corpo, sendo a busca de prazer o fator que motiva o comportamento do ser humano.
+
+FIGURA
+
+Após os estudos de Watson e Freud, os estudos na área do desenvolvimento infantil começaram a diminuir, contudo a partir da década de 1950 a Psicologia do Desenvolvimento começou a expandir-se, e junto com essa expansão veio a preocupação com as bases biológicas da conduta humana.
+
+As pesquisas explicativas ganharam vez na teoria de Jean Piaget, e sua teoria do desenvolvimento cognitivo ou intelectual, passou a dominar a área do desenvolvimento. Para Piaget a inteligência possui a função de adaptar o organismo as exigências do ambiente, tratando-se pois de uma estrutura biológica, esta adaptação se faz por meio de dois processos: *assimilação e acomodação*.
+
+A assimilação se dá através da incorporação dos desafios e informações do meio aos esquemas mentais já existentes, já a acomodação caracteriza-se por ser o processo de criação ou mudança de esquemas mentais resultantes da necessidade de assimilar os desafios ou informações do meio. A interação entre assimilação e acomodação torna-se comum ao longo da vida e está presente nos níveis de funcionamento intelectual e comportamental. Piaget desenvolveu sua teoria em estágios, e isto faz com que indique a natureza biológica da inteligência.
+
+
+
+[TIP]
+====
+Piaget descreve quatro estágios, que caracterizam as diferentes formas de adaptação de que o ser humano é capaz: sensório-motor, intuitivo, operatório concreto e operatório formal. Sabini (2004, p.34)
+
+====
+
+
+=== DESENVOLVIMENTO DO ADOLESCENTE
+
+==== Concepções históricas 
+
+A concepção de infância, tal como temos na atualidade, teve sua vigência muito recentemente e apenas, no século XIX, as sociedades passaram a perceber a infância e os anos juvenis como estágios especiais de desenvolvimento. Em anos de história, a psicologia da adolescência tem se deparado com estereótipos e estigmas.
+
+O reconhecimento social da adolescência começa a acontecer a partir da última metade do século XX. Com Stanley Hall é que se tem a identificação da adolescência como uma etapa marcada por tormentos e conturbações vinculadas à emergência da sexualidade. 
+
+Ao se falar de Stanley Hall, vinculamos suas ``descobertas'' ao processo da industrialização que traz um contexto favorável a essa descoberta diante do crescimento industrial e do crescimento dos movimentos de trabalhadores, que passaram a exigir leis de proteções trabalhistas e reivindicar a proibição do trabalho infantil, exigindo que crianças e jovens passem das atividades laboral para frequentar a escola pública, essas questões estavam muito ligadas a remuneração barata que era destinada aos trabalhadores mais jovens. Além disso, a educação do público juvenil seria uma forma de se ter mão-de-obra futura mais qualificada e que se adequasse ao processo de aceleração da produção industrial e do desenvolvimento tecnológico.
+
+Em meio a esse processo surge Stanley Hall que, baseando-se nas descobertas da Teoria da Evolução das Espécies de Charles Darwin, segundo Sprinthall (2008), considerava que a adolescência necessitava de estudos especiais, por ser um estágio de desenvolvimento evolutivo humano dotado de necessidades específicas, afirmando que, nessa fase, o ser humano passa a experimentar, novamente, todos as sensações já vivenciadas no desenvolvimento durante a infância.   
+
+Para Hall adolescência seria uma experiência comparada a um segundo nascimento, em que o ser humano teria a oportunidade de repassar por todos os estágios anteriores e, obter, com isso, o ápice de seu desenvolvimento, além disso, essa seria uma fase caótica e difícil devido a velocidade com que se dão as transformações. Essa concepção foi reforçada na teoria psicanalista que a caracterizaram como uma etapa de confusões, estresse e luto também causados pelos impulsos sexuais que emergem nessa fase do desenvolvimento.
+
+.FIQUE DE OLHO
+____
+
+Há diversas leituras da adolescência dentro da psicanálise. Autores da escola inglesa, por exemplo, concebem-na numa perspectiva mais desenvolvimentista, cumprindo a última etapa da sexualidade, tal como Freud descreve nos ``Três ensaios sobre a teoria da sexualidade''. Para alguns deles, a crise da adolescência é vista como um desvio do curso normal do desenvolvimento. As diferentes formas de perceber a questão refletem diretamente no diagnóstico do caso, o que pode levar a resultados desastrosos no processo terapêutico.
+
+Para esses autores a genitalidade é a grande questão da adolescência, o que significa dizer que o adolescente vai finalmente ao encontro da sua sexualidade, ou seja, que a anatomia é o destino da pulsão. Nossa leitura da adolescência vem no sentido de pô-la em questão, como tempo de revivescência e de resignificação edípica. Que caminho poderia nos levar até nosso objetivo?
+
+Articulando-a com o mecanismo do a posteriori, modelo, por princípio, do funcionamento psíquico, constituído de um primeiro tempo, em que ocorre a estruturação psíquica do sujeito através do Édipo, intercalado pelo período de latência e seguido pela adolescência, que tem função tempo de revivescência e de re-significação edípica. Podendo constituir-se de pura repetição ou elaboração e abertura, permitindo que o sujeito possa historiar seu passado.
+
+A história, portanto, não é somente passado; trata-se de um trabalho de construção, como aponta Lacan (1986, p. 21) quando diz que ``a história não é o passado. A história é o passado na medida em que é historiado no presente -- historiado no presente porque vivido no passado''
+
+A adolescência é o momento de deixar para trás a criança idealizada pelos pais. É tempo de desinvestimentos e reinvestimentos, de busca de uma identidade sexual. Não é à-toa que a ``crise da adolescência'' costuma ser motivo de preocupação. Por outro lado, não poderíamos reencontrar esses conflitos e esse modo de funcionamento também na vida adulta? Não é isso que se encontra permeando as relações? 
+
+Muitas crises acompanharão o sujeito ao longo da vida. Para a psicanálise, diferentemente da psicologia, não faz sentido falar-se de fases da vida, que começam na infância e terminam na idade adulta. O infantil está presente no adulto. Daí perguntarmos se, no adulto, além do que é dado pelo infantil e que o estrutura, também não comportaria um funcionamento adolescente como função de reinscrição do sujeito, integrando o que não foi simbolizado da sua história. Não que a adolescência, em si, vá cumprir o papel da análise. 
+
+Esta última cria as condições necessárias para que o sujeito se depare com uma angústia mobilizadora do trabalho psíquico e isso só é possível pela suspensão da fala do analista. 
+
+A adolescência, na medida em que tem que se haver com uma nova realidade, a do corpo transformado pela puberdade, poderá dar um novo encaminhamento ao ressurgimento do Édipo, através da simbolização. Pode ser, portanto, um momento muito criativo ou de pura repetição. Questionamos se não é a partir da adolescência que se vai instalar pela vida afora esse mal-estar ao qual Freud se referiu em O mal-estar na civilização (1929), à proporção em que haverá uma tensão entre um corpo transformado,``pulsante'', e as exigências do mundo externo, que caminham em direção oposta. 
+
+DANTAS, Nara Maria. Adolescência e Psicanálise: Uma possibilidade teórica.Recife 2002.
+
+____
+
+
+Além dessas perspectivas históricas há uma variação do conceito e visão do adolescente de acordo com a cultura em que vive, como destaca  Sprinthall (2008) p.20, ao descrever a pesquisa da antropóloga Margaret Mead sobre o desenvolvimento do adolescente entre as culturas nativas da sociedade de Samoa na Polinésia (Pacífico Sul) e Quênia na África Oriental (Oceano Índico).
+
+Na sociedade de Samoa a adolescência é uma experiência de crescimento tranquilo e livre de conflitos e tensões. Visto que, na cultura samoana, os principais acontecimentos da vida, incluindo o nascimento, a morte e o sexo são tratados de forma aberta. Sendo assim, os acontecimentos terrenos da vida eram tratados de modo que essa transição, como a passagem da infância para adolescência, se desse de forma calma e gradual. As tarefas designadas aos adolescentes e as crianças eram adequadas a suas capacidades.
+
+Já no Quênia a transição da adolescência para a vida adulta acontece de forma abruta e traumática, a passagem para vida adulta consiste em cerimônias e rituais através de traumas físicos como circuncisão e extração de cílios, além disso, as tarefas são rigidamente diferencias e de estatuto muito baixo para jovens e crianças.
+
+NOTE
+====
+``A solução para problemas dos adultos de amanhã depende grande parte da forma como os nossos filhos crescem hoje." 
+
+
+MARGARET MEAD by Alex from Virginia
+
+Margaret Mead nasceu em Filadélfia em 1901 e morreu em Nova York em 1978. Ela estudou primeiramente aprender teoria e impressão, a fim de obter uma melhor compreensão das práticas de criação dos filhos. Em 1925, ela foi para a Polinésia para estudar como as diferenças culturais influenciariam na criação dos filhos e se expandiu para estudar outras áreas também.
+====
+
+=== DESENVOLVIMENTO FÍSICO E COGNITIVO DO ADOLESCENTE
+
+De acordo com Sprinthall (2008) fisicamente os adolescentes passam por mudanças hormonais promovidas pelo hipotálamo, que estimulam os órgãos sexuais a produzir certos hormônios. Em análogo a essa maturação sexual o desenvolvimento corporal vai se efetuando, com o crescimento de membros inferiores e, posteriormente, os membros superiores e troncos. Isto pode originar desequilíbrios proporcionais e desconforto físicos e que, as vezes provocam embaraçados em certas situações sociais. 
+
+Após a puberdade ocorre o crescimento ponderal com o aumento da massa muscular nos rapazes, e de tecido adiposo nos homens. Paralelamente, ocorrem alterações do sistema digestivo e do índice metabólico, que trazem distúrbios alimentares e aumento do apetite. Estas alterações da alimentação podem desencadear, devido à hipersensibilidade com o corpo, comportamentos como a anorexia, bulimia, irritabilidade, sentimentos de culpa, isolamento e depressões. 
+
+Essa evolução física e sexual acelerada, deve estar em sintonia com o ritmo do desenvolvimento cognitivo, para que não desencadeie comportamentos desviantes em relação às normas impostas pela sociedade. 
+
+==== Desenvolvimento cognitivo e aprendizagem adolescente 
+
+As transformações a nível intelectual são de extrema importância  durante a adolescência, visto que, nessa fase, a inteligência toma a sua forma final com o pensamento abstrato ou formal. Para Piaget (1949), ocorre entre os 11-12 anos e os 14-15 anos. Estas modificações podem influenciar no entendimento das regras. Esse pensamento tido como período das operações formais, vai ajustar o adolescente ao mundo real e ao seu quotidiano, além disso, proporcionando a capacidade de formular grandiosas teorias e ideias. 
+
+Para Piaget as transformações emocionais que ocorrem na adolescência dependem das transformações cognitivas e, uma das grandes transformações do estágio de desenvolvimento operatório formal é o surgimento do pensamento hipotético-dedutivo, diferente do estágio operatório concreto, em que a criança apenas raciocina sobre proposições que julgasse verdadeiras, apoiando-se no concreto para isso. 
+
+Na fase da adolescência o ser humano torna-se capaz de raciocinar corretamente sobre proposições em que não acredita, ou ainda não acredita, isto é, ou seja, pensa e reflete hipoteticamente. Desta forma, adquire a capacidade de ultrapassar, pelo pensamento, situações vividas e a projetar ideias para o futuro. 
+
+Na fase adolescente o ser humano desenvolve a capacidade para pensar sobre o seu próprio pensamento e sobre o pensamento dos outros, chamada de metacognição (Sprinthall, 2008). 
+
+A autorreflexão permite um amplo alargamento da imaginação. Os adolescentes podem tomar consciência da forma como conhecem para além daquilo que conhecem, outra característica importante do pensamento adolescente é a tomada de consciência da variedade de estratégias de aprendizagem que poderão ser utilizadas. Com isto as oportunidades de autocorreção em nível de resolução de problemas são muito maiores. Os adolescentes têm a capacidade de falar consigo próprios, processo este, por vezes, designado de diálogo interno, e chegar a novas formas de compreensão sem estarem presos a experiências concretas. 
+
+A metacognição traz a consciência sobre o fato das pessoas serem diferentes e terem pensamentos diferentes sobre a mesma situação ou ideia, havendo uma variedade de pontos de vistas, diferentemente, das crianças mais novas que tendem a pensar que todos nós encaramos as situações da mesma forma que elas, esse comportamento passa a ser chamado de egocêntrico, centrados na sua própria perspectiva. 
+
+Para um melhor desenvolvimento intelectual, as influências e os estímulos externos são de grande importância por serem modelos para os adolescentes e constituírem uma estimulação. Existem formas poderosas de estimular o pensamento abstrato. Para Sprinthall (2004) são o visionamento de filmes ou vídeos e a participação em atividades artísticas, tais como pintura, o drama, a dança e a música. Quanto mais ativo for o processo simbólico, tanto maior o estímulo ao desenvolvimento cognitivo. 
+
+Durante este estádio, escrever poemas é mais eficaz do que ler poemas; fazer filmes é mais eficaz que visioná-los; participar numa dramatização de improviso é mais eficaz do que observá-la. Pois na perspectiva piagetiana, o desenvolvimento cognitivo depende da ação, em qualquer dos estádios. Em todos os seus trabalhos ele tem uma frase chave: a ação produz desenvolvimento (SPRINTHALL, 2004). Para Piaget (1970), a atividade de assimilar certas experiências do meio circundante força a criança a acomodá-las ou internalizá-las. Esta internalização de experiências é fundamental para o desenvolvimento cognitivo, o qual sugere que o desenvolvimento mais completo tem lugar quando as crianças assimilam experiências do seu meio, porque só então são capazes de acomodar ou internalizar essas experiências. 
+
+===  DESENVOLVIMENTO DO IDOSO
+
+O envelhecimento é definido como um conjunto de transformações que ocorrem com o avançar da idade. É um processo inverso no desenvolvimento humano. Enquanto que na infância é evolução, na senescência é involução. O declínio das capacidades funcionais e das aptidões inicia-se na fase adulta e se precipita no envelhecer. De acordo com Souza (1998) o envelhecimento se caracteriza por algumas perdas das capacidades fisiológicas dos órgãos, dos sistemas e de adaptação a certas situações de estresse. Tal fenômeno é universal, progressivo, na maioria das vezes irreversível e resultará num aumento exponencial da mortalidade com a idade, bem como mais probabilidade de doenças. No entanto, a ocorrência de uma alimentação balanceada, a prática regular de exercícios físicos, o viver em um ambiente saudável, além dos progressos da medicina, têm levado a subverter este conceito e aumentar a longevidade. Muitos dos problemas que eram considerados elementos inevitáveis da idade avançada, agora são vistos como parte do processo de envelhecer, resultantes do estilo de vida ou de patologias.
+
+De acordo com Papalia (2010) o envelhecimento primário é um processo gradual e inevitável de deterioração física que começa cedo na vida e continua ao longo dos anos, não importa o que as pessoas façam para evitá-lo. Ocorre de forma semelhante nos indivíduos da mesma espécie, de forma gradual e previsível. O sujeito está dependente da influência de vários fatores determinantes para o envelhecimento, como estilo de vida, alimentação educação e posição social, embora as suas causas sejam distintas.
+
+O envelhecimento secundário é o envelhecimento resultante das interações das influências externas, e é variável entre indivíduos em meios diferentes. É resultante de doenças, abusos e maus hábitos de uma pessoa, fatores que em geral podem ser controlados.
+
+Saúde e longevidade estão intimamente relacionadas à educação e outros aspectos do status socioeconômicos. Alguns estudiosos classificam os indivíduos idosos, situando-os em categorias funcionais, que são: meia-idade; velhice; velhice avançada; e velhice muito avançada. Porém, segundo Papalia (2010), a classificação mais significativa é por idade funcional, que é a capacidade de uma pessoa interagir em um ambiente físico e social em comparação com outros da mesma idade cronológica. A diferença individual determina como cada ser humano irá envelhecer. Entretanto variáveis como sexo, herança genética e estilo de vida contribuirão determinando entre homens e mulheres as diferenças nos ritmos de envelhecimento que cada um apresentará.
+
+Segundo, ainda, Shephard (2003), a categorização funcional do idoso não depende apenas da idade, mas também de sexo, estilo de vida, saúde, fatores sócio-econômicos e influências constitucionais, estando provado, assim, que não há homogeneidade na população idosa. A idade funcional está estreitamente ligada à idade subjetiva do indivíduo. Várias áreas de pesquisa tem se debruçado sobre o estudo do envelhecimento, como a Gerontologia e a Geriatria.
+
+ 
+=== Desenvolvimento Físico 
+==== Longevidade e envelhecimento
+
+A expectativa de vida aumentou pragmaticamente desde 1900. Pessoas brancas tendem a ter mais longevidade de que pessoas negras, e as mulheres mais que os homens; por isso, o número de mulheres mais velhas ultrapassa o de homens mais velhos em uma proporção de três para dois.
+
+As taxas de mortalidade têm diminuído, doenças cardíacas, câncer e derrame são as três principais causas de morte para pessoas com mais de 65 anos. A senescência período do ciclo de vida marcado por mudanças físicas associadas ao envelhecimento começa em idades variadas para as diferentes pessoas.
+
+As teorias de envelhecimento biológico enquadram-se em duas categorias: teorias de programação genética, sugeridas pelo limite hayflick, e teorias de taxas variáveis, (ou teorias de erro), como aquelas que apontam para os efeitos dos radicais livres e da autoimunidade.
+
+As curvas de sobrevivência apoiam a ideia de um limite definido para o ciclo de prolongamento de vida através de manipulação genética ou de restrição calórica, alguns teóricos contestam essa ideia.
+
+==== Mudanças Físicas
+As mudanças no sistema e nos órgãos corporais com a idade são altamente variáveis e podem ser resultado de doenças, o que, por sua vez, é influenciado pelo estilo de vida. As mudanças físicas comuns incluem perda de coloração, de textura e de elasticidade da pele, o branqueamento dos cabelos diminuição da estatura, comprometimento ósseo, tendência a dormir menos. A maioria dos sistemas corporais costuma continuar funcionando bem, mas o coração torna-se mais suscetível a doença a capacidade de reserva do coração e de outros órgãos diminui.
+
+Embora o cérebro mude com a idade, as mudanças variam consideravelmente, elas incluem perda ou redução das células nervosas e um retardo geral das respostas. O cérebro também parece ser capaz de produzir novos neurônios e formar novas redes neurais no decorrer da vida. Problemas visuais e auditivos pode prejudicar a vida cotidiana, mas, muitas vezes podem ser corrigidos. Transtornos visuais comuns são: catarata, e degeneração relacionada a idade, perdas no paladar e no olfato podem causar má nutrição.
+
+Com atividades físicas é possível melhorar a força muscular, o equelibrio e o tempo de reação. Muitos idosos são sexualmente ativos, embora a frequência e a intensidade da experiência sexual geralmente sejam menores do que para adultos jovens.
+
+==== Saúde Física e Mental
+Grande parte das pessoas mais velhas principalmente aquelas que vivem uma rotina e um estilo de vida saudável tem uma saúde estável, é fato também que a grande maioria das pessoas mais velhas tem doenças crônicas, principalmente artrite, essa geralmente não limitam outras atividades que usam a cognição ou o funcionamento de outros órgãos vitais, não interferindo de forma tão decisiva na vida cotidiana, para isso se faz necessário exercícios e uma dieta balanceada para influenciar positivamente sobre a saúde, a periodente que é a perda de dentes, pode afetar seriamente a alimentação e consequentemente a nutrição dos idosos.
+
+Existem transtornos mentais reversíveis e irreversíveis que acometem os idosos, lembrando que a maioria das pessoas mais velhas possui boa saúde mental. As doenças ou transtornos reversíveis são: depressão, alcoolismo entre outras doenças incluindo algumas formas de demência, e são reversíveis porque podem ser curadas através de um tratamento adequado. As doenças irreversíveis como: o mal de Alzheimer, mal de Parkinson ou demência de infarto múltiplo podem apenas serem amenizadas através de medicação adequada mas não há cura. Por isso são irreversíveis. 
+
+O mal de Alzheimer é mais prevalecente com a idade, é caracterizado pela presença de Emaranhados Neurofibrilares e de Placa Amiloide no cérebro, pesquisas apontam fatores genéticos para este mal, mas suas causas ainda não foram definitivamente estabelecidas. Para que esse processo de deterioração possa ser retardado terapias comportamentais e medicamentosas se fazem necessárias. 
+
+
+=== 1.2. Desenvolvimento cognitivo 
+É por meio da cognição que os seres humanos absolvem os conhecimentos, e que contribui para o desenvolvimento intelectual dos indivíduos, as habilidades cognitivas estão diretamente ligadas a fatores diversos como a linguagem, a percepção, o pensamento, a memória, atenção e o raciocínio dentre outro.
+
+Em pessoas mais jovens, os processos cognitivos acontecem com maior fluidez e isso se deve a vários fatores principalmente, ao vigor da juventude. Nas primeiras fases do desenvolvimento humano, fatores interligados a cognição, proporciona ao individuo maior agilidade tanto no que diz respeito aos aspectos psicoemocional quanto, aos físico-biológicos. 
+
+Quando avaliado o nível cognitivo do sujeito que se encontra na última fase do desenvolvimento humano, fica evidente o seu declínio, principalmente nos aspectos ligados a atenção e a memória, influenciando o rendimento escolar, pois, os comprometimentos ocasionados pelas suas diminuições interferem diretamente no processo de aquisição de novos conhecimentos. Tal problemática se acentua através de comportamentos que contribui negativamente para o bom desempenho da cognição da pessoa idosa como, distanciamento do convívio social e familiar, depressão, estresse, o uso indevido de medicamentos e os problemas de ordem emocional, nutricional. 
+
+Tendo em vista o comprometimento intelectual do idoso, faz-se necessárias sugestões de atividades onde possam ser trabalhadas as habilidades perceptivas e de memorização destes indivíduos. Estudos comprovam que estímulos diretivos e adequados têm demonstrado resultados positivos com o sujeito aprendente da terceira idade fazendo com que estes não só recupere competências cognitivas perdidas, mas até pra superar seus limites anteriores (Papalia, 2010).
+
+Através de inúmeras pesquisas científicas pode-se perceber a complexidade do processo intelectual do ser humano. Papalia (2010) em seu livro ``desenvolvimento humano'' faz distinção entre habilidades (inteligência) fluida e cristalizada:
+
+A habilidade fluida depende muito da condição neurológica do sujeito aprendente enquanto que a habilidade cristalizada depende dos conhecimentos acumulados durante toda a vida do individuo. Esses dois tipos de inteligências seguem padrões diferentes. No padrão clássico de envelhecimento, entretanto, a tendência tanto na pontuação do desempenho como no verbal é de queda ao longo da maior parte da vida adulta; a diferença embora substancial é de grau (PAPALIA, 2010)
+
+A referida pesquisa mostra que quando comparada a inteligência fluida com a cristalizada, esta se apresenta muito mais encorajadora, pois, tal habilidade cognitiva mesmo com o passar do tempo tende a se aperfeiçoar por um período maior da vida do adulto idoso, independente do declínio que ocorre com a inteligência fluida.
+
+Diante das limitações psicológicas, físicas e neurológicas pelas quais passam a pessoa idosa, é importante uma melhor compreensão de seu ritmo, habilidades cognitivas e fragilidades características deste estágio do desenvolvimento humano, para que assim, possa ser feito intervenções diretivas e com objetividade tornando a pessoa idosa integrada dentro do processo de aprendizagem, não apenas no ambiente escolar, como também, em diferentes contextualizações socioculturais.
+
+=== 1.3. Desenvolvimento Psicossocial 
+É um estágio de desenvolvimento em que as pessoas reavaliam suas vidas, fecham situações deixadas em aberto e decidem como melhor canalizar suas energias e passar seus dias ou anos restantes. Alguns querem deixar aos descendentes ou ao mundo suas experiências ou corroborar o significado de suas vidas. Outros querem apenas curtir seus passatempos favoritos ou fazer coisas que não fizeram quando jovens.
+
+Fazendo referencia ao termo personalidade, este não possui uma definição única, e pode variar de acordo com os parâmetros estabelecidos em cada doutrina. Mas, de maneira geral, estudiosos a prescrevem como o conjunto de características psicológicas que marcam os padrões de pensar, sentir e agir, ou seja, atitudes e comportamentos típicos, de um determinado ser humano. 
+
+Os traços de personalidade são mutáveis (SILVA e NAKANO, 2011; IRIGARAY e SCHNEIDER, 2007; 2009) também na velhice, podendo colaborar no processo adaptativo do envelhecimento, melhorando a saúde e priorizando a longevidade; desta forma, descreve-se a interligação da personalidade com os índices de resiliência, com os sintomas depressivos (transtorno de humor mais frequente), como também, com o bem-estar subjetivo.
+
+=== A Personalidade muda na Terceira Idade?
+Depende do modo como a estabilidade e a mudança são avaliadas. Podemos identificar:
+
+Pessoas hostis:: não costumam amadurecer com a idade a não ser que se submetam a tratamento psicoterápico;
+
+Pessoas otimistas:: tendem a permanecer assim;
+
+Pessoas afetadas por neuroticismo:: não há deterioração saúde física ou na função cognitiva.
+
+Comparação por ordem de graduação as diferenças relativas são estáveis no período entre 50 e 70 anos. Estudos apontam uma estabilidade na terceira idade. A inflexibilidade ou aumento de rigidez não são atribuídos a idade e sim a experiência de vida. (Schaie & Willis, 1991).
+
+==== Personalidade, Emotividade e Bem-estar 
+A Personalidade é um elemento prognosticador da emotividade e do bem-estar subjetivo. Emoções negativas auto reportadas como inquietação, tédio, solidão, infelicidade e depressão abrandaram-se com a idade (diminui após os 60 anos). E a emotividade positiva -- excitação, interesse, orgulho e um senso de realização permanecem estáveis ate uma fase avançada e depois tem uma queda ligeira e gradual.  
+
+Teoria Seletividade sócio emocional explica que a medida que envelhecem, as pessoas tendem a procurar atividades e pessoas que as satisfaçam. Os mais velhos conseguem controlar as emoções que ao adultos mais jovens.
+
+Dois dos mais fortes traços da personalidade: *Extroversão* personalidade extrovertida (expansiva e sociável) elevados níveis de emoções positivas e conservam ao longo da vida. E o *neuroticismo* personalidades neuróticas (instáveis, suscetíveis, ansiosas e inquietas) demonstram emoções negativas e tendem a se manter negativa. Este é um elemento prognosticador de humores e de transtornos de humor muito mais poderoso que a idade, a raça, o gênero, a renda, a educação ou o estado civil. (Costa e McCrae 1980).
+
+==== Erick Erikson: questões e tarefas normativas
+
+Senso de integridade do ego: fundamentada na reflexão da própria vida. Na oitava e ultima etapa do desenvolvimento psicossocial, as pessoas da terceira idade adquirem um senso de integridade do ego pela aceitação da vida que tiveram e assim aceitar a morte, ou se entregarem ao desespero pela impossibilidade de reviver suas vidas.
+
+Nesta etapa pode se desenvolver a VIRTUDE que é sabedoria: ``aceitar a vida que se viveu sem maiores arrependimentos, sem se alongar em todos os ``deveria ter feito'' ou ``como poderia ter sido'', o que significa aceitar as imperfeições em si próprio, nos pais, nos filhos e na vida''.
+
+A integridade deve ser mais importante que o desespero nesta etapa, para que seja resolvida com êxito. Segundo Erikson, algum desespero é inevitável pela vulnerabilidade da condição humana, mas mesmo quando as funções do corpo enfraquecem é necessário manter um ``envolvimento vital''. Integridade do ego resulta da reflexão sobre o passado de contínuos estímulos e desafios.
+
+Modelos de enfrentamento::
+
+Enfrentamento::: é o pensamento ou comportamento de adaptação visando reduzir ou aliviar o estresse advindo de condições prejudiciais, ameaçadoras ou desafiantes.  É um importante aspecto da Saúde Mental.
+
+As Abordagens Teóricas de George Vaillant::: o uso das Defesas Adaptativas maduras no enfrentamento de problemas em fases anteriores da vida. Por exemplo: o altruísmo, humor, persistência (no sentido de não desanimar), antecipação (de planos futuros), sublimação (redirecionando emoções negativas para atividades produtivas). O funcionamento das defesas adaptativas podem mudar as percepções das realidades que as pessoas são incapazes de modificar. As defesas Adaptativas podem ser inconscientes ou intuitivas. E o Modelo de Avaliação Cognitiva enfatiza estratégias de enfrentamento escolhidas conscientemente.  
+
+No Modelo de Avaliação Cognitiva as pessoas escolhem conscientemente estratégias de enfrentamento com base no modo como percebem ou analisam uma situação que sobrecarregue seus recursos normais:  
+
+Por Focalização no problema -- para eliminar, administrar ou melhorar uma situação estressante;
+
+Por Focalização na emoção ou enfrentamento paliativo -- administrar a resposta emocional a uma situação de estresse para aliviar seu impacto físico ou psicológico.
+
+Os adultos mais velhos tendem a usar o seguinte estilo de enfrentamento:
+
+
+ESQUEMA            Avaliação da Situação        Recursos Pessoais x Ambiente          
+    Avaliação dos Resultados         Execução            Escolha da Estratégia           
+                    Positivo           Manutenção 
+                    Negativo         Reavaliação da situação, escolha de nova estratégia.
+
+
+=== Modelo de envelhecimento ``Bem - Sucedido'' ou ``Ideal''
+No envelhecimento bem sucedido encontramos três componentes principais: anulação da doença ou de incapacidade relacionada a doença; manutenção elevada das funções psicológicas e cognitivas; engajamento sustentado e ativo em atividades sociais e produtivas
+
+O envelhecimento bem sucedido ou ideal tem uma carga de valor, inevitável podem sobrecarregar mais do que libertar as pessoas idosas, pressionando-as a alcançar padrões que elas não podem ou não querem atingir. Desta forma não é considerado os fatores de coação que podem limitar as escolhas de um estilo de vida. Vamos apresentar algumas teorias sobre envelhecer bem:
+
+Teoria do Desengajamento:: teoria do envelhecimento proposta por Cumming e Henry, sustenta que o envelhecimento bem sucedido é caracterizado pelo mútuo afastamento entre idosos e a sociedade. Ex. sentar numa cadeira de balanço e ficar olhando o tempo passar.
+
+Teoria da Atividade:: Teoria do envelhecimento proposta por Neugarten e outros, sustenta que para envelhecer bem a pessoa deve permanecer tão ativa quanto possível. Associa a atividade com a satisfação de viver.
+
+Teoria continuidade: teoria do envelhecimento, descrita por Atctchley, sustenta que para envelhecer bem, as pessoas devem manter um equilíbrio entre a continuidade e a mudança nas estruturas internas e externas de suas vidas. Ex. ajudar a viver o mais independente possível.
+
+O papel da produtividade é um ponto essencial para viver bem, as pessoas podem continuar a serem produtivas e até mesmo ser mais produtivas ainda. As atividades como ler um livro ou trabalhos manuais, não trazem benefícios físicos porem proporciona um senso de desenvolvimento com a vida.
+
+Baltes e colaboradores descrevem que o desenvolvimento ocorre por meio de um processo de alocação de recursos pessoais -- sensório motores, cognitivos, da personalidade e sociais -- que permitem atingir os objetivos. Ou seja, o desenvolvimento ao longo da vida trás ganhos e perdas, mas na idade avançada a balança tende a pender para o lado negativo. Portanto é necessário o desvio de recursos do crescimento e da manutenção para lidar com a perda.
+
+
+=== REFERÊNCIAS
+
+
+ARIÈS, Philippe. *História social da criança e da família*. 2 ed. Rio de Janeiro: LTC, 2006.
+
+LERNER, Richard M. *Handbook of Adolescent Psychology*. 2. ed. Copyright. USA, 2004. 
+
+PAPALIA, Diane E. *Desenvolvimento Humano*. Tradução: Carla Filomena Marques. 10ºed. Porto Alegre: AMGH, 2010.
+
+SABINI, Maria Aparecida Cória. *Psicologia do Desenvolvimento*. 2. ed. São Paulo: Ed. Ática.2004.
+
+SHEPHARD. R.J. *Envelhecimento, atividade física e saúde*. São Paulo: Phorte, 2003.
+
+SPIRDUSO, W.W. *Dimensões físicas do envelhecimento*. Barueri, SP: Manole, 2005.
+
+SPRINTHALL, Norman A., W. COLLINS Andrews. *Psicologia do Adolescente Uma abordagem desenvolvimentista*. Fundação Calouste Gulbenkian, 1994.
+
+
+[NOTE]
+.ANÁLISE E REFLEXÃO .... 
+====
+
+Quais as etapas do desenvolvimento humano e o que caracteriza cada uma delas em termos, físicos, psicológicos e psicossociais. Leve suas reflexões para o Fórum de Discussões da aula.
+====
+
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
+
+
