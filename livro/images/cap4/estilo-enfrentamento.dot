@@ -7,9 +7,9 @@ Para compilar execute:
 digraph G {
   rankdir="TB"
   node[shape=box, style=filled]
-  labelloc=top;
-  labeljust=right;
-  label="Estilo enfrentamento"
+  //labelloc=top;
+  //labeljust=right;
+  //label="Estilo enfrentamento"
 
   avaliacao[label="Avaliação da Situação"];
   recursos[label="Recursos Pessoais x Ambiente"];

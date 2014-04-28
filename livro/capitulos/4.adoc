@@ -731,21 +731,14 @@ aliviar seu impacto físico ou psicológico.
 Os adultos mais velhos tendem a usar o seguinte estilo de 
 enfrentamento:
 
-.Ciclo de Instruções com interrupções
+
+["graphviz"]
+.Estilo de enfrentamento utilizados pelos adultos mais velhos.
 ----
 include::{dot}/estilo-enfrentamento.dot[]
 ----
 
-ESQUEMA            Avaliação da Situação        Recursos Pessoais 
-x Ambiente          
-    Avaliação dos Resultados         Execução            Escolha 
-da Estratégia           
-                    Positivo           Manutenção 
-                    Negativo         Reavaliação da situação, 
-escolha de nova estratégia.
-
-
-=== Modelo de envelhecimento ``Bem - Sucedido'' ou ``Ideal''
+=== Modelo de envelhecimento ``Bem-Sucedido'' ou ``Ideal''
 No envelhecimento bem sucedido encontramos três componentes 
 principais: anulação da doença ou de incapacidade relacionada a 
 doença; manutenção elevada das funções psicológicas e 
