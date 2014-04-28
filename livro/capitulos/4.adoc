@@ -3,6 +3,7 @@
 :online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
 :local: {code_dir}/{cap}
 :img: {img_dir}/{cap}
+:dot: {dot_dir}/{cap}
 
 .Objetivos do capítulo
 ____
@@ -70,11 +71,8 @@ respostas empregando o modelo do condicionamento clássico como
 resultantes de um processo de aprendizagem, neste caso as respostas 
 passam a ser dadas através de determinados estímulos.
 
-
-
-[NOTE]
 .O caso do bebê Albert
-====
+****
 
 Watson realizou uma experiência durante dois meses com o  bebê 
 Albert de 9 meses, ele condicionou a criança a ter medo de animais 
@@ -89,9 +87,9 @@ Watson concluiu que as emoções humanas são resultantes de um
 processo de aprendizagem.
 
 .Experiência de Watson com o bebê Albert.
-image::{img}/albert_baby.pdf[scaledwidth="80%"]
+image::{img}/albert_baby.eps[scaledwidth="80%"]
 
-====
+****
 
 A teoria Psicanalítica de Freud surgiu nas décadas de 1920 e 1930, 
 e enfatizava as relações afetivas que eram desenvolvidas na 
@@ -108,8 +106,6 @@ infância através de relação que a criança tem com seu próprio
 corpo, sendo a busca de prazer o fator que motiva o comportamento do 
 ser humano.
 
-FIGURA
-
 Após os estudos de Watson e Freud, os estudos na área do 
 desenvolvimento infantil começaram a diminuir, contudo a partir da 
 década de 1950 a Psicologia do Desenvolvimento começou a 
@@ -123,24 +119,24 @@ possui a função de adaptar o organismo as exigências do ambiente,
 tratando-se pois de uma estrutura biológica, esta adaptação se faz 
 por meio de dois processos: *assimilação e acomodação*.
 
-A assimilação se dá através da incorporação dos desafios e 
-informações do meio aos esquemas mentais já existentes, já a 
-acomodação caracteriza-se por ser o processo de criação ou 
-mudança de esquemas mentais resultantes da necessidade de assimilar 
-os desafios ou informações do meio. A interação entre 
-assimilação e acomodação torna-se comum ao longo da vida e está 
-presente nos níveis de funcionamento intelectual e comportamental. 
-Piaget desenvolveu sua teoria em estágios, e isto faz com que 
-indique a natureza biológica da inteligência.
+A assimilação:: se dá através da incorporação dos desafios e
+informações do meio aos esquemas mentais já existentes.
 
+A acomodação:: caracteriza-se por ser o processo de criação ou mudança
+de esquemas mentais resultantes da necessidade de assimilar os
+desafios ou informações do meio. 
 
+A interação entre assimilação e acomodação torna-se comum ao longo da
+vida e está presente nos níveis de funcionamento intelectual e
+comportamental.  Piaget desenvolveu sua teoria em estágios, e isto faz
+com que indique a natureza biológica da inteligência.
 
-[TIP]
+[NOTE]
 ====
 Piaget descreve quatro estágios, que caracterizam as diferentes 
-formas de adaptação de que o ser humano é capaz: sensório-motor, 
-intuitivo, operatório concreto e operatório formal. Sabini (2004, 
-p.34)
+formas de adaptação de que o ser humano é capaz: _sensório-motor, 
+intuitivo, operatório concreto e operatório formal_. 
+<<"SABINI", "Sabini (2004, p.34)">>
 
 ====
 
@@ -289,15 +285,16 @@ rigidamente diferencias e de estatuto muito baixo para jovens e
 crianças.
 
 [NOTE]
+.Margaret Mead
 ====
-``A solução para problemas dos adultos de amanhã depende grande 
-parte da forma como os nossos filhos crescem hoje." 
 
+[quote]
+A solução para problemas dos adultos de amanhã depende grande 
+parte da forma como os nossos filhos crescem hoje. MARGARET MEAD by
+Alex from Virginia.
 
-MARGARET MEAD by Alex from Virginia
-
-Margaret Mead nasceu em Filadélfia em 1901 e morreu em Nova York em 
-1978. Ela estudou primeiramente aprender teoria e impressão, a fim 
+Margaret Mead nasceu em Filadélfia em 1901 e morreu em Nova York 
+em 1978. Ela estudou primeiramente aprender teoria e impressão, a fim 
 de obter uma melhor compreensão das práticas de criação dos 
 filhos. Em 1925, ela foi para a Polinésia para estudar como as 
 diferenças culturais influenciariam na criação dos filhos e se 
@@ -306,6 +303,8 @@ expandiu para estudar outras áreas também.
 ====
 
 === Desenvolvimento físico e cognitivo do adolescente
+
+==== Desenvolvimento Físico
 
 De acordo com Sprinthall (2008) fisicamente os adolescentes passam 
 por mudanças hormonais promovidas pelo hipotálamo, que estimulam os 
@@ -391,7 +390,8 @@ poemas; fazer filmes é mais eficaz que visioná-los; participar numa
 dramatização de improviso é mais eficaz do que observá-la. Pois 
 na perspectiva piagetiana, o desenvolvimento cognitivo depende da 
 ação, em qualquer dos estádios. Em todos os seus trabalhos ele tem 
-uma frase chave: a ação produz desenvolvimento (SPRINTHALL, 2004). 
+uma frase chave: a ação produz desenvolvimento (<<"SPRINTHALL","SPRINTHALL, 2004">>). 
+// Faltando referência a Piaget 1970
 Para Piaget (1970), a atividade de assimilar certas experiências do 
 meio circundante força a criança a acomodá-las ou 
 internalizá-las. Esta internalização de experiências é 
@@ -407,6 +407,7 @@ ocorrem com o avançar da idade. É um processo inverso no
 desenvolvimento humano. Enquanto que na infância é evolução, na 
 senescência é involução. O declínio das capacidades funcionais e 
 das aptidões inicia-se na fase adulta e se precipita no envelhecer. 
+// Faltando referência à Souza
 De acordo com Souza (1998) o envelhecimento se caracteriza por 
 algumas perdas das capacidades fisiológicas dos órgãos, dos 
 sistemas e de adaptação a certas situações de estresse. Tal 
@@ -421,15 +422,14 @@ elementos inevitáveis da idade avançada, agora são vistos como
 parte do processo de envelhecer, resultantes do estilo de vida ou de 
 patologias.
 
-De acordo com Papalia (2010) o envelhecimento primário é um 
-processo gradual e inevitável de deterioração física que começa 
-cedo na vida e continua ao longo dos anos, não importa o que as 
-pessoas façam para evitá-lo. Ocorre de forma semelhante nos 
-indivíduos da mesma espécie, de forma gradual e previsível. O 
-sujeito está dependente da influência de vários fatores 
-determinantes para o envelhecimento, como estilo de vida, 
-alimentação educação e posição social, embora as suas causas 
-sejam distintas.
+De acordo com <<"PAPALIA","Papalia (2010)">> o envelhecimento primário
+é um processo gradual e inevitável de deterioração física que começa
+cedo na vida e continua ao longo dos anos, não importa o que as
+pessoas façam para evitá-lo. Ocorre de forma semelhante nos indivíduos
+da mesma espécie, de forma gradual e previsível. O sujeito está
+dependente da influência de vários fatores determinantes para o
+envelhecimento, como estilo de vida, alimentação educação e posição
+social, embora as suas causas sejam distintas.
 
 O envelhecimento secundário é o envelhecimento resultante das 
 interações das influências externas, e é variável entre 
@@ -441,7 +441,7 @@ Saúde e longevidade estão intimamente relacionadas à educação e
 outros aspectos do status socioeconômicos. Alguns estudiosos 
 classificam os indivíduos idosos, situando-os em categorias 
 funcionais, que são: meia-idade; velhice; velhice avançada; e 
-velhice muito avançada. Porém, segundo Papalia (2010), a 
+velhice muito avançada. Porém, segundo <<"PAPALIA", "Papalia (2010)">>, a 
 classificação mais significativa é por idade funcional, que é a 
 capacidade de uma pessoa interagir em um ambiente físico e social em 
 comparação com outros da mesma idade cronológica. A diferença 
@@ -450,17 +450,17 @@ variáveis como sexo, herança genética e estilo de vida
 contribuirão determinando entre homens e mulheres as diferenças nos 
 ritmos de envelhecimento que cada um apresentará.
 
-Segundo, ainda, Shephard (2003), a categorização funcional do idoso 
-não depende apenas da idade, mas também de sexo, estilo de vida, 
-saúde, fatores sócio-econômicos e influências constitucionais, 
-estando provado, assim, que não há homogeneidade na população 
-idosa. A idade funcional está estreitamente ligada à idade 
-subjetiva do indivíduo. Várias áreas de pesquisa tem se debruçado 
+Segundo, ainda, <<"SHEPHARD","Shephard (2003)">>, a categorização
+funcional do idoso não depende apenas da idade, mas também de sexo,
+estilo de vida, saúde, fatores sócio-econômicos e influências
+constitucionais, estando provado, assim, que não há homogeneidade na
+população idosa. A idade funcional está estreitamente ligada à idade
+subjetiva do indivíduo. Várias áreas de pesquisa tem se debruçado
 sobre o estudo do envelhecimento, como a Gerontologia e a Geriatria.
 
- 
-=== Desenvolvimento Físico 
-==== Longevidade e envelhecimento
+==== Desenvolvimento Físico 
+
+===== Longevidade e envelhecimento
 
 A expectativa de vida aumentou pragmaticamente desde 1900. Pessoas 
 brancas tendem a ter mais longevidade de que pessoas negras, e as 
@@ -539,7 +539,7 @@ esse processo de deterioração possa ser retardado terapias
 comportamentais e medicamentosas se fazem necessárias. 
 
 
-=== Desenvolvimento cognitivo 
+==== Desenvolvimento cognitivo 
 É por meio da cognição que os seres humanos absolvem os 
 conhecimentos, e que contribui para o desenvolvimento intelectual dos 
 indivíduos, as habilidades cognitivas estão diretamente ligadas a 
@@ -572,12 +572,12 @@ Estudos comprovam que estímulos diretivos e adequados têm
 demonstrado resultados positivos com o sujeito aprendente da terceira 
 idade fazendo com que estes não só recupere competências 
 cognitivas perdidas, mas até pra superar seus limites anteriores 
-(Papalia, 2010).
+(<<"PAPALIA","Papalia, 2010">>).
 
-Através de inúmeras pesquisas científicas pode-se perceber a 
-complexidade do processo intelectual do ser humano. Papalia (2010) em 
-seu livro ``desenvolvimento humano'' faz distinção entre 
-habilidades (inteligência) fluida e cristalizada:
+Através de inúmeras pesquisas científicas pode-se perceber a
+complexidade do processo intelectual do ser humano. <<"PAPALIA",
+"Papalia (2010)">> em seu livro ``desenvolvimento humano'' faz
+distinção entre habilidades (inteligência) fluida e cristalizada:
 
 A habilidade fluida depende muito da condição neurológica do 
 sujeito aprendente enquanto que a habilidade cristalizada depende dos 
@@ -603,7 +603,8 @@ idosa integrada dentro do processo de aprendizagem, não apenas no
 ambiente escolar, como também, em diferentes contextualizações 
 socioculturais.
 
-===  Desenvolvimento Psicossocial 
+====  Desenvolvimento Psicossocial 
+
 É um estágio de desenvolvimento em que as pessoas reavaliam suas 
 vidas, fecham situações deixadas em aberto e decidem como melhor 
 canalizar suas energias e passar seus dias ou anos restantes. Alguns 
@@ -621,13 +622,15 @@ comportamentos típicos, de um determinado ser humano.
 
 Os traços de personalidade são mutáveis (SILVA e NAKANO, 2011; 
 IRIGARAY e SCHNEIDER, 2007; 2009) também na velhice, podendo 
+// Referências não encontradas
 colaborar no processo adaptativo do envelhecimento, melhorando a 
 saúde e priorizando a longevidade; desta forma, descreve-se a 
 interligação da personalidade com os índices de resiliência, com 
 os sintomas depressivos (transtorno de humor mais frequente), como 
 também, com o bem-estar subjetivo.
 
-=== A Personalidade muda na Terceira Idade?
+===== A Personalidade muda na Terceira Idade?
+
 Depende do modo como a estabilidade e a mudança são avaliadas. 
 Podemos identificar:
 
@@ -644,8 +647,9 @@ estáveis no período entre 50 e 70 anos. Estudos apontam uma
 estabilidade na terceira idade. A inflexibilidade ou aumento de 
 rigidez não são atribuídos a idade e sim a experiência de vida. 
 (Schaie & Willis, 1991).
+// Faltando referência
 
-==== Personalidade, Emotividade e Bem-estar 
+===== Personalidade, Emotividade e Bem-estar 
 A Personalidade é um elemento prognosticador da emotividade e do 
 bem-estar subjetivo. Emoções negativas auto reportadas como 
 inquietação, tédio, solidão, infelicidade e depressão 
@@ -669,7 +673,8 @@ transtornos de humor muito mais poderoso que a idade, a raça, o
 gênero, a renda, a educação ou o estado civil. (Costa e McCrae 
 1980).
 
-==== Erick Erikson: questões e tarefas normativas
+
+===== Erick Erikson: questões e tarefas normativas
 
 Senso de integridade do ego: fundamentada na reflexão da própria 
 vida. Na oitava e ultima etapa do desenvolvimento psicossocial, as 
@@ -677,11 +682,13 @@ pessoas da terceira idade adquirem um senso de integridade do ego
 pela aceitação da vida que tiveram e assim aceitar a morte, ou se 
 entregarem ao desespero pela impossibilidade de reviver suas vidas.
 
+
 Nesta etapa pode se desenvolver a VIRTUDE que é sabedoria: ``aceitar 
 a vida que se viveu sem maiores arrependimentos, sem se alongar em 
-todos os ``deveria ter feito'' ou ``como poderia ter sido'', o que 
+todos os `deveria ter feito' ou `como poderia ter sido', o que 
 significa aceitar as imperfeições em si próprio, nos pais, nos 
 filhos e na vida''.
+// Virtude tem que está em caixa alta mesmo?
 
 A integridade deve ser mais importante que o desespero nesta etapa, 
 para que seja resolvida com êxito. Segundo Erikson, algum desespero 
@@ -691,6 +698,7 @@ quando as funções do corpo enfraquecem é necessário manter um
 o passado de contínuos estímulos e desafios.
 
 Modelos de enfrentamento::
+// Acho que esta divisão assim não ficou bonita.
 
 Enfrentamento::: é o pensamento ou comportamento de adaptação 
 visando reduzir ou aliviar o estresse advindo de condições 
@@ -713,16 +721,20 @@ conscientemente estratégias de enfrentamento com base no modo como
 percebem ou analisam uma situação que sobrecarregue seus recursos 
 normais:  
 
-Por Focalização no problema -- para eliminar, administrar ou 
+Por Focalização no problema:: para eliminar, administrar ou 
 melhorar uma situação estressante;
 
-Por Focalização na emoção ou enfrentamento paliativo -- 
+Por Focalização na emoção ou enfrentamento paliativo:: 
 administrar a resposta emocional a uma situação de estresse para 
 aliviar seu impacto físico ou psicológico.
 
 Os adultos mais velhos tendem a usar o seguinte estilo de 
 enfrentamento:
 
+.Ciclo de Instruções com interrupções
+----
+include::{dot}/estilo-enfrentamento.dot[]
+----
 
 ESQUEMA            Avaliação da Situação        Recursos Pessoais 
 x Ambiente          

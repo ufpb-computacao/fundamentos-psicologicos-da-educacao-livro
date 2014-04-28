@@ -1,0 +1,29 @@
+/*  Este arquivo pode ser utilizado para geração de gráficos.
+http://www.graphviz.org/Gallery.php
+Para compilar execute:
+  dot -O -t png
+*/
+
+digraph G {
+  rankdir="TB"
+  node[shape=box, style=filled]
+  labelloc=top;
+  labeljust=right;
+  label="Estilo enfrentamento"
+
+  avaliacao[label="Avaliação da Situação"];
+  recursos[label="Recursos Pessoais x Ambiente"];
+  escolha[label="Escolha da Estratégia"];
+  execucao[label="Execução"];
+  avaliacao_result[label="Avaliação dos Resultados"];
+  manutencao[label="Manutenção"];
+  reavaliacao[label="Reavaliação da situação,\nescolha de nova estratégia"];
+
+  avaliacao->recursos->escolha->execucao->avaliacao_result;
+  avaliacao_result->manutencao[label="Avaliação Positiva"];
+  avaliacao_result->reavaliacao[label="Avaliação Negativa"];
+  
+  {rank=same; avaliacao recursos escolha}
+}
+
+
