@@ -1,6 +1,5 @@
 == Fases do desenvolvimento humano
 
-:cap: cap4
 :online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
 :local: {code_dir}/{cap}
 :img: {img_dir}/{cap}
@@ -71,14 +70,16 @@ respostas empregando o modelo do condicionamento clássico como
 resultantes de um processo de aprendizagem, neste caso as respostas 
 passam a ser dadas através de determinados estímulos.
 
+
+
 [NOTE]
+.O caso do bebê Albert
 ====
-O caso do bebê Albert
 
 Watson realizou uma experiência durante dois meses com o  bebê 
-Albert  de 9 meses, ele condicionou a criança a ter medo de animais 
-e objetos brancos peludos, como coelhos , cães e ratos. Durante dois 
-meses ele expôs este bebé a várias coisas de cor branca e 
+Albert de 9 meses, ele condicionou a criança a ter medo de animais 
+e objetos brancos peludos, como coelhos, cães e ratos. Durante dois 
+meses ele expôs este bebê a várias coisas de cor branca e 
 felpudas, e o deixava interagir com estes sem intervir. Após algumas 
 repetições Watson fez com que a presença do animal fosse seguida 
 pelo som do gongo, fazendo com que a criança chorasse assim que o 
@@ -86,6 +87,9 @@ animal era colocado a sua frente. Após um mês a criança foi
 novamente testada, e a reação do medo foi novamente provocada. 
 Watson concluiu que as emoções humanas são resultantes de um 
 processo de aprendizagem.
+
+.Experiência de Watson com o bebê Albert.
+image::{img}/albert_baby.pdf[scaledwidth="80%"]
 
 ====
 
