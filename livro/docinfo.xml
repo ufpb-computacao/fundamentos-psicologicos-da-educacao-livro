@@ -6,13 +6,23 @@
   <edition>{edition}</edition>
 
   <revhistory>
-  
+
+    <revision>
+      <revnumber>v0.1.1</revnumber>
+      <date>29/Abril/2014</date>
+      <authorinitials>Tânia/Eduardo</authorinitials>
+      <revremark>
+- Produção dos Capítulos 1-5: #13, #11, #7, #2, #1. 
+- Falta revisão de todos os capítulos
+      </revremark>
+    </revision>
+
     <revision>
       <revnumber>v0.1.0</revnumber>
       <date>22/Abril/2014</date>
       <authorinitials>Tânia</authorinitials>
       <revremark>
-          - Produção do Capítulo 1 #1
+- Produção do Capítulo 1 #1
       </revremark>
     </revision>
     
