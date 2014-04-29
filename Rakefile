@@ -125,6 +125,12 @@ namespace "tag" do
   task "push" do
     sh "git push origin --tags"
   end
+  
+  desc "Compare tag with HEAD"
+  task :compare, [:v] do |t, args|
+    sh "git log --format='- %s. ' #{args.v}..HEAD"
+  end
+  
 end
 
 
