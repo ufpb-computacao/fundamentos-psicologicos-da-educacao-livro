@@ -466,15 +466,7 @@ acerca do conhecimento humano?
 teoria psicológica do desenvolvimento e aprendizagem no campo da 
 educação.
 
-=== Referências do Capítulo
 
-COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da 
-Educação: um estudo dos processos psicológicos de desenvolvimento 
-e aprendizagem humanos, voltado para a educação*. Belo Horizonte: 
-Lê, 1999.
-
-BOCK, Ana Mercês Bahia. *Psicologias: uma introdução ao estudo de 
-psicologia*. 14. Ed. São Paulo: Saraiva, 2008.
 
 ////
 Sempre termine os arquivos com uma linha em branco.

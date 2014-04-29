@@ -7,30 +7,68 @@
 - [["ARIES", "ARIÈS, 2006, p.9"]] ARIÈS, Philippe. 
 *História social da criança e da família*. 2 ed. Rio de Janeiro: LTC, 2006.
 
-- [["LERNER"]] LERNER, Richard M. *Handbook of Adolescent Psychology*. 2. ed. 
+- [[BOCK08]] BOCK, Ana Mercês Bahia. *Psicologias: uma introdução ao estudo de 
+psicologia*. _14. Ed. São Paulo: Saraiva, 2008_.
+
+- [[COUTINHO00]] COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da
+  Educação: um estudo dos processos psicológicos de desenvolvimento e
+  aprendizagem humanos, voltado para a educação*. Belo Horizonte:
+  Editora lê, 2000.
+
+- [[COUTINHO99]] COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da
+  Educação: um estudo dos processos psicológicos de desenvolvimento e
+  aprendizagem humanos, voltado para a educação*. Belo Horizonte: Lê,
+  1999.
+
+- [[CAMPOS10]] CAMPOS, Dinah Martins de Souza. *Psicologia e desenvolvimento 
+humano*. 6. Ed. Petrópolis: Vozes, 2010.
+
+- [[CORIASABINI04]] CORIA-SABINI, Maria Aparecida. *Psicologia do Desenvolvimento*. 2. 
+ed. São Paulo: Ática. 2004.
+
+- [[DANTAS02]] DANTAS, Nara Maria. *Adolescência e Psicanálise: Uma
+  possibilidade teórica*. Recife 2002.
+
+- [[KUPFER89]] KUPFER, Maria Cristina. Freud e a educação. O mestre do impossível. São
+Paulo: Scipione, 1989.
+
+- [[LERNER04]] LERNER, Richard M. *Handbook of Adolescent Psychology*. 2. ed. 
 Copyright. USA, 2004. 
 
-- [["PAPALIA","PAPALIA, 2010"]] PAPALIA, Diane E. 
+- [[PAPALIA10]] PAPALIA, Diane E. 
 *Desenvolvimento Humano*. Tradução: Carla Filomena Marques. 10ºed.
 Porto Alegre: AMGH, 2010.
 
-- [["SABINI"]] SABINI, Maria Aparecida Cória. 
+- [[PILETTI06]] PILETTI, Nelson. *Psicologia Educacional*. _17ª ed. Ática. São 
+Paulo, SP. 2006_. 
+
+- [[PIAGET49]] PIAGET 1949, *FALTANDO*.
+
+- [[PIAGET70]] PIAGET 1970, *FALTANDO*.
+
+- [[SABINI04]] SABINI, Maria Aparecida Cória. 
 *Psicologia do Desenvolvimento*. 2.  ed. São Paulo: Ed. Ática.2004.
 
-- [["SHEPHARD", "SHEPHARD"]] SHEPHARD. R.J. 
+- [[SHEPHARD03]] SHEPHARD. R.J. 
 *Envelhecimento, atividade física e saúde*. São Paulo: Phorte, 2003.
 
-- [["SPIRDUSO", "SPIRDUSO"]] SPIRDUSO, W.W. 
+- [[SOUZA98]] SOUZA, 1998. *FALTANDO*.
+
+- [[SPIRDUSO05]] SPIRDUSO, W.W. 
 *Dimensões físicas do envelhecimento*. Barueri, SP: Manole, 2005.
 
-- [["SPRINTHALL", "SPRINTHALL"]] SPRINTHALL, Norman A., W. COLLINS Andrews. 
+- [[SPRINTHALL94]] SPRINTHALL, Norman A., W. COLLINS Andrews. 
 *Psicologia do Adolescente Uma abordagem desenvolvimentista*. Fundação
 Calouste Gulbenkian, 1994.
 
+- [[SPRINTHALL04]] SPRINTHAL, W. Andrews Collins. *???*. 2004.
+// Faltando referência.
 
+- [[SPRINTHALL08]] SPRINTHAL, W. Andrews Collins. *Psicologia do adolescente: uma 
+abordagem desenvolvimentista*. 4. Ed. Lisboa: Fundação Calouste Gul 
+benkian. 2008.
 
 ////
 Sempre terminar o arquivo com uma nova linha.
 ////
-
 

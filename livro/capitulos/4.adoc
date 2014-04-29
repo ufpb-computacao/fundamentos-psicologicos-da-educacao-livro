@@ -136,7 +136,7 @@ com que indique a natureza biológica da inteligência.
 Piaget descreve quatro estágios, que caracterizam as diferentes 
 formas de adaptação de que o ser humano é capaz: _sensório-motor, 
 intuitivo, operatório concreto e operatório formal_. 
-<<"SABINI", "Sabini (2004, p.34)">>
+<<"SABINI04", "Sabini (2004, p.34)">>
 
 ====
 
@@ -171,7 +171,7 @@ produção industrial e do desenvolvimento tecnológico.
 
 Em meio a esse processo surge Stanley Hall que, baseando-se nas 
 descobertas da Teoria da Evolução das Espécies de Charles Darwin, 
-segundo Sprinthall (2008), considerava que a adolescência 
+segundo <<"SPRINTHALL08","Sprinthall (2008)">>, considerava que a adolescência 
 necessitava de estudos especiais, por ser um estágio de 
 desenvolvimento evolutivo humano dotado de necessidades específicas, 
 afirmando que, nessa fase, o ser humano passa a experimentar, 
@@ -255,7 +255,7 @@ referiu em O mal-estar na civilização (1929), à proporção em que
 haverá uma tensão entre um corpo transformado,``pulsante'', e as 
 exigências do mundo externo, que caminham em direção oposta. 
 
-DANTAS, Nara Maria. Adolescência e Psicanálise: Uma possibilidade 
+<<"DANTAS02","DANTAS">>, Nara Maria. Adolescência e Psicanálise: Uma possibilidade 
 teórica.Recife 2002.
 
 ____
@@ -263,7 +263,7 @@ ____
 
 Além dessas perspectivas históricas há uma variação do conceito 
 e visão do adolescente de acordo com a cultura em que vive, como 
-destaca  Sprinthall (2008) p.20, ao descrever a pesquisa da 
+destaca  <<"SPRINTHALL08","Sprinthall (2008) p.20">>, ao descrever a pesquisa da 
 antropóloga Margaret Mead sobre o desenvolvimento do adolescente 
 entre as culturas nativas da sociedade de Samoa na Polinésia 
 (Pacífico Sul) e Quênia na África Oriental (Oceano Índico).
@@ -306,7 +306,7 @@ expandiu para estudar outras áreas também.
 
 ==== Desenvolvimento Físico
 
-De acordo com Sprinthall (2008) fisicamente os adolescentes passam 
+De acordo com <<"SPRINTHALL08","Sprinthall (2008)">> fisicamente os adolescentes passam 
 por mudanças hormonais promovidas pelo hipotálamo, que estimulam os 
 órgãos sexuais a produzir certos hormônios. Em análogo a essa 
 maturação sexual o desenvolvimento corporal vai se efetuando, com o 
@@ -333,8 +333,8 @@ sociedade.
 
 As transformações a nível intelectual são de extrema importância 
  durante a adolescência, visto que, nessa fase, a inteligência toma 
-a sua forma final com o pensamento abstrato ou formal. Para Piaget 
-(1949), ocorre entre os 11-12 anos e os 14-15 anos. Estas 
+a sua forma final com o pensamento abstrato ou formal. Para
+<<"PIAGET49","Piaget (1949)">>, ocorre entre os 11-12 anos e os 14-15 anos. Estas 
 modificações podem influenciar no entendimento das regras. Esse 
 pensamento tido como período das operações formais, vai ajustar o 
 adolescente ao mundo real e ao seu quotidiano, além disso, 
@@ -356,7 +356,7 @@ situações vividas e a projetar ideias para o futuro.
 
 Na fase adolescente o ser humano desenvolve a capacidade para pensar 
 sobre o seu próprio pensamento e sobre o pensamento dos outros, 
-chamada de metacognição (Sprinthall, 2008). 
+chamada de metacognição (<<"SPRINTHALL08","Sprinthall, 2008">>). 
 
 A autorreflexão permite um amplo alargamento da imaginação. Os 
 adolescentes podem tomar consciência da forma como conhecem para 
@@ -376,23 +376,22 @@ crianças mais novas que tendem a pensar que todos nós encaramos as
 situações da mesma forma que elas, esse comportamento passa a ser 
 chamado de egocêntrico, centrados na sua própria perspectiva. 
 
-Para um melhor desenvolvimento intelectual, as influências e os 
-estímulos externos são de grande importância por serem modelos 
-para os adolescentes e constituírem uma estimulação. Existem 
-formas poderosas de estimular o pensamento abstrato. Para Sprinthall 
-(2004) são o visionamento de filmes ou vídeos e a participação em 
-atividades artísticas, tais como pintura, o drama, a dança e a 
-música. Quanto mais ativo for o processo simbólico, tanto maior o 
-estímulo ao desenvolvimento cognitivo. 
+Para um melhor desenvolvimento intelectual, as influências e os
+estímulos externos são de grande importância por serem modelos para os
+adolescentes e constituírem uma estimulação. Existem formas poderosas
+de estimular o pensamento abstrato. Para <<"SPRINTHALL04","Sprinthall
+(2004)">> são o visionamento de filmes ou vídeos e a participação em
+atividades artísticas, tais como pintura, o drama, a dança e a música.
+Quanto mais ativo for o processo simbólico, tanto maior o estímulo ao
+desenvolvimento cognitivo. 
 
 Durante este estádio, escrever poemas é mais eficaz do que ler 
 poemas; fazer filmes é mais eficaz que visioná-los; participar numa 
 dramatização de improviso é mais eficaz do que observá-la. Pois 
 na perspectiva piagetiana, o desenvolvimento cognitivo depende da 
 ação, em qualquer dos estádios. Em todos os seus trabalhos ele tem 
-uma frase chave: a ação produz desenvolvimento (<<"SPRINTHALL","SPRINTHALL, 2004">>). 
-// Faltando referência a Piaget 1970
-Para Piaget (1970), a atividade de assimilar certas experiências do 
+uma frase chave: a ação produz desenvolvimento (<<"SPRINTHALL04","SPRINTHALL, 2004">>). 
+Para <<"PIAGET70","Piaget (1970)">>, a atividade de assimilar certas experiências do 
 meio circundante força a criança a acomodá-las ou 
 internalizá-las. Esta internalização de experiências é 
 fundamental para o desenvolvimento cognitivo, o qual sugere que o 
@@ -407,8 +406,7 @@ ocorrem com o avançar da idade. É um processo inverso no
 desenvolvimento humano. Enquanto que na infância é evolução, na 
 senescência é involução. O declínio das capacidades funcionais e 
 das aptidões inicia-se na fase adulta e se precipita no envelhecer. 
-// Faltando referência à Souza
-De acordo com Souza (1998) o envelhecimento se caracteriza por 
+De acordo com <<"SOUZA98","Souza (1998)">> o envelhecimento se caracteriza por 
 algumas perdas das capacidades fisiológicas dos órgãos, dos 
 sistemas e de adaptação a certas situações de estresse. Tal 
 fenômeno é universal, progressivo, na maioria das vezes 
@@ -422,7 +420,7 @@ elementos inevitáveis da idade avançada, agora são vistos como
 parte do processo de envelhecer, resultantes do estilo de vida ou de 
 patologias.
 
-De acordo com <<"PAPALIA","Papalia (2010)">> o envelhecimento primário
+De acordo com <<"PAPALIA10","Papalia (2010)">> o envelhecimento primário
 é um processo gradual e inevitável de deterioração física que começa
 cedo na vida e continua ao longo dos anos, não importa o que as
 pessoas façam para evitá-lo. Ocorre de forma semelhante nos indivíduos
@@ -441,7 +439,7 @@ Saúde e longevidade estão intimamente relacionadas à educação e
 outros aspectos do status socioeconômicos. Alguns estudiosos 
 classificam os indivíduos idosos, situando-os em categorias 
 funcionais, que são: meia-idade; velhice; velhice avançada; e 
-velhice muito avançada. Porém, segundo <<"PAPALIA", "Papalia (2010)">>, a 
+velhice muito avançada. Porém, segundo <<"PAPALIA10", "Papalia (2010)">>, a 
 classificação mais significativa é por idade funcional, que é a 
 capacidade de uma pessoa interagir em um ambiente físico e social em 
 comparação com outros da mesma idade cronológica. A diferença 
@@ -450,7 +448,7 @@ variáveis como sexo, herança genética e estilo de vida
 contribuirão determinando entre homens e mulheres as diferenças nos 
 ritmos de envelhecimento que cada um apresentará.
 
-Segundo, ainda, <<"SHEPHARD","Shephard (2003)">>, a categorização
+Segundo, ainda, <<"SHEPHARD03","Shephard (2003)">>, a categorização
 funcional do idoso não depende apenas da idade, mas também de sexo,
 estilo de vida, saúde, fatores sócio-econômicos e influências
 constitucionais, estando provado, assim, que não há homogeneidade na
@@ -572,10 +570,10 @@ Estudos comprovam que estímulos diretivos e adequados têm
 demonstrado resultados positivos com o sujeito aprendente da terceira 
 idade fazendo com que estes não só recupere competências 
 cognitivas perdidas, mas até pra superar seus limites anteriores 
-(<<"PAPALIA","Papalia, 2010">>).
+(<<"PAPALIA10","Papalia, 2010">>).
 
 Através de inúmeras pesquisas científicas pode-se perceber a
-complexidade do processo intelectual do ser humano. <<"PAPALIA",
+complexidade do processo intelectual do ser humano. <<"PAPALIA10",
 "Papalia (2010)">> em seu livro ``desenvolvimento humano'' faz
 distinção entre habilidades (inteligência) fluida e cristalizada:
 
@@ -586,7 +584,7 @@ tipos de inteligências seguem padrões diferentes. No padrão
 clássico de envelhecimento, entretanto, a tendência tanto na 
 pontuação do desempenho como no verbal é de queda ao longo da 
 maior parte da vida adulta; a diferença embora substancial é de 
-grau (<<PAPALIA>>).
+grau (<<"PAPALIA10", "PAPALIA, 2010">>).
 
 A referida pesquisa mostra que quando comparada a inteligência 
 fluida com a cristalizada, esta se apresenta muito mais encorajadora, 
@@ -743,7 +741,7 @@ No envelhecimento bem sucedido encontramos três componentes
 principais: anulação da doença ou de incapacidade relacionada a 
 doença; manutenção elevada das funções psicológicas e 
 cognitivas; engajamento sustentado e ativo em atividades sociais e 
-produtivas
+produtivas.
 
 O envelhecimento bem sucedido ou ideal tem uma carga de valor, 
 inevitável podem sobrecarregar mais do que libertar as pessoas 
@@ -762,7 +760,7 @@ e outros, sustenta que para envelhecer bem a pessoa deve permanecer
 tão ativa quanto possível. Associa a atividade com a satisfação 
 de viver.
 
-Teoria continuidade: teoria do envelhecimento, descrita por 
+Teoria continuidade:: teoria do envelhecimento, descrita por 
 Atctchley, sustenta que para envelhecer bem, as pessoas devem manter 
 um equilíbrio entre a continuidade e a mudança nas estruturas 
 internas e externas de suas vidas. Ex. ajudar a viver o mais 
@@ -789,8 +787,6 @@ recursos do crescimento e da manutenção para lidar com a perda.
 Quais as etapas do desenvolvimento humano e o que caracteriza cada 
 uma delas em termos, físicos, psicológicos e psicossociais. Leve 
 suas reflexões para o Fórum de Discussões da aula.
-
-
 
 ////
 Sempre termine os arquivos com uma linha em branco.
