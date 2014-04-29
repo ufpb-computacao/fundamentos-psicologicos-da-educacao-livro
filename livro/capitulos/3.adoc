@@ -3,6 +3,7 @@
 :online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
 :local: {code_dir}/{cap}
 :img: {img_dir}/{cap}
+:dot: {dot_dir}/{cap}
 
 .Objetivos do capítulo
 ____
@@ -68,8 +69,9 @@ qual o ciclo vital apresenta uma configuração particular de
 características físicas, emocionais sociais e intelectuais.
 
 
-=== BREVE HISTÓRICO DA PSICOLOGIA DO DESENVOLVIMENTO
-==== A VISÃO DESENVOLVIMENTO NA GRÉCIA ANTIGA
+=== Breve histórico da Psicologia do Desenvolvimento
+
+==== A visão desenvolvimento na Grécia Antiga
   
 Ao longo dos séculos tem havido mudanças no interesse pelo estudo 
 do desenvolvimento. *Na antiguidade grega, Platão, em sua 
@@ -166,7 +168,7 @@ processar a inclusão -- principalmente a escolar/digital -- com
 vistas à constituição de um mundo sócio/economicamente 
 sustentável.
 
-=== DESENVOLVIMENTO: MATURAÇÃO E APRENDIZAGEM
+=== Desenvolvimento: maturação e aprendizagem
 
 Assim como a hereditariedade e o meio ambiente, a maturação e 
 aprendizagem são processos interativos do desenvolvimento. Em que a 
@@ -184,7 +186,7 @@ ação educativa. Visto que não se espera simplesmente a maturação
 ocorrer para que o ser possa desenvolver a aprendizagem, mas se cria 
 condições para que esta ocorra.
 
-=== DIFERENÇA ENTRE CRESCIMENTO E DESENVOLVIMENTO
+=== Diferença entre crescimento e desenvolvimento
 
 É importante fazer essa diferenciação para facilitar a 
 compreensão de alguns conceitos fundamentais da psicologia do 
@@ -204,7 +206,7 @@ Fundamentados em Moreira (2000), trataremos de alguns princípios
 maturacionais previsíveis de serem observados no desenvolvimento 
 humano.
 
-=== PRINCÍPIOS GERAIS DO DESENVOLVIMENTO HUMANO
+=== Princípios gerais do desenvolvimento humano
 
 O desenvolvimento se processa por etapas:: o desenvolvimento humano 
 se dá por fases que apresentam características próprias. Contudo, 
@@ -253,10 +255,8 @@ aspecto cognitivo a capacidade de raciocínio lógico
 indutivo-dedutivo aparece na adolescência.  
 
 [TIP]
-.Lembremos 
+.Os fatores que influenciam o desenvolvimento humano...
 ====
-
-OS FATORES QUE INFLUENCIAM O DESENVOLVIMENTO HUMANO...
 
 Vários fatores indissociados e em permanente interação afetam 
 todos os aspectos do desenvolvimento. São eles:
@@ -297,7 +297,7 @@ Bock, 2008, p. 99
 
 
 [NOTE]
-.ANÁLISE E REFLEXÃO .... 
+.Análise e reflexão 
 ====   
 Com base nos princípios gerais do desenvolvimento humano, reflita 
 sobre eles e tente estabelecer uma relação entre esses princípios 
