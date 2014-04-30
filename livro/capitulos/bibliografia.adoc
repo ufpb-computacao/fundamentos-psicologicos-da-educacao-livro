@@ -6,7 +6,10 @@
 . [[BOCK08]] BOCK, Ana Mercês Bahia. *Psicologias: uma introdução ao estudo de 
 psicologia*. _14. Ed. São Paulo: Saraiva, 2008_.
 
-. [[COUTINHO00]] COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da
+. [[CAMPOS03]] CAMPOS, Dinah Martins de Souza. Psicologia da aprendizagem. 33. ed.  
+Petrópolis: Vozes, 2003. 
+
+[[COUTINHO00]] COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da
   Educação: um estudo dos processos psicológicos de desenvolvimento e
   aprendizagem humanos, voltado para a educação*. Belo Horizonte:
   Editora lê, 2000.
@@ -23,6 +26,12 @@ ed. São Paulo: Ática. 2004.
 
 . [[DANTAS02]] DANTAS, Nara Maria. *Adolescência e Psicanálise: Uma
   possibilidade teórica*. Recife 2002.
+
+. [[GADOTTI93]] GADOTTI, Moacir. *História das Idéias Pedagógicas*. São
+  Paulo, Ática, 1993.
+
+. [[GADOTTI03]] GADOTTI, Moacir. 
+*História das Idéias Pedagógicas*, 2003, 8a ed., p.35
 
 . [[KUPFER89]] KUPFER, Maria Cristina. Freud e a educação. O mestre do impossível. São
 Paulo: Scipione, 1989.
