@@ -196,7 +196,7 @@ internas ou mentais, apenas não concordava a sua validade no estudo
 científico do comportamento. Um biógrafo reiterou que a posição 
 de Skinner ``não era uma negação dos eventos mentais, mas uma 
 recusa em classificá-los como entidades explicativas''
-(Riuchelle, 1993, p. 10). 
+(<<"RIUCHELLE93","Riuchelle, 1993, p. 10">>). 
 
 
 .Burrhus Skinner em ação (condicionamento operante de animais). Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
@@ -308,8 +308,10 @@ terem surgido num período em que o objeto de estudo da Psicologia
 consistia na análise da consciência e em que o comportamento humano
 era estudado a partir de uma visão mecanicista e positivista.  
 
-//Fonte: FADIMAN, James; FRAGER, Robert.  Teorias da Personalidade.
-//Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
+____
+Fonte: <<"FADIMAN86","FADIMAN, James; FRAGER, Robert">>.  Teorias da Personalidade.
+Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
+____
 
 ****
 
