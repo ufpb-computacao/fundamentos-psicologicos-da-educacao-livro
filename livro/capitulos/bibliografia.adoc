@@ -9,7 +9,7 @@ psicologia*. _14. Ed. São Paulo: Saraiva, 2008_.
 . [[CAMPOS03]] CAMPOS, Dinah Martins de Souza. Psicologia da aprendizagem. 33. ed.  
 Petrópolis: Vozes, 2003. 
 
-[[COUTINHO00]] COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da
+. [[COUTINHO00]] COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da
   Educação: um estudo dos processos psicológicos de desenvolvimento e
   aprendizagem humanos, voltado para a educação*. Belo Horizonte:
   Editora lê, 2000.

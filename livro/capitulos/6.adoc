@@ -73,7 +73,29 @@ o método indutivo em suas observações, experiências e hipóteses.
 >| Fonte: História das Ideias Pedagógicas de <<"GADOTTI03", "Moacir Gadotti">>, 2003, 8a ed., p.35
 |====
 
-*TODO*: transcrever quadro aqui.
+SÓCRATES (469-399 a.C.), filósofo grego nascido em Antenas, foi
+considerado o espantoso fenômeno da história do Ocidente. Sua
+preocupação como educador, ao contrário dos sofistas, não era a
+adaptação, a dialética retórica, mas despertar e estimular o impulso
+para a busca pessoal e a verdade, o pensamento próprio e a escuta da
+voz interior.
+
+Não interessavam os honorários das aulas, mas o diálogo vivo e
+amistoso com seus discípulos. Sócrates acreditava que o
+autoconhecimento é o início do caminho para o verdadeiro saber. Não se
+aprende a andar nesse caminho com o recebimento passivo de conteúdos
+oferecidos de fora, mas com a busca trabalhosa que cada qual realizada
+dentro de si.
+
+Sócrates foi acusado de blasfemar contra os deuses e de corromper a
+juventude.
+
+Foi condenado à morte e, apesar da possibilidade de fugir da prisão,
+permaneceu fiel a si e à sua missão.
+
+Não deixou na escrito. O que herdamos foi o testemunho de seus
+contemporâneos, especialmente o de seu discípulo mais importante,
+Platão.
 
 ****
 
@@ -160,7 +182,7 @@ prometem, porque são jovens.
 ____
 
 
-// Deveria ser uma nova seção aqui?
+// FIXME #16 Deveria ser uma nova seção aqui
 
 Na Idade Média Santo Agostinho revive o método indutivo e adota a 
 introspecção para o registro de suas experiências mentais. Santo 
@@ -265,7 +287,7 @@ para aprendizagem'' -- termo utilizado pelos cognitivistas com o
 sentido de conceitos existentes e disponíveis à articulação com 
 novos conteúdos para constituição de aprendizagens.
 
-=== CARACTERÍSTICAS DA APRENDIZAGEM
+=== Características da Aprendizagem
 
 A partir da contribuição de várias teorias consideramos que a 
 aprendizagem é um processo dinâmico, contínuo, global, pessoal, 
@@ -316,7 +338,10 @@ Neste capítulo trouxemos uma reflexão socrática, das Protágoras
 de Platão, que traz uma reflexão sobre o que é aprendido e o que 
 pode ser ensinado...
 
-TIP: Faça, então, uma reflexão, junto a esses filósofos da 
+****
+// #10 Acho que outras atividades poderiam ser elaboradas para auxiliar na auto-avaliação do aluno.
+
+Faça, então, uma reflexão, junto a esses filósofos da 
 educação grega, em seguida, procure, dentre as teorias discutidas 
 por nós acerca do desenvolvimento e aprendizagem, em seguida, se 
 posicione diante de qual teoria seria a mais viável para os processo 
@@ -325,20 +350,27 @@ atualidade.
 
 // Explicar melhor como o aluno poderia fazer isto.
 
+****
 === MATERIAL COMPLEMENTAR
 
-NOTE: Esse espaço será utilizado para refletir dois textos 
+****
+Esse espaço será utilizado para refletir dois textos 
 ilustrativos que muito tem a contribuir com a formação do educador. 
-O primeiro é um texto com título: Duas espécies de aprendizagem, 
-do livro Liberdade para aprender do psicólogo humanista Carl Rogers. 
-O segundo é um resumo do livro escrito por Maria Cristina Kupfer 
-intitulado Freud e a educação: o mestre do impossível.
 
+* O primeiro é um texto com título: *Duas espécies de aprendizagem, 
+do livro Liberdade para aprender*, do psicólogo humanista Carl Rogers. 
+
+* O segundo é um _resumo_ do livro escrito por Maria Cristina Kupfer 
+intitulado *Freud e a educação: o mestre do impossível*.
+
+****
 
 ==== TEXTO 1: DUAS ESPÉCIES DE APRENDIZAGEM
 
+____
 ROGERS, Carl R. Liberdade para aprender. Belo Horizonte, Interlivros, 
-1978. p. 4-5.   
+1978. p. 4-5.
+____
 
 A aprendizagem, creio, pode ser dividida em duas espécies gerais, 
 dentro da mesma continuidade de significação, num extremo da escola 
@@ -417,8 +449,10 @@ educando dentro da sua própria experiência como um todo.
 
 ==== TEXTO 2: FREUD E A EDUCAÇÃO
 
+____
 KUPFER, Maria Cristina. Freud e a educação. O mestre do 
 impossível. São Paulo: Scipione, 1989.
+____
 
 Freud acalentava o sonho de que um dia a psicanálise pudesse ser 
 colocada a serviço da sociedade como um todo e, principalmente, da 
@@ -581,9 +615,9 @@ alcançado: o domínio, a direção e o controle que estão na base
 de qualquer sistema pedagógico.
 
 NOTE: A viagem ao país das formulações de Freud termina aqui, com 
-uma conclusão, ao que tudo indica decepcionante: a psicanálise não 
+uma conclusão, ao que tudo indica decepcionante: *a psicanálise não 
 serve como principio organizador de um sistema ou de uma metodologia 
-educacional.
+educacional*.
 
 
 ////
