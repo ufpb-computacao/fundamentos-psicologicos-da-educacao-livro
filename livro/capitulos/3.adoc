@@ -53,7 +53,12 @@ valores e características de uma pessoa se configuram em um
 determinado contexto histórico. Afinal, além da dimensão 
 individual o tempo tem também uma dimensão social.
 
-NOTE: Substituir imagem da escadinha da vida: {issue}/6
+// TODO: Falta legenda para o gráfico
+
+["graphviz"]
+----
+include::{dot}/fases-da-vida.dot[]
+----
 
 === Objetivos da Psicologia do Desenvolvimento
 
@@ -83,6 +88,7 @@ acreditava que as pessoas compreendiam a realidade a partir de suas
 impressões sensoriais*.
 
 
+****
 
 [frame="none"]
 |====
@@ -90,7 +96,7 @@ impressões sensoriais*.
 >| Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8a ed., p.35
 |====
 ____
-PLATÃO (427-347 a.C.), principal discípulo de Sócrates e mestre de
+*PLATÃO* (427-347 a.C.), principal discípulo de Sócrates e mestre de
 Aristóteles, foi um importante filósofo. Nascido em Atenas, de uma
 família nobre, este em contato com as personalidades mais importantes
 de sua época.
@@ -115,6 +121,10 @@ obscurecer sua contribuição perene para a concepção do homem
 ocidental e da educação.
 ____
 
+****
+
+****
+
 [frame="none"]
 |====
 >| A virtude está no meio-termo
@@ -123,8 +133,25 @@ ____
 
 ____
 
-//TODO: Falta texto aqui?
+*ARISTÓTELES* (384-322 a.C.) é, com Platão, um dos mais geniais
+filósofos gregos e o maior sistematizador de toda a Antiguidade.
+
+Nascido na Macedônia, ingressa com 17 anos na Academia de Atenas, onde
+permanece estudando e ensinando durante 20 anos, até a morte de seu
+mestre, Platão.
+
+Contrário ao idealismo de seu mestre, Aristóteles prega de maneira
+realista que as ideias estão nas coisas, como sua própria essência. É
+também realista em sua concepção educacional; expõe três fatores
+principais que determinam o desenvolvimento espiritual do homem:
+``disposição inata, hábito e ensino''. Com isso, mostra-se favorável a
+medidas educacionais ``condicionantes'' e acredit que o homem pode
+tornar-se a criatura mais nobre, como pode tornar-se a pior de todas,
+que aprendemos fazendo, que nos tomamos justos agindo fustamente.
+
 ____
+
+****
 
 Na Idade Média (séculos XI ao XIV) as questões relacionadas aos 
 processos relativos ao desenvolvimento humanos foram conduzidas com 
@@ -157,7 +184,7 @@ recentemente, nas nações e culturas industrializadas, os adultos
 começaram a levar em conta as necessidades e capacidades 
 fisiológicas e psicológicas características dos adolescentes, e 
 esta percepção deu-lhes a oportunidade de reconhecer um estádio de 
-desenvolvimento humano. (Sprinthall, 2008, p. 7)
+desenvolvimento humano. (<<"SPRINTHALL08","Sprinthall, 2008, p. 7">>)
 
 Enquanto o estudo do desenvolvimento adolescente está sendo 
 desvelado, se discute a urgência em priorizar o estudo do 
@@ -209,7 +236,7 @@ humano.
 === Princípios gerais do desenvolvimento humano
 
 O desenvolvimento se processa por etapas:: o desenvolvimento humano 
-se dá por fases que apresentam características próprias. Contudo, 
+Se dá por fases que apresentam características próprias. Contudo, 
 a definição dos critérios de periodização da vida humana não é 
 única. Há teóricos que abordam o desenvolvimento sob o aspecto 
 físico como Gesell, aspecto cognitivo segundo estudos de Piaget, ou 
@@ -220,16 +247,16 @@ o entendimento de que o desenvolvimento implica em novos padrões de
 comportamentos constituídos por processos de reintegração 
 sucessiva de estruturas comportamentais e/ou orgânicas.
 
-O desenvolvimento, embora contínuo e sequencial, é marcado por 
-profundas transformações:: a evolução implica em transformações 
+O desenvolvimento, embora contínuo e sequencial, é marcado por profundas transformações:: 
+A evolução implica em transformações 
 estruturais possibilitadores de novos desempenhos. Tanto o 
 crescimento como o desenvolvimento produzem mudanças nos componentes 
 físico, mental, emocional e social que ocorrem em ordem invariante. 
 Uma constatação desse princípio é que a criança antes de correr, 
 anda e engatinha.
 
-O desenvolvimento é direcional e se dá numa direção 
-céfalo-caudal e próximo distal:: a embriologia corrobora esse 
+O desenvolvimento é direcional e se dá numa direção céfalo-caudal e próximo distal:: 
+A embriologia corrobora esse 
 princípio com a constatação que o organismo desenvolve primeiro a 
 cabeça, em seguida o tronco e os membros. Por direção 
 próximo-distal diz-se de um desenvolvimento que acontece do centro 
@@ -254,9 +281,11 @@ aspecto o ser apresenta ritmos diferentes nas diversas fases. No
 aspecto cognitivo a capacidade de raciocínio lógico 
 indutivo-dedutivo aparece na adolescência.  
 
-[TIP]
 .Os fatores que influenciam o desenvolvimento humano...
-====
+****
+____
+<<"BOCK08","Bock, 2008, p. 99">>
+____
 
 Vários fatores indissociados e em permanente interação afetam 
 todos os aspectos do desenvolvimento. São eles:
@@ -290,21 +319,14 @@ de sua idade, mas, ao mesmo tempo, pode não subir e descer com
 facilidade uma escada, porque esta situação pode não ter feito 
 parte de sua experiência de vida.
 
-Bock, 2008, p. 99
-====
+****
 
+=== Análise e reflexão 
 
-
-
-[NOTE]
-.Análise e reflexão 
-====   
 Com base nos princípios gerais do desenvolvimento humano, reflita 
 sobre eles e tente estabelecer uma relação entre esses princípios 
 e a aprendizagem escolar. Leve suas reflexões para o Fórum de 
 Discussões da aula.
-
-====
 
 
 ////
