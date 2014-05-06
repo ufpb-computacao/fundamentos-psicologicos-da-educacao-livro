@@ -113,13 +113,11 @@ teoria, mas de oscilações entre uma e outra teoria, em conformidade
 com a sua base epistemológica e com o contexto sociocultural do 
 lugar de onde emergiram.
 
-****
 Na tentativa de consolidação científica dos conhecimentos acerca do
 comportamento humano em seus diversos aspectos, estudiosos
 desenvolveram formatos investigativos diferentes que deram origem as
 primeiras abordagens -- escolas ou correntes -- da Psicologia: o
 funcionalismo, o estruturalismo e o associacionismo.
-****
 
 O Funcionalismo:: Considerada a primeira sistematização da 
 psicologia foi desenvolvida por William James no contexto da 
@@ -201,19 +199,6 @@ ação de inúmeros fatores.
 . Em que momento ocorre a relação entre psicologia e 
 investigação científica?
 . Como se definiram as primeiras correntes psicológicas?
-
-[TIP]
-====
-Por que este vídeo é sugerido?
-
-.Sugestão de vídeo: http://youtu.be/AAJPwZ0Csr0
-["qrcode", size=3]
-----
-http://youtu.be/AAJPwZ0Csr0
-----
-
-====
-
 
 ////
 Sempre termine os arquivos com uma linha em branco.
