@@ -188,8 +188,9 @@ caracterizaram como uma etapa de confusões, estresse e luto também
 causados pelos impulsos sexuais que emergem nessa fase do 
 desenvolvimento.
 
-.Fique de olho
-____
+A seguir veremos o posicionamento de Freud e Lacan por Nara Dantas.
+
+****
 
 Há diversas leituras da adolescência dentro da psicanálise. 
 Autores da escola inglesa, por exemplo, concebem-na numa perspectiva 
@@ -255,6 +256,9 @@ referiu em O mal-estar na civilização (1929), à proporção em que
 haverá uma tensão entre um corpo transformado,``pulsante'', e as 
 exigências do mundo externo, que caminham em direção oposta. 
 
+****
+____
+
 <<"DANTAS02","DANTAS">>, Nara Maria. Adolescência e Psicanálise: Uma possibilidade 
 teórica.Recife 2002.
 
@@ -263,7 +267,7 @@ ____
 
 Além dessas perspectivas históricas há uma variação do conceito 
 e visão do adolescente de acordo com a cultura em que vive, como 
-destaca  <<"SPRINTHALL08","Sprinthall (2008) p.20">>, ao descrever a pesquisa da 
+destaca  <<"SPRINTHALL08","Sprinthall (2008 p.20)">>, ao descrever a pesquisa da 
 antropóloga Margaret Mead sobre o desenvolvimento do adolescente 
 entre as culturas nativas da sociedade de Samoa na Polinésia 
 (Pacífico Sul) e Quênia na África Oriental (Oceano Índico).
@@ -785,8 +789,7 @@ recursos do crescimento e da manutenção para lidar com a perda.
 
 
 Quais as etapas do desenvolvimento humano e o que caracteriza cada 
-uma delas em termos, físicos, psicológicos e psicossociais. Leve 
-suas reflexões para o Fórum de Discussões da aula.
+uma delas em termos, físicos, psicológicos e psicossociais. 
 
 ////
 Sempre termine os arquivos com uma linha em branco.
