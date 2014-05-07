@@ -69,8 +69,7 @@ o método indutivo em suas observações, experiências e hipóteses.
 
 [frame="none"]
 |====
->| A virtude pode ser ensinada se as ideias são inatas?
->| Fonte: História das Ideias Pedagógicas de <<"GADOTTI03", "Moacir Gadotti">>, 2003, 8a ed., p.35
+^| *A virtude pode ser ensinada se as ideias são inatas?*
 |====
 
 SÓCRATES (469-399 a.C.), filósofo grego nascido em Antenas, foi
@@ -98,14 +97,17 @@ contemporâneos, especialmente o de seu discípulo mais importante,
 Platão.
 
 ****
+[frame="none"]
+|====
+>| Fonte: História das Ideias Pedagógicas de <<"GADOTTI03", "Moacir Gadotti">>, 2003, 8a ed., p.35
+|====
 
-____
+
+****
 
 [frame="none"]
 |====
->| A impotência da Educação
->| Fonte: PLATÃO, Protágora. São Paulo, Maltes. <<"GADOTTI93", "GADOTTI, Moacir">>. 
- História das Idéias Pedagógicas. São Paulo, Ática, 1993
+^| *A impotência da Educação*
 |====
 
 Donde vem que tantos homens de méritos tenham filhos medíocres? Eu 
@@ -178,6 +180,15 @@ presentes, não estão à altura de seu pai, e que a mesma coisa
 acontece para muitos filhos de artistas? Quanto a estes jovens, não 
 devemos apressar-nos em condená-los; ainda não deram tudo quanto 
 prometem, porque são jovens.
+
+****
+____
+
+[frame="none"]
+|====
+^| Fonte: PLATÃO, Protágora. São Paulo, Maltes. <<"GADOTTI93", "GADOTTI, Moacir">>. 
+ História das Idéias Pedagógicas. São Paulo, Ática, 1993
+|====
 
 ____
 
@@ -351,11 +362,11 @@ atualidade.
 // Explicar melhor como o aluno poderia fazer isto.
 
 ****
-=== MATERIAL COMPLEMENTAR
+=== Material complementar
 
 ****
 Esse espaço será utilizado para refletir dois textos 
-ilustrativos que muito tem a contribuir com a formação do educador. 
+ilustrativos que muito tem a contribuir com a formação do educador: 
 
 * O primeiro é um texto com título: *Duas espécies de aprendizagem, 
 do livro Liberdade para aprender*, do psicólogo humanista Carl Rogers. 
@@ -365,11 +376,10 @@ intitulado *Freud e a educação: o mestre do impossível*.
 
 ****
 
-==== TEXTO 1: DUAS ESPÉCIES DE APRENDIZAGEM
+==== Texto 1: Duas espécies de aprendizagem
 
 ____
-ROGERS, Carl R. Liberdade para aprender. Belo Horizonte, Interlivros, 
-1978. p. 4-5.
+ROGERS, Carl R. Liberdade para aprender. Belo Horizonte, Interlivros, 1978. p. 4-5.
 ____
 
 A aprendizagem, creio, pode ser dividida em duas espécies gerais, 
@@ -447,7 +457,7 @@ educando. Significar é sua essência: quando se verifica a
 aprendizagem, o elemento de significação desenvolve-se para o 
 educando dentro da sua própria experiência como um todo.
 
-==== TEXTO 2: FREUD E A EDUCAÇÃO
+==== Texto 2: Freud e a Educação
 
 ____
 KUPFER, Maria Cristina. Freud e a educação. O mestre do 
