@@ -1,4 +1,5 @@
-== fase 7.1
+== fase 7
+
 [NOTE]
 ====
 Quadro da caixa 
@@ -10,4 +11,14 @@ Também pode ser:
 TIP, IMPORTANT,
 WARNING E CAUTION.
 
-====
+== fase 7.2
+
+NOTE: Parágrafo de nota.
+
+TIP: Parágrafo de dica.
+
+IMPORTANT: Importante.
+
+WARNING: Parágrafo cuidado.
+
+Utilize quadros se necessitar de mais um parágrafo.
