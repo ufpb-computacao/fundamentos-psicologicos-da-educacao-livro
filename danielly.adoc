@@ -1,7 +1,14 @@
+== fase 2
+Um parágrafo pode te várias 
+linhas. Ele inicia no início da linha 
+e só termina quando encontra 
+uma linha em branco.
 
-== Capítulo
-=== Seção
-==== Sub- seção
-===== sub- sub seção
-Não existe sub- sub - sub seção.
-Validity error: Capítulos e Seções não podem ficar vazios.
+Por exemplo, este outro 
+parágrafo só termina aqui.
+
+   Não utilize espaço de parágrafo 
+no texto.
+
+
+
