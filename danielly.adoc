@@ -1,8 +1,3 @@
-== fase 3.3
-Verduras :: folhas, caules  e raízes de diversas plantas.
-Frutas :: Temos frutas de diversos tamanhos.
-Banana :: Temos de todos os tipos também.
-Banana para cozinhar ::: Ela é cumprida, não deve ser consumida crua.
-Banana maça ::: pequena, ideal para pessoas que comem pouco.
-
-
+== fase 4
+Alimentação saudável requer ingestão de frutas, como : 
+((Manga)), ((Banana)) e ((Laranja))
