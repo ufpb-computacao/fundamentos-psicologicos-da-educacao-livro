@@ -1,16 +1,15 @@
-== fase 3
-. Coloque a comida no prato 
-. Pese o prato e pague a comida
-. Somente depois poderá comer
+== fase 3.2
+* Banana
+* Abacaxi
+* Mamão
+* Verduras
+** Alface
+* Frutas
+** Banana
+*** Banana maçã
+*** Banana de cozinhar
+** Abacaxi
+** Mamão
 
-Danielly
 
-. Faça os gráficos:
-.. Equações
-... y = x=1
-... y = -x
-.. Inequações
-... y <= x+1
-... y >= -x
-. Outra questão.
 
