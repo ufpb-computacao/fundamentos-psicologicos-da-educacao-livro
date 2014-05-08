@@ -110,6 +110,12 @@ WARNING: Parágrafo atenção.
 
 CAUTION: Parágrafo cuidado.
 
+Estilos de caracter
+Texto _em itálico_.
+Texto *em negrito*.
+Texto `em monospace`.
+Texto ^sobrescrito^.
+Texto ~subescrito~.
 
 
 
