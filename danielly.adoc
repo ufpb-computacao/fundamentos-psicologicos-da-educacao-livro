@@ -3,7 +3,7 @@
 [[cap_frutas]]
 == Frutas
 
-[[se_manga]]
+[[sec_manga]]
 === Manga
 <<cap_frutas>> referencia o capítulo e <<sec_manga>>
 a seção.
