@@ -126,7 +126,7 @@ A bananafootnote:[Também conhecida como pacovã] é rica em potássio.
 == Aspas
 As palavras ficam "pegadas"
 quando "usamos" aspas.
-Elas ficam ``pegadas'' quando 
+Elas não ficam ``pegadas'' quando 
 `usamos' crase e aspas simples.
 
 
