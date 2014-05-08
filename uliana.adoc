@@ -1,0 +1,162 @@
+== Capítulo
+=== Seção
+==== Sub-seção
+===== sub-sub-seção
+Não existe sub-sub-sub seção.
+Validity error: capítulos e seções não podem ficar vazios.
+
+
+== Fase 02
+Um parágrafo pode ter várias 
+linhas. Ele inicia no início da linha
+e só termina quando encontra 
+uma linha em branco.
+
+Por exemplo, este outro 
+parágrafo só termina aqui.
+
+   Não utlize espaço de parágrafo
+no texto.
+   
+
+== Fase 03
+. Coloque a comida do prato
+. Pese o prato e pague a conta
+. Somente depois poderá comer.
+
+Uliana
+
+. Faça os gráficos:
+.. Equações
+... y = x+1
+... y = -x
+.. Inequações
+... y <= x+1
+... y >= -x
+. Outra questão.
+
+=== Fase 3.2
+* Banana
+* Abacaxi
+* Mamão
+* Verduras
+** Alface
+* Frutas
+** Banana
+*** Banana maçã
+*** Banana de cozinhar
+** Abacaxi
+** Mamão
+
+
+== Fase 04
+Verduras:: folhas, caules e 
+raízes de diversas plantas.
+Frutas:: Temos frutas de 
+diversos tamanhos.
+Banana para cozinhar:::
+Ela é comprida, não deve ser consumida crua.
+Banana maçã::: pequena, ideal para pessoas 
+que comem pouco. 
+
+
+== Fase 05
+Alimentação saudável requer 
+ingestão de frutas, como:
+((manga)), ((banana))
+e (( laranja)).
+
+== Fase 06
+[[cap_frutas]]
+== Frutas
+[[sec_manga]]
+=== Manga
+<<cap_frutas>> referência
+o capítulo e <<sec_manga>>
+a seção.
+Erro "ID xxx already defined" 
+se houver repetição do
+identificador.
+
+
+[quote]
+____
+Todo o homem que lê demais e usa o cérebro de menos adquire a
+preguiça de pensar (EINSTEN, 1890).
+____
+
+
+[NOTE]
+====
+Quadro da caixa
+NOTE, pode ter 
+vários parágrafos.
+
+
+Também pode ser:
+TIP, IMPORTANT, WARNING e CAUTION.
+====
+
+
+Atalhos 
+
+NOTE: Parágrafo de nota.
+
+TIP: Parágrafo de dica.
+
+IMPORTANT: Importante.
+
+WARNING: Parágrafo atenção.
+
+CAUTION: Parágrafo cuidado.
+
+Estilos de caracter
+Texto _em itálico_.
+Texto *em negrito*.
+Texto `em monospace`.
+Texto ^sobrescrito^.
+Texto ~subescrito~.
+
+No m*ei*o não funciona.
+
+
+== Nota de Rodapé
+A bananafootnote:[Também conhecida como pacovã] é rica em potássio.
+
+== Aspas
+As palavras ficam "pegadas"
+quando "usamos" aspas.
+Elas não ficam ``pegadas'' quando 
+`usamos' crase e aspas simples.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+As palavras ficam "pegadas"  
+quando "usamos" aspas.
+Elas não ficam ``pegadas'' quando
+`usamos' crase e aspas simples.
+
+A bananafootnote:[também conhecida como pacovã] é rica em potássio
+
+== fase
+
+Texto _em itálico_.
+Texto *em negrito*.
+Texto `em menospace`.
+Texto ^sobrescrito^.
+Texto ~subescrito~.
+
+No m*ei*o não funciona.
+
+
+NOTE: Parágrafo de nota.
+
+TIP: Parágrafo dica.
+
+IMPORTANT: Importante.
+
+WARNING: Parágrafo atenção.
+
+CAUTION: Parágrafo cuidado.
+
+
+[NOTE]
+====
+Quadro da caixa
+NOTE, pode ter vários parágrafos. 
+
+Também pode ser:
+TIP, IMPORTANT, WARNING e CAUTION.
+====
+
+== fase
+
+[quote]
+____
+Todo o homem que lÊ demais e usa o cérebro de menos adquire a
+preguiça de pensar (EINSTEN, 1890).
+____
+
+== Fase
+
+[[cap_frutas]]
+== Frutas
+[[sec_manga]]
+=== Manga
+<<cap_frutas>> referencia
+o capítulo e <<sec_manga>>
+a seção.
+
+
+
+== Fase
+
+Alimentação saudável requer
+ingestão de frutas, como:
+(( manga)), ((Banana)) e ((laranja)).
+
+== Fase
+
+Verdura:: folhas, caules e
+raízes de diversas plantas.
+Frutas:: Temos frutas de diversos tamanhos.
+Banana:: Temos de todos os tipos também.
+Banana para cozinhar:::
+Ela é cumprida, não deve
+ser consumida crua.
+Banana maçã::: pequena,
+ideal para pessoas que
+comem pouco.
+
+
+
+== Fase 3.2
+
+* Banana
+* Abacaxi
+* Mamão
+* Verduras
+** Alface
+* frutas
+** Banana
+*** Banana maçã
+*** Banana de cozinhar
+** Abacaxi
+** Mamão
+
+
+== Capítulo
+=== seção
+==== sub-seção
+===== sub-sub seção
+Não existe sub-sub-sub seção.
+Validity error: capítulos e seções não podem ficar vazios.
+
+== Parágrafos
+Um parágrafo pode ter várias 
+linhas . Ele inicia no inicio da linha
+e só termina quando encontra
+uma linha em branco.
+
+Por exemplo, este outro
+parágrafo só termina aqui.
+
+      Não utilize espaço de parágrafo
+no texto.
+
+== fase 3
+. coloque a comida no prato
+. Pese o prato e pague a conta
+. Somente depois poderá comer
+
+Tânia
+
+. Faça os gráficos:
+.. Equações
+... y = x+1
+... y = - x
+.. Inequações
+... y <= x+1
+... y>= _x
+. outra questão.
+

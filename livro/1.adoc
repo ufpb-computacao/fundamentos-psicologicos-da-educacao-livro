@@ -7,7 +7,7 @@
 ____
 Ao final deste capítulo você deverá ser capaz de:
 
-* objetivo 1
+* compreender
 * objetivo 2
 * objetivo N
 ____
