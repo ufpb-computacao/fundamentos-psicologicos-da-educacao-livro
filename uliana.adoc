@@ -72,7 +72,7 @@ e (( laranja)).
 [[ sec_manga]]
 === Manga
 <<cap_frutas>> referência
-o capítulo e << sec_manga>>
+o capítulo e <<sec_manga>>
 a seção.
 Erro "ID xxx already defined" 
 se houver repetição do
