@@ -1,3 +1,10 @@
-== fase 4
-Alimentação saudável requer ingestão de frutas, como : 
-((Manga)), ((Banana)) e ((Laranja))
+== fase 5
+
+[[cap _ frutas]]
+== Frutas
+[[se_ manga]]
+
+=== Manga
+<<cap_frutas>> referencia o capítulo e <<sec_manga>>
+a seção.
+Erro ''ID xxx already defined'' se houver repetição do identificador.
