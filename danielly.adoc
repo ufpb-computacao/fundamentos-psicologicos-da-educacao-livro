@@ -1,11 +1,8 @@
-== fase 5
+== fase 6
+[quote]
+____
+Todo o homem que lê demais e usa o cérebro de menos adquire a 
+preguiça de pensar (EINSTEN, 1890).
+____
 
-[[cap_frutas]]
-== Frutas
 
-[[sec_manga]]
-=== Manga
-<<cap_frutas>> referencia o capítulo e <<sec_manga>>
-a seção.
-
-Erro ''ID xxx already defined'' se houver repetição do identificador.
