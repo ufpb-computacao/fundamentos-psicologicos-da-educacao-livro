@@ -86,6 +86,17 @@ preguiça de pensar (EINSTEN, 1890).
 ____
 
 
+[NOTE]
+====
+Quadro da caixa
+NOTE, pode ter 
+vários parágrafos.
+
+
+Também pode ser:
+TIP, IMPORTANT, WARNING e CAUTION.
+====
+
 
 
 
