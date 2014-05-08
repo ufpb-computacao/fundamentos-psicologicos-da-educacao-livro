@@ -123,7 +123,7 @@ No m*ei*o não funciona.
 == Nota de Rodapé
 A bananafootnote:[Também conhecida como pacovã] é rica em potássio.
 
-==Aspas
+== Aspas
 As palavras ficam "pegadas"
 quando "usamos" aspas.
 Elas ficam ``pegadas'' quando 
