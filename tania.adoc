@@ -1,3 +1,17 @@
+== Fase 3.2
+
+* Banana
+* Abacaxi
+* Mamão
+* Verduras
+** Alface
+* frutas
+** Banana
+*** Banana maçã
+*** Banana de cozinhar
+** Abacaxi
+** Mamão
+
 
 == Capítulo
 === seção
