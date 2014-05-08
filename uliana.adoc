@@ -4,3 +4,17 @@
 ===== sub-sub-seção
 Não existe sub-sub-sub seção.
 Validity error: capítulos e seções não podem ficar vazios.
+
+
+== Fase 02
+Um parágrafo pode ter várias 
+linhas. Ele inicia no início da linha
+e só termina quando encontra 
+uma linha em branco.
+
+Por exemplo, este outro 
+parágrafo só termina aqui.
+
+   Não utlize espaço de parágrafo
+no texto.
+   
