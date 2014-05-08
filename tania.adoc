@@ -1,3 +1,14 @@
+== fase
+
+Texto _em itálico_.
+Texto *em negrito*.
+Texto `em menospace`.
+Texto ^sobrescrito^.
+Texto ~subescrito~.
+
+No m*ei*o não funciona.
+
+
 NOTE: Parágrafo de nota.
 
 TIP: Parágrafo dica.
