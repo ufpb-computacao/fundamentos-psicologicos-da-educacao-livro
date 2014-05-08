@@ -120,6 +120,9 @@ Texto ~subescrito~.
 No m*ei*o não funciona.
 
 
+== Nota de Rodapé
+A bananafootnote: [Também conhecida como pacovâ] é rica em potássio.
+
 
 
 
