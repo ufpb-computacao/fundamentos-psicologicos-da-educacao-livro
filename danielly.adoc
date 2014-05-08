@@ -1,14 +1,16 @@
-== fase 2
-Um parágrafo pode te várias 
-linhas. Ele inicia no início da linha 
-e só termina quando encontra 
-uma linha em branco.
+== fase 3
+. Coloque a comida no prato 
+. Pese o prato e pague a comida
+. Somente depois poderá comer
 
-Por exemplo, este outro 
-parágrafo só termina aqui.
+Danielly
 
-   Não utilize espaço de parágrafo 
-no texto.
-
-
+. Faça os gráficos:
+.. Equações
+... y = x=1
+... y = -x
+.. Inequações
+... y <= x+1
+... y >= -x
+. Outra questão.
 
