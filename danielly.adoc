@@ -11,6 +11,8 @@ Também pode ser:
 TIP, IMPORTANT,
 WARNING E CAUTION.
 
+====
+
 == fase 7.2
 
 NOTE: Parágrafo de nota.
