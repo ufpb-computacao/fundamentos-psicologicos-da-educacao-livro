@@ -7,4 +7,5 @@
 === Manga
 <<cap_frutas>> referencia o capítulo e <<sec_manga>>
 a seção.
+
 Erro ''ID xxx already defined'' se houver repetição do identificador.
