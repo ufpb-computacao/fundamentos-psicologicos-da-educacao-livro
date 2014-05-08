@@ -66,6 +66,17 @@ ingestão de frutas, como:
 ((manga)), ((banana))
 e (( laranja)).
 
+== Fase 06
+[[cap_frutas]]
+== Frutas
+[[ sec_manga]]
+=== Manga
+<<cap_frutas>> referência
+o capítulo e << sec_manga>>
+a seção.
+Erro "ID xxx already defined" 
+se houver repetição do
+identificador.
 
 
 
