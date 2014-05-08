@@ -17,3 +17,20 @@ parágrafo só termina aqui.
 
       Não utilize espaço de parágrafo
 no texto.
+
+== fase 3
+. coloque a comida no prato
+. Pese o prato e pague a conta
+. Somente depois poderá comer
+
+Tânia
+
+. Faça os gráficos:
+.. Equações
+... y = x+1
+... y = - x
+.. Inequações
+... y <= x+1
+... y>= _x
+. outra questão.
+
