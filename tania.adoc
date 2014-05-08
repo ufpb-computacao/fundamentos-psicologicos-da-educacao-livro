@@ -1,4 +1,9 @@
 == Fase
+Alimentação saudável requer
+ingestão de frutas, como:
+(( manga)), ((Banana)) e ((laranja)).
+
+== Fase
 Verdura:: folhas, caules e
 raízes de diversas plantas.
 Frutas:: Temos frutas de diversos tamanhos.
