@@ -98,6 +98,21 @@ TIP, IMPORTANT, WARNING e CAUTION.
 ====
 
 
+Atalhos 
+
+NOTE: Parágrafo de nota.
+
+TIP: Parágrafo de dica.
+
+IMPORTANT: Importante.
+
+WARNING: Parágrafo atenção.
+
+CAUTION: Parágrafo cuidado.
+
+
+
+
 
 
 
