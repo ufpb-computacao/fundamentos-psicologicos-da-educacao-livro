@@ -117,6 +117,8 @@ Texto `em monospace`.
 Texto ^sobrescrito^.
 Texto ~subescrito~.
 
+No m*ei*o não funciona.
+
 
 
 
