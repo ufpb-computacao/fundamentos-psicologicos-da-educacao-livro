@@ -1,1 +1,7 @@
-== rascunho
+
+== Capítulo
+=== Seção
+==== Sub- seção
+===== sub- sub seção
+Não existe sub- sub - sub seção.
+Validity error: Capítulos e Seções não podem ficar vazios.
