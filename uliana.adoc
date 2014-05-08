@@ -19,7 +19,7 @@ parágrafo só termina aqui.
 no texto.
    
 
-Fase 03
+== Fase 03
 . Coloque a comida do prato
 . Pese o prato e pague a conta
 . Somente depois poderá comer.
