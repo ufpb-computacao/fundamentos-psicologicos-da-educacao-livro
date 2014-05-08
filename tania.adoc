@@ -1,9 +1,23 @@
 == Fase
+
+[[cap_frutas]]
+== Frutas
+[[sec_manga]]
+=== Manga
+<<cap_manga>> referencia
+o capítulo e <<sec_manga>>
+a seção.
+
+
+
+== Fase
+
 Alimentação saudável requer
 ingestão de frutas, como:
 (( manga)), ((Banana)) e ((laranja)).
 
 == Fase
+
 Verdura:: folhas, caules e
 raízes de diversas plantas.
 Frutas:: Temos frutas de diversos tamanhos.
