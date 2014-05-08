@@ -1,8 +1,13 @@
-== fase 6
-[quote]
-____
-Todo o homem que lê demais e usa o cérebro de menos adquire a 
-preguiça de pensar (EINSTEN, 1890).
-____
+== fase 7.1
+[NOTE]
+====
+Quadro da caixa 
+NOTE, pode ter 
+vários parágrafos.
 
 
+Também pode ser:
+TIP, IMPORTANT,
+WARNING E CAUTION.
+
+====
