@@ -1,3 +1,8 @@
+As palavras ficam "pegadas"  
+quando "usamos" aspas.
+Elas não ficam ``pegadas'' quando
+`usamos' crase e aspas simples.
+
 A bananafootnote:[também conhecida como pacovã] é rica em potássio
 
 == fase
