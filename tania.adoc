@@ -1,3 +1,14 @@
+NOTE: Parágrafo de nota.
+
+TIP: Parágrafo dica.
+
+IMPORTANT: Importante.
+
+WARNING: Parágrafo atenção.
+
+CAUTION: Parágrafo cuidado.
+
+
 [NOTE]
 ====
 Quadro da caixa
