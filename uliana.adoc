@@ -18,3 +18,19 @@ parágrafo só termina aqui.
    Não utlize espaço de parágrafo
 no texto.
    
+
+Fase 03
+. Coloque a comida do prato
+. Pese o prato e pague a conta
+. Somente depois poderá comer.
+
+Uliana
+
+. Faça os gráficos:
+.. Equações
+... y = x+1
+... y = -x
+.. Inequações
+... y <= x+1
+... y >= -x
+. Outra questão.
