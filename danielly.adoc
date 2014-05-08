@@ -1,9 +1,9 @@
 == fase 5
 
-[[cap _ frutas]]
+[[cap_frutas]]
 == Frutas
-[[se_ manga]]
 
+[[se_manga]]
 === Manga
 <<cap_frutas>> referencia o capítulo e <<sec_manga>>
 a seção.
