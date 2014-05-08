@@ -1,3 +1,4 @@
+require 'net/http'
 require 'rake/clean'
 
 task :default => [:wip]
@@ -13,10 +14,10 @@ RELEASE_BOOK_SOURCE = "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/livro.asc"
 RELEASE_BOOK  = "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/livro.pdf"
 RELEASE_WIP_ADOC =  "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/wip.adoc"
 RELEASE_WIP_PDF  =  "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/wip.pdf"
-OPEN_PDF_CMD="xdg-open"
+OPEN_PDF_CMD=`git config --get producao.pdfviewer`.strip
 A2X_COMMAND="-v -k -f pdf --icons -a docinfo1 -a edition=`git describe` -a lang=pt-BR -d book --dblatex-opts '-T computacao -P latex.babel.language=brazilian' -a livro-pdf"
 PROJECT_NAME = File.basename(Dir.getwd)
-LIVRO_URL = `git config --get livro.url`
+LIVRO_URL = `git config --get livro.url`.strip
 
 directory @RELEASE_DIR
 
@@ -24,18 +25,17 @@ CLEAN.include('releases')
 
 desc "Sync, build and open wip file"
 task :wip => [WIP_ADOC, "sync", "wip:build", "wip:open"]
+task :edit => ["wip:edit"]
 
 namespace "wip" do
 
   desc "Create new wip file from book source"
-  task "new" => [:remove_adoc, WIP_ADOC]
-
-  task :remove_adoc do
-    rm WIP_ADOC
+  task "new" do
+    cp "#{@BOOK_SOURCE}", "#{@BOOK_SOURCE_DIR}/wip.adoc"
   end
 
   file WIP_ADOC do
-    cp "#{@BOOK_SOURCE}", "#{@BOOK_SOURCE_DIR}/wip.adoc"
+    Rake::Task["wip:new"].invoke
   end
 
   file RELEASE_WIP_PDF do
@@ -43,13 +43,19 @@ namespace "wip" do
   end
   
   desc "Open wip pdf"
-  task "open" => RELEASE_WIP_PDF do |t|
+  task :open => RELEASE_WIP_PDF do |t|
+      puts "#{OPEN_PDF_CMD} #{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/wip.pdf"
       system "#{OPEN_PDF_CMD} #{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/wip.pdf"
   end
 
   desc "open docbook xml file"
   task "xml" do
     system "#{OPEN_PDF_CMD} #{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/wip.xml"
+  end
+
+  desc "Edit source"
+  task "edit" do
+    system "gvim #{WIP_ADOC}"
   end
 
   desc "build book from #{@RELEASE_DIR}"
@@ -78,6 +84,11 @@ namespace "book" do
   desc "open docbook xml file"
   task "xml" do
     system "#{OPEN_PDF_CMD} #{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/livro.xml"
+  end
+
+  desc "Edit source"
+  task "edit" do
+    system "gvim #{@BOOK_SOURCE}"
   end
   
   desc "Release new edition book"
@@ -138,3 +149,19 @@ desc "Open orginal pdf to work"
 task :original do
     sh "#{OPEN_PDF_CMD} original/original.pdf"
 end
+
+
+namespace "config" do
+
+  desc "Configure open command. xdg-open for ubuntu and open for osx"
+  task :pdfviewer, [:app] do |t,args|
+    sh "git config --global producao.pdfviewer #{args.app}"
+  end
+
+end
+
+desc "Download new Rakefile"
+task :uprake do
+  `wget --output-document=Rakefile https://raw.githubusercontent.com/edusantana/novo-livro/master/Rakefile`
+end
+
