@@ -69,7 +69,7 @@ e (( laranja)).
 == Fase 06
 [[cap_frutas]]
 == Frutas
-[[ sec_manga]]
+[[sec_manga]]
 === Manga
 <<cap_frutas>> referência
 o capítulo e <<sec_manga>>
