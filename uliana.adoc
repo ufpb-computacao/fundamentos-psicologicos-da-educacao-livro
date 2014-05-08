@@ -34,3 +34,53 @@ Uliana
 ... y <= x+1
 ... y >= -x
 . Outra questão.
+
+=== Fase 3.2
+* Banana
+* Abacaxi
+* Mamão
+* Verduras
+** Alface
+* Frutas
+** Banana
+*** Banana maçã
+*** Banana de cozinhar
+** Abacaxi
+** Mamão
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
