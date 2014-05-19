@@ -1,5 +1,10 @@
 == Desenvolvimento humano e aprendizagem: o adolescente e sua relação com as tecnologias.
 
+:online: {gitrepo}/blob/master/livro/capitulos/code/{cap}
+:local: {code_dir}/{cap}
+:img: {img_dir}/{cap}
+:dot: {dot_dir}/{cap}
+
 Neste início de século as tecnologias da informação e comunicação 
 e em especial, digitais, trazem uma nova perspectiva de linguagem 
 que fazem parte do cotidiano dos alunos que transcende os muros 
