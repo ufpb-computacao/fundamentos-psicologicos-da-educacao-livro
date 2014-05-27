@@ -9,9 +9,9 @@
 ____
 Ao final deste capítulo você deverá ser capaz de:
 
-* objetivo 1
-* objetivo 2
-* objetivo N
+* Compreender as características do desenvolvimento humano em suas diferentes fases: Infantil, Adulto e Idoso;
+* Diferenciar os aspectos do desenvolvimento em cada fase;
+* Relacionar os conhecimentos da Psicologia do desenvolvimento à prática pedagógica.
 ____
 
 
@@ -410,8 +410,8 @@ ocorrem com o avançar da idade. É um processo inverso no
 desenvolvimento humano. Enquanto que na infância é evolução, na 
 senescência é involução. O declínio das capacidades funcionais e 
 das aptidões inicia-se na fase adulta e se precipita no envelhecer. 
-De acordo com <<"SOUZA98","Souza (1998)">> o envelhecimento se caracteriza por 
-algumas perdas das capacidades fisiológicas dos órgãos, dos 
+O envelhecimento é caracterizado por 
+algumas perdas de capacidades fisiológicas dos órgãos, dos 
 sistemas e de adaptação a certas situações de estresse. Tal 
 fenômeno é universal, progressivo, na maioria das vezes 
 irreversível e resultará num aumento exponencial da mortalidade com 
