@@ -238,7 +238,7 @@ aprendizagem deve ser de propiciar à criança o aparecimento de
 várias capacidades especiais que lhe assegurem o desenvolvimento 
 cognitivo. Através de cada uma das disciplinas que compõem o 
 currículo do aluno, isto será possível, dependendo da forma como 
-seja conduzido o processo pedagógico. (<<"COUTINHO99","Coutinho, 1999, p. 122">>)
+seja conduzido o processo pedagógico. (<<"COUTINHO00","Coutinho, 2000, p. 122">>)
 
 Assim, ser professor de qualquer disciplina implica em ser um 
 profissional detentor de boa formação pedagógica afinal:
@@ -252,7 +252,7 @@ capacidade de analisar e generalizar fenômenos da realidade, de
 raciocinar corretamente; numa palavra, desenvolver ``no todo'' as 
 suas estruturas operatórias. No plano cognitivo o desenvolvimento do 
 pensamento lógico deve ser, portanto, uma das principais tarefas da 
-escola. (<<"COUTINHO99","Ibidem, p. 124">>)
+escola. (<<"COUTINHO00","Ibidem, p. 124">>)
 
 Em nosso fazer pedagógico, para atingirmos as capacidades do 
 pensamento lógico de nossos aprendentes, é imperativo nos 
@@ -275,9 +275,19 @@ ocorrer defasagens.
 
 Esquema 05
 
-
-
 ****
+
+
+// ____
+
+// [frame="none", cols="1^"]
+// |====
+// | Fonte: PLATÃO, Protágora. São Paulo, Maltes. <<"GADOTTI93", "GADOTTI, Moacir">>. 
+// História das Idéias Pedagógicas. São Paulo, Ática, 1993
+// |====
+
+// ____
+
 
 ****
 
@@ -419,7 +429,6 @@ existência do segundo.
 ****
 
 Esquema 06
-|====
 
 O significado de uma palavra representa um amálgama tão estreito do 
 pensamento e da linguagem, que fica difícil dizer se se trata de um 
