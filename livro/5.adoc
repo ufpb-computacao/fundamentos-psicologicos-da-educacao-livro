@@ -273,52 +273,9 @@ ocorrer defasagens.
 
 ****
 
-[frame="none"]
-|====
->| Aprenda com eles e ensine melhor
->| Fonte: <<"PELLEGRINI01","PELLEGRINI">>, Denise. Revista Nova Escola. Janeiro/Fevereiro de 2001".
-|====
+Esquema 05
 
-Em sua proposição teórica Piaget apresenta três grandes estágios 
-de desenvolvimento cognitivo, cada um com subestágios. O primeiro 
-deles é o estágio da inteligência sensório-motora que consiste em 
-adaptação prática ao mundo. Formada, progressivamente, após o 
-nascimento, a partir dos reflexos -- esquemas mais primitivos de 
-assimilação -- e desenvolvida em seis estágios por meio dos quais 
-a criança realiza adaptações inteligentes. O segundo é o estágio 
-da inteligência operatório-concreto, dividido em dois subestágios: 
-Pré-operatório e Lógico-concreto. O pré-operatório é um 
-período de preparação para as operações lógico-concretas 
-vivenciado dos dois aos sete anos. Nesse subestágio verifica-se o 
-desenvolvimento da linguagem impactante na socialização da ação, 
-marcada pela interação entre indivíduos, no desenvolvimento do 
-pensamento por meio do pensamento verbal (finalismo -- porquês, 
-animismo e artificialismo) e no desenvolvimento da intuição. O 
-subestágio lógico-concreto, vivenciado dos sete aos 12 anos, é 
-marcado pelo surgimento do pensamento lógico sobre as coisas 
-concretas compreendendo as relações entre coisas e capacidades para 
-classificar objetos, superação do egocentrismo da linguagem, 
-aparecimento das noções de conservação de substância, peso e 
-volume.
 
-Enfatizamos que as idades acima colocadas servem para dar noção de 
-aproximação cronológica. Como já vimos, a cronologia no 
-desenvolvimento é variável. O terceiro é o estágio da 
-inteligência formal em que se verifica o desenvolvimento de 
-estruturas operatórias formais, marcada pelo pensamento capaz de 
-construir sistemas e teorias abstratas, formando e entendendo 
-conceitos abstratos. Jean Piaget, nascido na Suíça em 1896, foi um 
-Biólogo por formação e estudou Filosofia e Ciências Naturais. 
-Construiu a "Teoria do conhecimento" que serve até hoje como 
-orientação sobre práticas pedagógicas para o professor. Para o 
-autor, a criança se desenvolve a partir das relações que têm com 
-o meio em que vive e desenvolvimento passa por estágios que devem 
-ser classificados para o trabalho do professor em fornecer 
-ferramentas para que o aluno construa seu saber. Para Piaget, o 
-conhecimento é construído na experiência, sendo essa experiência 
-tal como seu valor moral e cultural. Outra máxima de Piaget é sobre 
-a relação do professor com o aluno, que deve se fazer de maneira 
-mútua e não unilateral, democratizando-as.
 
 ****
 
@@ -461,36 +418,7 @@ existência do segundo.
 
 ****
 
-[frame="none"]
-|====
->| Aprenda com eles e ensine melhor
->| Fonte: <<"PELLEGRINI01","PELLEGRINI">>, Denise. Revista Nova Escola. Janeiro/Fevereiro de 2001.
-|====
-
-Lev Vigotsky, nascido em 1896, foi um pensador Bielo-Russo formado 
-em Direito.
-
-Trabalhou com o conceito de que o indivíduo não é cópia do meio 
-no qual vive. Isto é, ele sofre influências de várias direções. 
-Com esse pensamento, Vygotsky se posicionou contra as principais 
-correntes de sua época (pensamento inatista). Para o pensador, o 
-indivíduo sofre influências baseadas em suas experiências que 
-constroem sua vivência, sendo muito importante o grupo cultural no 
-qual esta inserido. O papel do professor nesse desenvolvimento é de 
-``tradutor'' do conhecimento que o aluno possui de maneira 
-superficial, o professor deve estar entre a zona de "desenvolvimento 
-real" e o "desenvolvimento potencial" na educação. O 
-desenvolvimento real seria a zona de conhecimento que o indivíduo 
-já conhece e o desenvolvimento potencial o que ele poderá conhecer.
-
-****
-
-
-****
-[frame="none"]
-|====
->| {sp}
->| Fonte: <<"VYGOTSKY93",  "VYGOTSKY, 1993">>
+Esquema 06
 |====
 
 O significado de uma palavra representa um amálgama tão estreito do 

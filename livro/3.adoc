@@ -63,6 +63,7 @@ include::{dot}/fases-da-vida.dot[]
 ----
 
 === Objetivos da Psicologia do Desenvolvimento
+____
 
 Consideramos que a Psicologia do Desenvolvimento persegue três 
 objetivos em que o primeiro deles volta-se para a identificação da 
@@ -94,7 +95,9 @@ impressões sensoriais*.
 
 [frame="none"]
 |====
->| A Educação contra a alienação na Alegoria da caverna
+
+A educação contra a alienação na Alegoria da Caverna. 
+
 >| Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8a ed., p.35
 |====
 ____
@@ -121,6 +124,38 @@ geraria filhos, quando, onde e quantas vezes.
 Estas e outras teses controversas da obra de Platão não conseguem
 obscurecer sua contribuição perene para a concepção do homem
 ocidental e da educação.
+
+==== Relação da Alegoria da Caverna com a educação
+
+O mito conta a história de homens que viviam em uma grande fenda no chão, 
+onde a luz se projetava da superfície que fazia com que vissem apenas o que 
+a sombra projetava. Pensavam então que as coisas da superfície eram a daquela 
+forma. Um dia um desses homens que lá vivia, ficou curioso sobre o que seria 
+aquilo, mas ninguém sabia, e, então resolveu subir para superfície e além do que via. 
+
+Chegou à entrada da caverna, saiu e olhou admirado para as árvores e 
+para os campos que se abriam à sua frente: cores, formas, brilho. Emocionado, 
+embora ainda assustado, um maravilhoso pôr do sol, completamente louco, no bom sentido, 
+viu surgir na escuridão da noite, escuridão tão sua conhecida, um lindo feixe de luz, 
+a luz da lua cheia. Não conseguiu dormir, não quis, queria observar tudo, mesmo no escuro. 
+Pôde ver o nascer do sol. Com a nova descoberta não poderia parar, continuaria seguindo o 
+feixe de luz até ao seu último grau, antes, resolveu  voltar para a caverna e  
+contar aquelas novidades ao seu povo. 
+Voltou... Pensando em seus companheiros vivendo fora da escuridão daquela caverna. Estariam 
+livres para sempre. Quando chegou junto aos seus companheiros, inicialmente, fizeram festa. 
+Quando a empolgação inicial passou e todos estavam prontos para suas vidas rotineiras, ele 
+quis contar todas as novidades que vira fora daquele lugar. Quando, no entanto, contou 
+o que vira e descobrira, e quis convencer os outros a irem com ele, em direção ao feixe 
+de luz, estes se revoltaram o apedrejaram jogando-o na maior fenda conhecida.
+
+
+Essa alegoria demonstra não apenas a resistência ao novo, mas o quanto os nossos sentidos 
+podem nos enganar. Em relação ao acesso ao conhecimento, retrata que esse deve não deve 
+ser repassado mecanicamente, deve ser construído sob o aspecto da reflexão, do todo. 
+Platão buscava um conhecimento profundo das coisas, a essência do ser e das coisas, 
+além do mundo sensível. A educação em função da expressão do seu pensamento, ele queria 
+mostrar um mundo totalmente diferente. 
+
 ____
 
 ****
@@ -197,7 +232,7 @@ processar a inclusão -- principalmente a escolar/digital -- com
 vistas à constituição de um mundo sócio/economicamente 
 sustentável.
 
-=== Desenvolvimento: maturação e aprendizagem
+== Desenvolvimento: maturação e aprendizagem
 
 Assim como a hereditariedade e o meio ambiente, a maturação e 
 aprendizagem são processos interativos do desenvolvimento. Em que a 
@@ -215,7 +250,8 @@ ação educativa. Visto que não se espera simplesmente a maturação
 ocorrer para que o ser possa desenvolver a aprendizagem, mas se cria 
 condições para que esta ocorra.
 
-=== Diferença entre crescimento e desenvolvimento
+== Diferença entre crescimento e desenvolvimento
+
 
 É importante fazer essa diferenciação para facilitar a 
 compreensão de alguns conceitos fundamentais da psicologia do 
@@ -235,7 +271,8 @@ Fundamentados em Moreira (2000), trataremos de alguns princípios
 maturacionais previsíveis de serem observados no desenvolvimento 
 humano.
 
-=== Princípios gerais do desenvolvimento humano
+== Princípios gerais do desenvolvimento humano
+
 
 O desenvolvimento se processa por etapas:: o desenvolvimento humano 
 Se dá por fases que apresentam características próprias. Contudo, 
