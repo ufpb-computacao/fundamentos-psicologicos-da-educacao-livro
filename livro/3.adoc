@@ -151,7 +151,7 @@ Essa alegoria demonstra não apenas a resistência ao novo, mas o quanto os noss
 podem nos enganar. Em relação ao acesso ao conhecimento, retrata que esse deve não deve 
 ser repassado mecanicamente, deve ser construído sob o aspecto da reflexão, do todo. 
 Platão buscava um conhecimento profundo das coisas, a essência do ser e das coisas, 
-além do mundo sensível. A educação em função da expressão do seu pensamento, ele quereria 
+além do mundo sensível. A educação em função da expressão do seu pensamento, ele queria 
 mostrar um mundo totalmente diferente. 
 
 ____
@@ -230,7 +230,7 @@ processar a inclusão -- principalmente a escolar/digital -- com
 vistas à constituição de um mundo sócio/economicamente 
 sustentável.
 
-=== Desenvolvimento: maturação e aprendizagem
+==== Desenvolvimento: maturação e aprendizagem
 
 Assim como a hereditariedade e o meio ambiente, a maturação e 
 aprendizagem são processos interativos do desenvolvimento. Em que a 
