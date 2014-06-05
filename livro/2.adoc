@@ -450,7 +450,15 @@ físico e social, tanto a experiência sensorial quanto o raciocínio
 são fundantes do processo de constituição da inteligência, ou do 
 pensamento lógico do homem. 
 
-// TODO: O quadro teria que ser refeito para ser adicionado ao livro. https://github.com/edusantana/fundamentos-psicologicos-da-educacao-livro/issues/4
+////
+.Quadro sinóptico das teorias contemporâneas do desenvolvimento e aprendizagem
+[width="100%",cols="1,1,1,1,1,1,1",frame="topbot",options="header"]
+|====
+
+|====
+
+////
+
 
 ****
 
