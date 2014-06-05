@@ -61,6 +61,7 @@ include::{dot}/fases-da-vida.dot[]
 ----
 
 === Objetivos da Psicologia do Desenvolvimento
+____
 
 Consideramos que a Psicologia do Desenvolvimento persegue três 
 objetivos em que o primeiro deles volta-se para a identificação da 
