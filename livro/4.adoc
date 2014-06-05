@@ -9,9 +9,9 @@
 ____
 Ao final deste capítulo você deverá ser capaz de:
 
-* objetivo 1
-* objetivo 2
-* objetivo N
+* Compreender as características do desenvolvimento humano em suas diferentes fases: Infantil, Adulto e Idoso;
+* Diferenciar os aspectos do desenvolvimento em cada fase;
+* Relacionar os conhecimentos da Psicologia do desenvolvimento à prática pedagógica.
 ____
 
 
@@ -117,15 +117,12 @@ sua teoria do desenvolvimento cognitivo ou intelectual, passou a
 dominar a área do desenvolvimento. Para Piaget a inteligência 
 possui a função de adaptar o organismo as exigências do ambiente, 
 tratando-se pois de uma estrutura biológica, esta adaptação se faz 
-por meio de dois processos: *assimilação e acomodação*.
-
-A assimilação:: se dá através da incorporação dos desafios e
+por meio de dois processos: assimilação e acomodação.
+A assimilação se dá através da incorporação dos desafios e
 informações do meio aos esquemas mentais já existentes.
-
-A acomodação:: caracteriza-se por ser o processo de criação ou mudança
+A acomodação caracteriza-se por ser o processo de criação ou mudança
 de esquemas mentais resultantes da necessidade de assimilar os
 desafios ou informações do meio. 
-
 A interação entre assimilação e acomodação torna-se comum ao longo da
 vida e está presente nos níveis de funcionamento intelectual e
 comportamental.  Piaget desenvolveu sua teoria em estágios, e isto faz
@@ -410,8 +407,8 @@ ocorrem com o avançar da idade. É um processo inverso no
 desenvolvimento humano. Enquanto que na infância é evolução, na 
 senescência é involução. O declínio das capacidades funcionais e 
 das aptidões inicia-se na fase adulta e se precipita no envelhecer. 
-De acordo com <<"SOUZA98","Souza (1998)">> o envelhecimento se caracteriza por 
-algumas perdas das capacidades fisiológicas dos órgãos, dos 
+O envelhecimento é caracterizado por 
+algumas perdas de capacidades fisiológicas dos órgãos, dos 
 sistemas e de adaptação a certas situações de estresse. Tal 
 fenômeno é universal, progressivo, na maioria das vezes 
 irreversível e resultará num aumento exponencial da mortalidade com 
@@ -665,10 +662,10 @@ envelhecem, as pessoas tendem a procurar atividades e pessoas que as
 satisfaçam. Os mais velhos conseguem controlar as emoções que ao 
 adultos mais jovens.
 
-Dois dos mais fortes traços da personalidade: *Extroversão* 
+Dois dos mais fortes traços da personalidade: Extroversão
 personalidade extrovertida (expansiva e sociável) elevados níveis 
 de emoções positivas e conservam ao longo da vida. E o 
-*neuroticismo* personalidades neuróticas (instáveis, suscetíveis, 
+neuroticismo personalidades neuróticas (instáveis, suscetíveis, 
 ansiosas e inquietas) demonstram emoções negativas e tendem a se 
 manter negativa. Este é um elemento prognosticador de humores e de 
 transtornos de humor muito mais poderoso que a idade, a raça, o 
@@ -685,21 +682,21 @@ pela aceitação da vida que tiveram e assim aceitar a morte, ou se
 entregarem ao desespero pela impossibilidade de reviver suas vidas.
 
 
-Nesta etapa pode se desenvolver a VIRTUDE que é sabedoria: ``aceitar 
+Nesta etapa pode se desenvolver a virtude, que é sabedoria: aceitar 
 a vida que se viveu sem maiores arrependimentos, sem se alongar em 
 todos os `deveria ter feito' ou `como poderia ter sido', o que 
 significa aceitar as imperfeições em si próprio, nos pais, nos 
-filhos e na vida''.
-// Virtude tem que está em caixa alta mesmo?
+filhos e na vida.
+
 
 A integridade deve ser mais importante que o desespero nesta etapa, 
 para que seja resolvida com êxito. Segundo Erikson, algum desespero 
 é inevitável pela vulnerabilidade da condição humana, mas mesmo 
 quando as funções do corpo enfraquecem é necessário manter um 
-``envolvimento vital''. Integridade do ego resulta da reflexão sobre 
+envolvimento vital. Integridade do ego resulta da reflexão sobre 
 o passado de contínuos estímulos e desafios.
 
-Modelos de enfrentamento::
+Modelos de enfrentamento
 // Acho que esta divisão assim não ficou bonita.
 
 Enfrentamento::: é o pensamento ou comportamento de adaptação 

@@ -14,10 +14,6 @@ Petrópolis: Vozes, 2003.
   aprendizagem humanos, voltado para a educação*. Belo Horizonte:
   Editora lê, 2000.
 
-. [[COUTINHO99]] COUTINHO, Maria Tereza da Cunha & MOREIRA, Mércia. *Psicologia da
-  Educação: um estudo dos processos psicológicos de desenvolvimento e
-  aprendizagem humanos, voltado para a educação*. Belo Horizonte: Lê, 1999.
-
 . [[CAMPOS10]] CAMPOS, Dinah Martins de Souza. *Psicologia e desenvolvimento 
 humano*. 6. Ed. Petrópolis: Vozes, 2010.
 
@@ -66,23 +62,11 @@ Paulo, SP. 2006_. 
 . [[SHEPHARD03]] SHEPHARD. R.J. 
 *Envelhecimento, atividade física e saúde*. São Paulo: Phorte, 2003.
 
-. [[SOUZA98]] SOUZA, 1998. *FIXME: FALTANDO*.
-
-. [[SPIRDUSO05]] SPIRDUSO, W.W. 
-*Dimensões físicas do envelhecimento*. Barueri, SP: Manole, 2005.
-
-. [[SPRINTHALL94]] SPRINTHALL, Norman A., W. COLLINS Andrews. 
-*Psicologia do Adolescente Uma abordagem desenvolvimentista*. Fundação
-Calouste Gulbenkian, 1994.
-
-. [[SPRINTHALL04]] SPRINTHAL, W. Andrews Collins. *FIXME: FALTANDO*. 2004.
-// Faltando referência.
-
 . [[SPRINTHALL08]] SPRINTHAL, W. Andrews Collins. *Psicologia do adolescente: uma 
 abordagem desenvolvimentista*. 4. Ed. Lisboa: Fundação Calouste Gul 
 benkian. 2008.
 
-. [[VYGOTSKY93]]  VYGOTSKY, 1993. *TODO: FALTANDO*.
+
 
 
 ////
