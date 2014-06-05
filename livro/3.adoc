@@ -231,6 +231,7 @@ vistas à constituição de um mundo sócio/economicamente
 sustentável.
 
 ==== Desenvolvimento: maturação e aprendizagem
+___
 
 Assim como a hereditariedade e o meio ambiente, a maturação e 
 aprendizagem são processos interativos do desenvolvimento. Em que a 
@@ -248,7 +249,8 @@ ação educativa. Visto que não se espera simplesmente a maturação
 ocorrer para que o ser possa desenvolver a aprendizagem, mas se cria 
 condições para que esta ocorra.
 
-=== Diferença entre crescimento e desenvolvimento
+==== Diferença entre crescimento e desenvolvimento
+___
 
 É importante fazer essa diferenciação para facilitar a 
 compreensão de alguns conceitos fundamentais da psicologia do 
@@ -268,7 +270,8 @@ Fundamentados em Moreira (2000), trataremos de alguns princípios
 maturacionais previsíveis de serem observados no desenvolvimento 
 humano.
 
-=== Princípios gerais do desenvolvimento humano
+==== Princípios gerais do desenvolvimento humano
+___
 
 O desenvolvimento se processa por etapas:: o desenvolvimento humano 
 Se dá por fases que apresentam características próprias. Contudo, 
