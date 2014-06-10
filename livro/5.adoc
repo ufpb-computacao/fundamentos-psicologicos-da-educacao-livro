@@ -271,25 +271,7 @@ uma cronologia variável. Assim, na sequência dos estágios podem
 ocorrer defasagens.
 
 
-****
-
-Esquema 05
-
-****
-
-
-// ____
-
-// [frame="none", cols="1^"]
-// |====
-// | Fonte: PLATÃO, Protágora. São Paulo, Maltes. <<"GADOTTI93", "GADOTTI, Moacir">>. 
-// História das Idéias Pedagógicas. São Paulo, Ática, 1993
-// |====
-
-// ____
-
-
-****
+image::{img}/esquema5.eps[scaledwidth="70%"]
 
 [frame="none"]
 |====
@@ -320,8 +302,6 @@ indivíduo caminha então para um aumento gradual do desenvolvimento
 cognitivo, em profundidade, e uma maior compreensão dos problemas e 
 das realidades significativas que o atingem. Isto influencia os 
 conteúdos afetivo-emocionais e sua forma de estar no mundo.
-
-****
 
 === Desenvolvimento cognitivo na perspectiva interacionista de Vygotsky e implicações pedagógicas
 
