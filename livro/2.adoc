@@ -442,22 +442,14 @@ físico e social, tanto a experiência sensorial quanto o raciocínio
 são fundantes do processo de constituição da inteligência, ou do 
 pensamento lógico do homem. 
 
-////
-.Quadro sinóptico das teorias contemporâneas do desenvolvimento e aprendizagem
-[width="100%",cols="1,1,1,1,1,1,1",frame="topbot",options="header"]
-|====
-
-|====
-
-////
-
-
 ****
 
-IMPORTANT: O texto todo não foi escrito em linguagem dialógica.
-Não há caixas de importante. Não há diagramas esquematizando
-o conhecimento, etc.
-// Poderíamos esquematizar o conteúdo.
+.Quadro sinóptico das teorias contemporâneas do desenvolvimento e aprendizagem
+[width="100%",cols="1s,1,1,1,1",frame="topbot",options="header"]
+|====
+include::capitulos/tabelas/quadro-sinoptico.csv[]
+|====
+
 
 === Analisando e Refletindo
 
@@ -468,7 +460,7 @@ acerca do conhecimento humano?
 teoria psicológica do desenvolvimento e aprendizagem no campo da 
 educação.
 
-
+// FIXME Faltando o quadro abaixo.
 
 ////
 Sempre termine os arquivos com uma linha em branco.
