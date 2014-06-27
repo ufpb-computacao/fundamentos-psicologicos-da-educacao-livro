@@ -57,10 +57,8 @@ individual o tempo tem também uma dimensão social.
 
 // TODO: Falta legenda para o gráfico
 
-["graphviz"]
-----
-include::{dot}/fases-da-vida.dot[]
-----
+image::{img}/fases-da-vida.eps[]
+
 
 === Objetivos da Psicologia do Desenvolvimento
 

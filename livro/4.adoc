@@ -730,12 +730,8 @@ aliviar seu impacto físico ou psicológico.
 Os adultos mais velhos tendem a usar o seguinte estilo de 
 enfrentamento:
 
-
-["graphviz"]
 .Estilo de enfrentamento utilizados pelos adultos mais velhos.
-----
-include::{dot}/estilo-enfrentamento.dot[]
-----
+image::{img}/estilo-enfrentamento.eps[]
 
 === Modelo de envelhecimento ``Bem-Sucedido'' ou ``Ideal''
 No envelhecimento bem sucedido encontramos três componentes 
