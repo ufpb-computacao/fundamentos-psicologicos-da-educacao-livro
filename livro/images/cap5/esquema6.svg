@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="esquema6.eps">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path4225"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4012"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4008"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4002"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4225-3"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4012-1"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4225-4"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4012-7"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="573.19608"
+     inkscape:cy="434.14869"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 196,659.50504 0,64.28571"
+       id="path3168"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 543.14286,659.50504 0,64.28571"
+       id="path3168-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3150"
+       transform="translate(-108.40442,-6)">
+      <rect
+         ry="31.428572"
+         y="470.505"
+         x="352.62933"
+         height="81.428574"
+         width="246.1084"
+         id="rect3023-8-3-8"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.17397058" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3073"
+         y="515.76764"
+         x="475.35394"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Arial Bold"
+           id="tspan3077"
+           y="515.76764"
+           x="475.35394"
+           sodipodi:role="line">Desenvolvimento cognitivo</tspan></text>
+    </g>
+    <g
+       id="g3122"
+       transform="translate(-117.78476,0)">
+      <rect
+         ry="31.428572"
+         y="579.41815"
+         x="199.64914"
+         height="81.428574"
+         width="246.1084"
+         id="rect3023-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.17397058" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3079"
+         y="615.21936"
+         x="322.85715"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="615.21936"
+           x="322.85715"
+           id="tspan3081"
+           sodipodi:role="line"
+           style="font-weight:bold;-inkscape-font-specification:Arial Bold">Zona de Desenvolvimento</tspan><tspan
+           id="tspan3083"
+           y="637.71936"
+           x="322.85715"
+           sodipodi:role="line"
+           style="font-weight:bold;-inkscape-font-specification:Arial Bold">Proximal</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="201.52408"
+       y="684.36218"
+       id="text3085"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3087"
+         x="201.52408"
+         y="684.36218"
+         style="text-align:start;text-anchor:start">Necessidade de interação</tspan><tspan
+         sodipodi:role="line"
+         x="201.52408"
+         y="706.86218"
+         id="tspan3089"
+         style="text-align:start;text-anchor:start">com o sujeiro</tspan></text>
+    <g
+       id="g3117"
+       transform="translate(-104.00006,9.4614258)">
+      <rect
+         ry="31.428572"
+         y="569.95673"
+         x="510.58551"
+         height="81.428574"
+         width="246.1084"
+         id="rect3023-8-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.17397058" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3091"
+         y="615.21936"
+         x="634.28571"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="615.21936"
+           x="634.28571"
+           id="tspan3093"
+           sodipodi:role="line"
+           style="font-weight:bold;-inkscape-font-specification:Arial Bold">Aprendizagem social</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="527.42859"
+       y="558.07648"
+       id="text3099"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3101"
+         x="527.42859"
+         y="558.07648">Antes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="578.85712"
+       y="695.71765"
+       id="text3103"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3105"
+         x="578.85712"
+         y="695.71765">Depois</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="792.00006"
+       y="670.06219"
+       id="text3113"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3115"
+         x="792.00006"
+         y="670.06219">Atenção voluntária,</tspan><tspan
+         sodipodi:role="line"
+         x="792.00006"
+         y="692.56219"
+         id="tspan3117">Memória lógica,</tspan><tspan
+         sodipodi:role="line"
+         x="792.00006"
+         y="715.06219"
+         id="tspan3119">Formação de conceitos</tspan></text>
+    <g
+       id="g3134"
+       transform="translate(-114,11.118164)">
+      <rect
+         ry="31.428572"
+         y="708.52814"
+         x="498.90317"
+         height="81.428574"
+         width="289.47296"
+         id="rect3023-8-3-1-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.27320409" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3107"
+         y="753.79077"
+         x="644.28564"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3111"
+           y="753.79077"
+           x="644.28564"
+           sodipodi:role="line"
+           style="font-weight:bold;-inkscape-font-specification:Arial Bold">Aprendizagem Individual</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.27320409"
+       id="rect3023-8-3-1"
+       width="289.47296"
+       height="81.428574"
+       x="60.182098"
+       y="719.6463"
+       ry="31.428572" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="204.57141"
+       y="753.79077"
+       id="text3015"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3017"
+         x="204.57141"
+         y="753.79077"
+         style="font-weight:bold;-inkscape-font-specification:Arial Bold">Desenvolvimento de habilidades</tspan><tspan
+         sodipodi:role="line"
+         x="204.57141"
+         y="776.29077"
+         id="tspan3019"
+         style="font-weight:bold;-inkscape-font-specification:Arial Bold">Contrução do conhecimento</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 250.28571,530.93361 -42.85714,47.14286"
+       id="path3164"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 477.42857,540.93361 42.85714,38.57143"
+       id="path3166"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.93185121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.93185114, 2.79555341;stroke-dashoffset:0"
+       d="m 70.218176,569.50504 609.083074,0"
+       id="path3205"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.931862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.93186203, 2.79558609;stroke-dashoffset:0"
+       d="m 70.218784,809.50504 609.097296,0"
+       id="path3205-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:106.68707275px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="1697.7532"
+       y="306.55469"
+       id="text4011"
+       sodipodi:linespacing="125%"
+       transform="scale(0.40553394,2.4658849)"><tspan
+         sodipodi:role="line"
+         id="tspan4013"
+         x="1697.7532"
+         y="306.55469">]</tspan></text>
+  </g>
+</svg>

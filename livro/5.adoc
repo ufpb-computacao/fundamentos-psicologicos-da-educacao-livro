@@ -406,9 +406,15 @@ relações sociais. Linguagem e pensamento coexistem numa
 cumplicidade indissolúvel na qual a primeira dá forma e objetiva a 
 existência do segundo.
 
-****
 
-Esquema 06
+image::{img}/esquema6.eps[]
+
+
+[cols=">", frame="none"]
+|====
+| Texto: Pensamento e palavra 
+| Autor: Vygotsky (1993)
+|====
 
 O significado de uma palavra representa um amálgama tão estreito do 
 pensamento e da linguagem, que fica difícil dizer se se trata de um 
@@ -474,7 +480,12 @@ A partir das generalizações primitivas, o pensamento verbal
 eleva-se ao nível dos conceitos mais abstratos. Não é simplesmente 
 o conteúdo de uma palavra que se altera, mas o modo pelo qual a 
 realidade é generalizada e refletida em uma palavra.
-****
+
+
+[cols=">", frame="top"]
+|====
+| {sp} 
+|====
 
 Após estudarmos o desenvolvimento cognitivo a partir das 
 contribuições de Piaget e Vygotsky podemos compreender quão 
