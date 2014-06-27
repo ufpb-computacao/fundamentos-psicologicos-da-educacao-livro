@@ -21,6 +21,7 @@ OPEN_PDF_CMD=`git config --get producao.pdfviewer`.strip
 A2X_COMMAND="-v -k -f pdf --icons -a docinfo1 -a edition=`git describe` -a lang=pt-BR -d book --dblatex-opts '-T computacao -P latex.babel.language=brazilian' -a livro-pdf"
 PROJECT_NAME = File.basename(Dir.getwd)
 LIVRO_URL = `git config --get livro.url`.strip
+GITHUB_REPO = `git config remote.origin.url`.strip.gsub('git@github.com:','').gsub('.git','')
 
 directory @RELEASE_DIR
 
@@ -223,3 +224,32 @@ FileList['livro/images/**/*.dot'].each do |source|
   task :dot => epsfile
 end
 
+
+namespace "github" do
+  desc "List issues from github milestone"
+  task :issues, [:milestone] do |t,args|
+    puts "Acessing: #{GITHUB_REPO} milestone=#{args.milestone}"
+    require 'octokit'
+#    require 'highline/import'
+    client = Octokit::Client.new
+    milestone = nil
+    milestones = client.list_milestones(GITHUB_REPO)
+    opcoes = milestones.map {|m| m[:title]}
+    
+    if (args.milestone) then
+      milestones.each do |m|
+        if m[:title] == args.milestone then
+          milestone = m
+        end
+      end
+    else
+      milestone = milestones[-1]
+    end
+    puts "Milestone: #{milestone[:title]}"
+    
+    issues = client.list_issues(GITHUB_REPO, state:'Closed', milestone:milestone[:number], direction:'asc')
+    issues.each do |i|
+      puts "- #{i[:title]} (##{i[:number]})."
+    end
+  end
+end
