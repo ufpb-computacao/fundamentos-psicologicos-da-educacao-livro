@@ -46,7 +46,8 @@ homem. Em decorrência disso, meios educacionais/escolares foram
 organizados perspectivando a educação necessária a tornar a vida 
 do homem sustentável nos diversos aspectos.
 
-Esquema 07
+
+image::{img}/esquema7.eps[]
 
 === Evolução histórica da Psicologia 
 
