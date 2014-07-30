@@ -407,7 +407,7 @@ cumplicidade indissolúvel na qual a primeira dá forma e objetiva a
 existência do segundo.
 
 
-image::{img}/esquema6.eps[]
+image::{img}/Papel-da-Escola-no-Desenvolvimento-Cognitivo.eps[]
 
 
 [cols=">", frame="none"]
