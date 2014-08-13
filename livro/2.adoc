@@ -182,30 +182,24 @@ colabora, de alguma forma, com a possibilidade de compreender os
 processos de desenvolvimento e aprendizagem humanos com ênfase na 
 natureza social do homem.
 
-Veja a seguir, os testes de observação e indução de comportamentos de 
-Skinner.
+Veja a seguir, a visão de Skinner acerca do estudo do comportamente.
 
 
 
 ****
-Skinner defendia um sistema empírico (conhecimento derivado de 
+Skinner era um cientista da empiria (conhecimento derivado de 
 experiências cotidianas, que provém de tentativas, erros e acertos) 
 sem estrutura teórica para a condução de uma pesquisa. 
 
-A visão de Skinner era resumida da seguinte forma: "Nunca ataquei 
-um problema construindo uma hipótese. Jamais deduzi teoremas, nem os 
-submeti a verificação experimental. Até onde consigo enxergar, 
-não tenho nenhum modelo preconcebido de comportamento e, certamente, 
-nem fisiológico nem mentalista e, creio, nem conceitual" 
+Skinner não construía uma hipótese, não deduzia teoremas, nem os 
+submetia a verificação experimental.Justificava que, até onde consiguia enxergar, 
+não havia modelos preconcebidos de comportamento e, nem fisiológico e mentalista e,
+tão pouco,conceitual. Aceitava a existência das condições fisiológicas 
+internas ou mentais, apenas não concordava que estas concepções
+tivessem, validade científica, no referente ao estudo do comportamento.  
 
-Skinner aceitava a existência das condições fisiológicas 
-internas ou mentais, apenas não concordava a sua validade no estudo 
-científico do comportamento. Um biógrafo reiterou que a posição 
-de Skinner ``não era uma negação dos eventos mentais, mas uma 
-recusa em classificá-los como entidades explicativas''
-(<<"RIUCHELLE93","Riuchelle, 1993, p. 10">>). 
-
-quadro 02: Testes empíricos realizados por Skinner.
+Quadro 02: Skinner e sua visão empírica no estudo do comportamento. Fonte:REVISTA CULTURA E CIDADANIA.
+Acesso:http://revistaculturacidadania.blogspot.com.br/2012/04/o-behaviorismo-de-skinner.html
 
 
 .Burrhus Skinner em ação (condicionamento operante de animais). Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
@@ -308,6 +302,10 @@ principalmente na definição que faz do papel da escola: ajudar o
 aluno a equilibrar as exigências instintivas, proibitivas e da 
 realidade. Educar é procurar fazer com que as pessoas atuem e pensem 
 de modo mais racional e mais prazeroso.
+
+
+Segue abaixo um pequeno resumo acerca dos estudos de Freud, base da psicanálise.
+
 
 .Sigmund Freud
 ****
