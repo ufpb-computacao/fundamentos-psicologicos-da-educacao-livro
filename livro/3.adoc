@@ -102,9 +102,6 @@ e igual entre homens e mulheres.
 |====
 | A educação contra a alienação. 
 
->| Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8a ed., p.35
-|====
-
 ____
 *PLATÃO* (427-347 a.C.), principal discípulo de Sócrates e mestre de
 Aristóteles, foi um importante filósofo. Nascido em Atenas, de uma
@@ -132,6 +129,9 @@ ocidental e da educação.
 
 ____
 ****
+>| Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8a ed., p.35
+|====
+
 Quadro 07; síntese das ideias de Platão sobre educação.
 
 ==== A Alegoria da Caverna e a relação com a educação
@@ -167,13 +167,13 @@ além do mundo sensível. A educação em função da expressão do seu pensamen
 mostrar um mundo totalmente diferente. 
 
 
-****
+Aristóteles, ao contrário de Platão, acreditava ser o homem produto do meio. Como ilustra
+o quadro a seguir:
 
+****
 [frame="none"]
 |====
 >| A virtude está no meio-termo
->| Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8a ed., p.35
-|====
 
 ____
 
@@ -189,19 +189,24 @@ realista que as ideias estão nas coisas, como sua própria essência. É
 também realista em sua concepção educacional; expõe três fatores
 principais que determinam o desenvolvimento espiritual do homem:
 ``disposição inata, hábito e ensino''. Com isso, mostra-se favorável a
-medidas educacionais ``condicionantes'' e acredit que o homem pode
-tornar-se a criatura mais nobre, como pode tornar-se a pior de todas,
-que aprendemos fazendo, que nos tomamos justos agindo fustamente.
+medidas educacionais ``condicionantes'' e acredita que o homem pode
+tornar-se a criatura mais nobre, como também, pode tornar-se a pior de todas,
+para ele, aprendemos fazendo. Nos tornando justos, agindo justamente.
 
 ____
 
 ****
 
+>| quadro 08: As educação por dsiposição inata, hábito e ensino. 
+Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8a ed., p.35
+|====
+
+
 Na Idade Média (séculos XI ao XIV) as questões relacionadas aos 
-processos relativos ao desenvolvimento humanos foram conduzidas com 
+processos relativos ao desenvolvimento humano foram conduzidas com 
 desinteresse. Somente no período da Renascença, a partir de um 
 movimento humanitarista os estudos acerca do desenvolvimento do ser 
-humano na sociedade começam a ser focalizados. Os estudos de 
+humano na sociedade começa a ser focalizados. Os estudos de 
 Pestalozzi, Rousseau e Tiedemann abrem caminho para o período 
 pré-científico no estudo do desenvolvimento infantil. A fase 
 pré-científica caracteriza-se pelo uso do método da descrição 
@@ -327,11 +332,17 @@ aspecto o ser apresenta ritmos diferentes nas diversas fases. No
 aspecto cognitivo a capacidade de raciocínio lógico 
 indutivo-dedutivo aparece na adolescência.  
 
+Para melhor entendimento acerca do desenvolvimento humano, destacamos
+no quadro 09, os fatores que influenciam no desenvolvimento humano.
+
+
 .Os fatores que influenciam o desenvolvimento humano...
 ****
 ____
-<<"BOCK08","Bock, 2008, p. 99">>
+
 ____
+
+
 
 Vários fatores indissociados e em permanente interação afetam 
 todos os aspectos do desenvolvimento. São eles:
@@ -366,6 +377,10 @@ facilidade uma escada, porque esta situação pode não ter feito
 parte de sua experiência de vida.
 
 ****
+<<"BOCK08","Bock, 2008, p. 99">>
+
+Quadro 09: Fatores que influenciam o desenvolvimento humano.
+
 
 === Análise e reflexão 
 
