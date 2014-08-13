@@ -272,7 +272,7 @@ físico é percebido pelo sujeito com uma forma diferente do que ele
 .Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
 image::{img}/Necker.eps[scaledwidth="50%"]
 
-Quadro 03: ilustração d relação froma percepção na 
+Quadro 03: ilustração da relação forma percepção na 
 perspectiva Gestalt.
 
 ****
