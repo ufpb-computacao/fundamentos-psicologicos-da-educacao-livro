@@ -53,7 +53,7 @@ atividades que os adultos, inclusive a participação em festas
 coletivas e orgias, que até então não era considerada como 
 maléfica a formação do caráter e da moral da criança. A 
 concepção da criança como adulto em miniatura segue até os 
-séculos XV, XVI e XVII, onde gradativamente a criança começou a 
+séculos XV, XVI e XVII, quando gradativamente a criança começou a 
 ser notada como um ser que possui particularidades e características 
 que as diferenciam dos adultos, um ser dotado de capacidade e 
 desenvolvimento. 
@@ -71,6 +71,11 @@ variáveis ambientais como estímulos progressivamente associados a
 respostas empregando o modelo do condicionamento clássico como 
 resultantes de um processo de aprendizagem, neste caso as respostas 
 passam a ser dadas através de determinados estímulos.
+
+
+Um experiemento bastante polêmico, para os dias de hoje, feito por Watson,
+ficou conhecido como o caso do bebê Albert. Como ilustrado a seguir.
+
 
 .O caso do bebê Albert
 ****
@@ -91,6 +96,10 @@ processo de aprendizagem.
 image::{img}/albert_baby.eps[scaledwidth="80%"]
 
 ****
+
+Quadro 10: ilustração dos experimentos de Watson.
+
+
 
 A teoria Psicanalítica de Freud surgiu nas décadas de 1920 e 1930, 
 e enfatizava as relações afetivas que eram desenvolvidas na 
@@ -150,19 +159,18 @@ especiais de desenvolvimento. Em anos de história, a psicologia da
 adolescência tem se deparado com estereótipos e estigmas.
 
 O reconhecimento social da adolescência começa a acontecer a partir 
-da última metade do século XX. Com Stanley Hall é que se tem a 
-identificação da adolescência como uma etapa marcada por tormentos 
-e conturbações vinculadas à emergência da sexualidade. 
+da última metade do século XX,partindo dos estudos de Stanley Hall. 
+Com Stanley, passa-se a identificação a adolescência como uma etapa marcada 
+por tormentos e conturbações vinculadas à emergência da sexualidade.
 
-Ao se falar de Stanley Hall, vinculamos suas ``descobertas'' ao 
-processo da industrialização que traz um contexto favorável a essa 
-descoberta diante do crescimento industrial e do crescimento dos 
+
+O processo da industrialização traz um contexto favorável as descobertas 
+de Stanley, pois diante do crescimento industrial e do crescimento dos 
 movimentos de trabalhadores, que passaram a exigir leis de 
 proteções trabalhistas e reivindicar a proibição do trabalho 
-infantil, exigindo que crianças e jovens passem das atividades 
-laboral para frequentar a escola pública, essas questões estavam 
-muito ligadas a remuneração barata que era destinada aos 
-trabalhadores mais jovens. Além disso, a educação do público 
+infantil, passa-se a exigência de que crianças e jovens deixem as atividades 
+laborais, para frequentar a escola pública. Pois o trabalho de jovens e 
+ crianças, estavam ligados a remuneração barata. Além disso, a educação do público 
 juvenil seria uma forma de se ter mão-de-obra futura mais 
 qualificada e que se adequasse ao processo de aceleração da 
 produção industrial e do desenvolvimento tecnológico.
@@ -173,8 +181,7 @@ segundo <<"SPRINTHALL08","Sprinthall (2008)">>, considerava que a adolescência
 necessitava de estudos especiais, por ser um estágio de 
 desenvolvimento evolutivo humano dotado de necessidades específicas, 
 afirmando que, nessa fase, o ser humano passa a experimentar, 
-novamente, todos as sensações já vivenciadas no desenvolvimento 
-durante a infância.   
+novamente, algumas das sensações já vivenciadas durante à infância.   
 
 Para Hall adolescência seria uma experiência comparada a um segundo 
 nascimento, em que o ser humano teria a oportunidade de repassar por 
@@ -182,11 +189,12 @@ todos os estágios anteriores e, obter, com isso, o ápice de seu
 desenvolvimento, além disso, essa seria uma fase caótica e difícil 
 devido a velocidade com que se dão as transformações. Essa 
 concepção foi reforçada na teoria psicanalista que a 
-caracterizaram como uma etapa de confusões, estresse e luto também 
+caracteriza como uma etapa de confusões, estresse e luto também 
 causados pelos impulsos sexuais que emergem nessa fase do 
 desenvolvimento.
 
 A seguir veremos o posicionamento de Freud e Lacan por Nara Dantas.
+No quadro ilustrativo.
 
 ****
 
@@ -257,11 +265,11 @@ exigências do mundo externo, que caminham em direção oposta.
 ****
 ____
 
-<<"DANTAS02","DANTAS">>, Nara Maria. Adolescência e Psicanálise: Uma possibilidade 
-teórica.Recife 2002.
+<<"DANTAS02","DANTAS">>, Nara Maria. Adolescência e Psicanálise: 
+Uma possibilidade teórica.Recife 2002.
 
 ____
-
+Quadro 11: ilustração  psicanálitica da adolescência
 
 Além dessas perspectivas históricas há uma variação do conceito 
 e visão do adolescente de acordo com a cultura em que vive, como 
@@ -281,8 +289,8 @@ adolescentes e as crianças eram adequadas a suas capacidades.
 
 Já no Quênia a transição da adolescência para a vida adulta 
 acontece de forma abruta e traumática, a passagem para vida adulta 
-consiste em cerimônias e rituais através de traumas físicos como 
-circuncisão e extração de cílios, além disso, as tarefas são 
+consiste em cerimônias e rituais envolvendo traumas físicos como 
+circuncisão e extração de clitóris, além disso, as tarefas são 
 rigidamente diferencias e de estatuto muito baixo para jovens e 
 crianças.
 
@@ -291,16 +299,19 @@ crianças.
 ====
 
 [quote]
-A solução para problemas dos adultos de amanhã depende grande 
+"A solução para problemas dos adultos de amanhã depende grande 
 parte da forma como os nossos filhos crescem hoje. MARGARET MEAD by
-Alex from Virginia.
+Alex from Virginia."
 
 Margaret Mead nasceu em Filadélfia em 1901 e morreu em Nova York 
-em 1978. Ela estudou primeiramente aprender teoria e impressão, a fim 
-de obter uma melhor compreensão das práticas de criação dos 
-filhos. Em 1925, ela foi para a Polinésia para estudar como as 
-diferenças culturais influenciariam na criação dos filhos e se 
-expandiu para estudar outras áreas também.
+no ano de 1978. Margaret Mead aprofunda o seu trabalho principalmente 
+quando decide orientar as suas investigações para a maneira como um indivíduo 
+recebe a cultura e  as consequências que isso acarreta na formação da sua personalidade.
+É portanto,o processo de transmissão cultural e de socialização da personalidade 
+que Margaret Mead decide colocar no centro das suas reflecções e dos seus trabalhos.
+O seu objectivo seria analisar diferentes modelos de educação tentando compreender 
+o fenómeno da inscrição da cultura no indivíduo e explicar aspectos dominantes da 
+personalidade devidos ao mesmo processo de inscrição.
 
 ====
 
@@ -308,9 +319,8 @@ expandiu para estudar outras áreas também.
 
 ==== Desenvolvimento Físico
 
-De acordo com <<"SPRINTHALL08","Sprinthall (2008)">> fisicamente os adolescentes passam 
-por mudanças hormonais promovidas pelo hipotálamo, que estimulam os 
-órgãos sexuais a produzir certos hormônios. Em análogo a essa 
+Fisicamente os adolescentes passam por mudanças hormonais promovidas pelo hipotálamo, 
+que estimulam os órgãos sexuais a produzir certos hormônios. Em análogo a essa 
 maturação sexual o desenvolvimento corporal vai se efetuando, com o 
 crescimento de membros inferiores e, posteriormente, os membros 
 superiores e troncos. Isto pode originar desequilíbrios 
@@ -352,7 +362,7 @@ para isso.
 
 Na fase da adolescência o ser humano torna-se capaz de raciocinar 
 corretamente sobre proposições em que não acredita, ou ainda não 
-acredita, isto é, ou seja, pensa e reflete hipoteticamente. Desta 
+acredita, ou seja, pensa e reflete hipoteticamente. Desta 
 forma, adquire a capacidade de ultrapassar, pelo pensamento, 
 situações vividas e a projetar ideias para o futuro. 
 
@@ -392,7 +402,7 @@ poemas; fazer filmes é mais eficaz que visioná-los; participar numa
 dramatização de improviso é mais eficaz do que observá-la. Pois 
 na perspectiva piagetiana, o desenvolvimento cognitivo depende da 
 ação, em qualquer dos estádios. Em todos os seus trabalhos ele tem 
-uma frase chave: a ação produz desenvolvimento (<<"SPRINTHALL08","SPRINTHALL, 2008">>). 
+uma frase chave: a ação produz desenvolvimento (IBIDEM). 
 Para <<"PIAGET70","Piaget (1970)">>, a atividade de assimilar certas experiências do 
 meio circundante força a criança a acomodá-las ou 
 internalizá-las. Esta internalização de experiências é 
