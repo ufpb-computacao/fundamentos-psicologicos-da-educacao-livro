@@ -375,6 +375,9 @@ merecedor de oportunidades para o seu desenvolvimento; que o
 professor tenha compreensão empática, ou seja, que consiga 
 colocar-se no lugar do estudante.'' COUTINHO (1999).
 
+No quadro a seguir, temos um pouco da Teoria das Hierarquias das Necessidades
+de Maslow, também, largamente utilizada no campo da gestão de pessoas.
+
 .Abraham Maslow
 ****
 Psicólogo norte-americano, Abraham Maslow  foi o criador da 
@@ -400,6 +403,9 @@ onde conheceu importante grupos de psicólogos. Passou a se dedicar
 aos estudos da motivação humana e das hierarquias da necessidade do 
 indivíduo.
 
+
+REFAZER A PIRÂMIDE (ONDE SE LÊ: "Amor/relacionamento" colocar: "Amor/Pertencimento". 
+Onde se lê: fisiologia. Colocar: fisiológicos)
 image::{img}/piramede.eps[scaledwidth="80%"]
 
 Na psicologia, defendeu a ideia de que as necessidades fisiológicas 
@@ -407,9 +413,9 @@ devem ser saciadas para que  posteriormente sejam saciadas as
 necessidades de segurança, e na ordem as sociais, de autoestima e a 
 auto-realização, etapa final da felicidade do ser humano.
 
-Fonte: http://www.infoescola.com/biografias/abraham-maslow/
-
 ****
+
+Quadro 05: extraído da fonte: http://www.infoescola.com/biografias/abraham-maslow/
 
 === Teorias Psicogenéticas
 
