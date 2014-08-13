@@ -50,10 +50,14 @@ individuais e complexidade do comportamento humano.
 Compreendemos que o desenvolvimento humano é um processo longo e 
 gradual de mudanças em que cada pessoa, ao seu tempo e no seu jeito 
 de ser no mundo, dá sentido ao que vive. Assim, o passado, presente 
-e futuro constituem demarcações individuais do existir. A vida e 
+e futuro constituem demarcações individuais do existir. A vida, 
 valores e características de uma pessoa se configuram em um 
 determinado contexto histórico. Afinal, além da dimensão 
 individual o tempo tem também uma dimensão social.
+
+Segue abaixo uma linha de tempo ilustrnaod as etapas do desenvolvimento
+humano.
+
 
 // TODO: Falta legenda para o gráfico
 
@@ -87,12 +91,16 @@ modificado pelas percepções individuais. Enquanto *Aristóteles
 acreditava que as pessoas compreendiam a realidade a partir de suas 
 impressões sensoriais*.
 
+O quadro a seguir, traz um pouco da ideia de uma educaçao que vai contra
+a percepção ilusória dos sentidos. Platão visualizava uma educação emancipadora 
+e igual entre homens e mulheres.
+
 
 ****
 
 [frame="none"]
 |====
-| A educação contra a alienação na Alegoria da Caverna. 
+| A educação contra a alienação. 
 
 >| Fonte: História das Ideias Pedagógicas de Moacir Gadotti, 2003, 8a ed., p.35
 |====
@@ -105,7 +113,7 @@ de sua época.
 
 Entre as várias obras que deixou destacam-se _República, Alegoria da
 caverna, Banquete, Sofista, Leis_. Através delas, formula a tarefa
-centra de toda educação: retirar o ``olho do espírito'' enterrado no
+central de toda educação: retirar o ``olho do espírito'' enterrado no
 grosseiro pantanal do mundo aparente, em constante mutação, e fazê-la
 olhar para a luz do verdadeiro ser, do divino; passar gradativamente
 da percepção ilusória dos sentidos para a contemplação da realidade
@@ -124,9 +132,9 @@ ocidental e da educação.
 
 ____
 ****
+Quadro 07; síntese das ideias de Platão sobre educação.
 
-
-==== Relação da Alegoria da Caverna com a educação
+==== A Alegoria da Caverna e a relação com a educação
 
 O mito conta a história de homens que viviam em uma grande fenda no chão, 
 onde a luz se projetava da superfície que fazia com que vissem apenas o que 
