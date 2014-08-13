@@ -58,6 +58,10 @@ criticismo kantiano, o idealismo e o materialismo histórico e
 dialético, as principais teorias psicológicas do desenvolvimento e 
 aprendizagem na contemporaneidade.
 
+O esquema 04 demonstra a relaçã entre a Tricotomia Cartesiana
+e o estudo do conhecimento pela aplicaçao do método científico,
+que inclui a dúvida metódica em oposição a intuição intelectual.
+
 image::{img}/descartes-mapa.png[scaledwidth="90%"]
 
 
@@ -70,7 +74,7 @@ Descartes
         Corpo: estruturas mentais, extensão da alma/física
     Conhecimento
         Deve ser Seguro
-        É uma construção do conhecimento
+        
         Aplica a Dúvida Metafórica (Método científico)
 
 ////
@@ -115,6 +119,10 @@ décadas de 30, 40 e 50, com os estudos normativos, nos quais o ritmo
 e as sequências previsíveis do desenvolvimento infantil eram 
 caracterizados.
 
+O quadro 01 ilustra um pouco do caminho percorrido por Arnold Gesell,
+para formulação da teoria maturacional de desenvolvimento e aprendizagem.
+
+
 .Arnold Gesell
 ****
 Para Arnold Gesell, um dos pioneiros acerca da teoria maturacional, o 
@@ -139,6 +147,8 @@ tem como objetivo a de aliciarem os cuidados dos adultos.
 
 .Gesell em observação e registro. Foto de Cushing / Whitney Medical Library.
 image::{img}/Gesell.jpg[scaledwidth="50%"]
+
+Quadro 01: ilustração do caminho teórico percorrido por Arnold Gesell.
 
 ****
 
@@ -166,11 +176,16 @@ quantitativa dos fenômenos de estudo (o comportamento humano), foi
 fundamental para o campo do saber da psicologia se firmasse no 
 cenário científico. A possibilidade de quantificação do 
 comportamento humano permitiu à psicologia o uso do método 
-cientifico estabelecido pala ciência na modernidade e assim, a 
+científico estabelecido pala ciência na modernidade e assim, a 
 Psicologia adquire o status de ciências. E por fim, essa teoria 
 colabora, de alguma forma, com a possibilidade de compreender os 
 processos de desenvolvimento e aprendizagem humanos com ênfase na 
 natureza social do homem.
+
+Veja a seguir, os testes de observação e indução de comportamentos de 
+Skinner.
+
+
 
 ****
 Skinner defendia um sistema empírico (conhecimento derivado de 
@@ -189,6 +204,8 @@ científico do comportamento. Um biógrafo reiterou que a posição
 de Skinner ``não era uma negação dos eventos mentais, mas uma 
 recusa em classificá-los como entidades explicativas''
 (<<"RIUCHELLE93","Riuchelle, 1993, p. 10">>). 
+
+quadro 02: Testes empíricos realizados por Skinner.
 
 
 .Burrhus Skinner em ação (condicionamento operante de animais). Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
@@ -229,6 +246,8 @@ fundamentando a organização do material didático segundo as leis
 da percepção e importância da significação de conteúdos e 
 experiências para os alunos.
 
+O quadro a seguir ilustra um pouco da perspectiva Gestalt.
+
 .Gestalt
 ****
 A Psicologia do Gestalt surge na Alemanha, no ano de 1912.  Por isso,
@@ -252,6 +271,9 @@ físico é percebido pelo sujeito com uma forma diferente do que ele
 
 .Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
 image::{img}/Necker.eps[scaledwidth="50%"]
+
+Quadro 03: ilustração d relação froma percepção na 
+perspectiva Gestalt.
 
 ****
 
@@ -282,7 +304,7 @@ possibilidade de estudar a subjetividade (dimensão humana essencial)
 atendendo ao rigor do método científico.
 
 A contribuição desse arsenal teórico à educação encontra-se, 
-principalmente na definição que paz do papel da escola: ajudar o 
+principalmente na definição que faz do papel da escola: ajudar o 
 aluno a equilibrar as exigências instintivas, proibitivas e da 
 realidade. Educar é procurar fazer com que as pessoas atuem e pensem 
 de modo mais racional e mais prazeroso.
