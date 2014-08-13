@@ -321,11 +321,16 @@ consistia na análise da consciência e em que o comportamento humano
 era estudado a partir de uma visão mecanicista e positivista.  
 
 ____
-Fonte: <<"FADIMAN86","FADIMAN, James; FRAGER, Robert">>.  Teorias da Personalidade.
-Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
+ 
 ____
 
 ****
+
+Quadro 04: Curiosidade acerca da teoria psicogenética. Extraído da Fonte: 
+<<"FADIMAN86","FADIMAN, James; FRAGER, Robert">>.  Teorias da Personalidade.
+Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
+
+
 
 === Teorias Fenomenológicas e Humanistas
 É difícil precisar a filiação epistemológica para o grupo de 
@@ -355,7 +360,7 @@ comportamento humano como sendo respostas a estímulos -- e reagindo
 à irracionalidade psicanalítica -- que postula o inconsciente como 
 mola mestra das manifestações humanas.
 
-A principal contribuição para a educação refere-se á defesa de 
+A principal contribuição para a educação refere-se à defesa de 
 uma aprendizagem significante, não circunscrita à acumulação de 
 informações, mas que provoque reorganização dos valores e 
 atitudes na vida do ser em todos os seus aspectos: emocionais, 
@@ -374,7 +379,7 @@ professor tenha compreensão empática, ou seja, que consiga
 colocar-se no lugar do estudante.'' COUTINHO (1999).
 
 No quadro a seguir, temos um pouco da Teoria das Hierarquias das Necessidades
-de Maslow, também, largamente utilizada no campo da gestão de pessoas.
+de Maslow, também, largamente utilizada, no campo da gestão de pessoas.
 
 .Abraham Maslow
 ****
@@ -438,15 +443,7 @@ prática docente, a teoria implícita em nossas crenças em nossa
 forma de fazer a leitura de homem e de mundo/sociedade e de 
 educação.
 
-.Vygotsky
-****
-Segundo Vygotsky, o desenvolvimento cognitivo do aluno se dá por 
-meio da interação social, ou seja, de sua interação com outros 
-indivíduos e com o meio e aprendizagem é uma experiência social, 
-mediada pela utilização de instrumentos e signos, de acordo com os 
-conceitos utilizados pelo próprio autor.
- 
-A aprendizagem seria uma experiência social, a qual é mediada pela 
+Para Vygotsky, a aprendizagem seria uma experiência social, a qual é mediada pela 
 interação entre a linguagem e a ação. Sendo assim, o professor 
 deve mediar a aprendizagem utilizando estratégias que levem o aluno 
 a tornar-se independente.
@@ -457,18 +454,14 @@ participação, colaboração e constantes desafios.
 Essa teoria mostra-se adequada para atividades colaborativas e troca 
 de ideias, como os modelos atuais de fóruns e chats. 
 
-Piaget sustenta que a gênese do conhecimento está no próprio 
+Para Piaget a gênese do conhecimento está no próprio 
 sujeito, ou seja, o pensamento lógico não é inato ou tampouco 
 externo ao organismo, mas é fundamentalmente construído na 
-interação homem-objeto. Quer dizer, o desenvolvimento da filogenia 
-humana se dá através de um mecanismo auto regulatório que tem como 
-base um 'kit' de condições biológicas (inatas, portanto), que é 
-ativado pela ação e interação do organismo com o meio ambiente -- 
-físico e social, tanto a experiência sensorial quanto o raciocínio 
-são fundantes do processo de constituição da inteligência, ou do 
-pensamento lógico do homem. 
+interação homem-objeto.  
 
-****
+Finalizando o capítulo, apresentamos, com quadro 06, um resumo das teorias da psicologia 
+contemporânea, com suas bases epistemológicas e conribuições para o campo da educação.
+
 
 .Quadro sinóptico das teorias contemporâneas do desenvolvimento e aprendizagem
 [width="100%",cols="1s,1,1,1,1",frame="topbot",options="header"]
