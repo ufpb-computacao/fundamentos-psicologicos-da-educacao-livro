@@ -30,7 +30,7 @@ sempre pronta para atender às demandas dos seus aprendentes.
 
 === Fundamentação teórica
 
-A fundamentação teórica da disciplina volta-se para a compreensão 
+A fundamentação teórica do componente curricular volta-se para a compreensão 
 da importância do estudo da Psicologia na formação do educador e 
 será tratada a partir dos seguintes pontos: conceituação da 
 Psicologia como ciência; da especificidade da aplicação dos 
@@ -39,13 +39,13 @@ teremos uma carga horária de 60 horas e precisamos aproveita-la ao
 máximo tendo em vista que esse tempo é pouco para conhecermos a 
 riqueza teórica dessa ciência e possibilidades de contribuição 
 para o exercício da docência. Portanto, convido-os ao deleite de 
-saborear o agradável sabor de conhecer um pouco acerca do humano, de 
+ experimentar o agradável sabor de conhecer um pouco acerca do humano, de 
 suas possibilidades, limitações e necessidades, sobretudo, as 
 necessidades educacionais. 
 
 === Porque estudar Psicologia no curso de Licenciatura em Computação?
 
-Inicialmente devemos considerar que escolhemos um curso de 
+Inicialmente devemos considerar que a escolha de um curso de 
 licenciatura que imprescinde de conhecimentos acerca do humano. 
 Assim, o estudo da Psicologia é fundamental para todos que fazem 
 opção pela carreira do magistério. Enquanto componente curricular 
@@ -119,9 +119,12 @@ a consciência era o centro das preocupações e se buscava
 compreender seu funcionamento na medida em que o homem a usa em suas 
 atividades adaptativas ao meio.
 
+No esquema 01, podemos visualizar o estudo da consciência pela relação 
+com o meio, cento das investigações da corrente funcionalista.
+
 
 image::{img}/esquema1.eps[scaledwidth="70%"]
-
+              Esquema 01
 
 Estruturalismo:: Essa escola foi iniciada por Wilhelm Wundt (1879), 
 considerado o fundador da psicologia cientifica e dessa corrente 
@@ -135,7 +138,11 @@ nervoso. Wundt é considerado o fundador da Psicologia como ciência
 também por ter criado o primeiro laboratório para realizar 
 experimentos na área de psicofisiologia.
 
+Vejamos, no esquema 02, como os estruturalistas visualizavam a relação 
+do pensamento com o desenvolvimento das estruturas mentais. 
+
 image::{img}/esquema2.eps[scaledwidth="60%"]
+                    Esquema 02
 
 Associacionismo:: Teve como principal representante Edward L. 
 Thorndike por ter sido o formulador da primeira teoria da 
@@ -144,11 +151,19 @@ fundamental à Teoria Psicológica Comportamentalista. O termo
 associacionismo refere-se à concepção de que a aprendizagem ocorre 
 por associação de ideias – das mais simples às mais complexas.
 
-image::{img}/esquema3.eps[scaledwidth="35%"]
+Logo abaixo, no esquema 03, podemos identificar a base conceitual 
+da corrente associacionista. Para os defensoes do associacionismo,
+a parendizagem ocorre a partir da associação de uma nova ideia,
+com uma pré-concebida.
 
+image::{img}/esquema3.eps[scaledwidth="35%"]
+                 Esquema 03
+                 
+                 
 A grande importância de conhecermos as três abordagens acima reside 
 no fato que elas foram precursoras das Teorias Psicológicas do 
-Desenvolvimento e Aprendizagem que breve iremos estudá-las.
+Desenvolvimento e Aprendizagem, abordados em capítulo posterior.
+
 
 === Psicologia da Educação
 
@@ -174,7 +189,7 @@ que tem necessidades, preocupações, interesses, desejos,
 especificidades e que delas dependem a efetivação de aprendizagens. 
 O ramo da Psicologia que ora estudamos é indispensável para que o 
 professor tenha condições de compreender seus aprendentes e 
-desenvolver um trabalho mais eficiente. No percurso histórico vivido 
+desenvolver um trabalho mais eficaz. No percurso histórico vivido 
 pela nossa educação observamos que houve uma tendência a se dar 
 mais importância ao aspecto intelectual que aos outros aspectos e 
 sabemos que o desempenho intelectual pode ser prejudicado se não 

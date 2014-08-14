@@ -58,6 +58,10 @@ criticismo kantiano, o idealismo e o materialismo histórico e
 dialético, as principais teorias psicológicas do desenvolvimento e 
 aprendizagem na contemporaneidade.
 
+O esquema 04 demonstra a relaçã entre a Tricotomia Cartesiana
+e o estudo do conhecimento pela aplicaçao do método científico,
+que inclui a dúvida metódica em oposição a intuição intelectual.
+
 image::{img}/descartes-mapa.png[scaledwidth="90%"]
 
 
@@ -70,7 +74,7 @@ Descartes
         Corpo: estruturas mentais, extensão da alma/física
     Conhecimento
         Deve ser Seguro
-        É uma construção do conhecimento
+        
         Aplica a Dúvida Metafórica (Método científico)
 
 ////
@@ -115,6 +119,10 @@ décadas de 30, 40 e 50, com os estudos normativos, nos quais o ritmo
 e as sequências previsíveis do desenvolvimento infantil eram 
 caracterizados.
 
+O quadro 01 ilustra um pouco do caminho percorrido por Arnold Gesell,
+para formulação da teoria maturacional de desenvolvimento e aprendizagem.
+
+
 .Arnold Gesell
 ****
 Para Arnold Gesell, um dos pioneiros acerca da teoria maturacional, o 
@@ -139,6 +147,8 @@ tem como objetivo a de aliciarem os cuidados dos adultos.
 
 .Gesell em observação e registro. Foto de Cushing / Whitney Medical Library.
 image::{img}/Gesell.jpg[scaledwidth="50%"]
+
+Quadro 01: ilustração do caminho teórico percorrido por Arnold Gesell.
 
 ****
 
@@ -166,29 +176,30 @@ quantitativa dos fenômenos de estudo (o comportamento humano), foi
 fundamental para o campo do saber da psicologia se firmasse no 
 cenário científico. A possibilidade de quantificação do 
 comportamento humano permitiu à psicologia o uso do método 
-cientifico estabelecido pala ciência na modernidade e assim, a 
+científico estabelecido pala ciência na modernidade e assim, a 
 Psicologia adquire o status de ciências. E por fim, essa teoria 
 colabora, de alguma forma, com a possibilidade de compreender os 
 processos de desenvolvimento e aprendizagem humanos com ênfase na 
 natureza social do homem.
 
+Veja a seguir, a visão de Skinner acerca do estudo do comportamente.
+
+
+
 ****
-Skinner defendia um sistema empírico (conhecimento derivado de 
+Skinner era um cientista da empiria (conhecimento derivado de 
 experiências cotidianas, que provém de tentativas, erros e acertos) 
 sem estrutura teórica para a condução de uma pesquisa. 
 
-A visão de Skinner era resumida da seguinte forma: "Nunca ataquei 
-um problema construindo uma hipótese. Jamais deduzi teoremas, nem os 
-submeti a verificação experimental. Até onde consigo enxergar, 
-não tenho nenhum modelo preconcebido de comportamento e, certamente, 
-nem fisiológico nem mentalista e, creio, nem conceitual" 
+Skinner não construía uma hipótese, não deduzia teoremas, nem os 
+submetia a verificação experimental.Justificava que, até onde consiguia enxergar, 
+não havia modelos preconcebidos de comportamento e, nem fisiológico e mentalista e,
+tão pouco,conceitual. Aceitava a existência das condições fisiológicas 
+internas ou mentais, apenas não concordava que estas concepções
+tivessem, validade científica, no referente ao estudo do comportamento.  
 
-Skinner aceitava a existência das condições fisiológicas 
-internas ou mentais, apenas não concordava a sua validade no estudo 
-científico do comportamento. Um biógrafo reiterou que a posição 
-de Skinner ``não era uma negação dos eventos mentais, mas uma 
-recusa em classificá-los como entidades explicativas''
-(<<"RIUCHELLE93","Riuchelle, 1993, p. 10">>). 
+Quadro 02: Skinner e sua visão empírica no estudo do comportamento. Fonte:REVISTA CULTURA E CIDADANIA.
+Acesso:http://revistaculturacidadania.blogspot.com.br/2012/04/o-behaviorismo-de-skinner.html
 
 
 .Burrhus Skinner em ação (condicionamento operante de animais). Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
@@ -229,6 +240,8 @@ fundamentando a organização do material didático segundo as leis
 da percepção e importância da significação de conteúdos e 
 experiências para os alunos.
 
+O quadro a seguir ilustra um pouco da perspectiva Gestalt.
+
 .Gestalt
 ****
 A Psicologia do Gestalt surge na Alemanha, no ano de 1912.  Por isso,
@@ -252,6 +265,9 @@ físico é percebido pelo sujeito com uma forma diferente do que ele
 
 .Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
 image::{img}/Necker.eps[scaledwidth="50%"]
+
+Quadro 03: ilustração da relação forma percepção na 
+perspectiva Gestalt.
 
 ****
 
@@ -282,10 +298,14 @@ possibilidade de estudar a subjetividade (dimensão humana essencial)
 atendendo ao rigor do método científico.
 
 A contribuição desse arsenal teórico à educação encontra-se, 
-principalmente na definição que paz do papel da escola: ajudar o 
+principalmente na definição que faz do papel da escola: ajudar o 
 aluno a equilibrar as exigências instintivas, proibitivas e da 
 realidade. Educar é procurar fazer com que as pessoas atuem e pensem 
 de modo mais racional e mais prazeroso.
+
+
+Segue abaixo um pequeno resumo acerca dos estudos de Freud, base da psicanálise.
+
 
 .Sigmund Freud
 ****
@@ -301,11 +321,16 @@ consistia na análise da consciência e em que o comportamento humano
 era estudado a partir de uma visão mecanicista e positivista.  
 
 ____
-Fonte: <<"FADIMAN86","FADIMAN, James; FRAGER, Robert">>.  Teorias da Personalidade.
-Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
+ 
 ____
 
 ****
+
+Quadro 04: Curiosidade acerca da teoria psicogenética. Extraído da Fonte: 
+<<"FADIMAN86","FADIMAN, James; FRAGER, Robert">>.  Teorias da Personalidade.
+Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
+
+
 
 === Teorias Fenomenológicas e Humanistas
 É difícil precisar a filiação epistemológica para o grupo de 
@@ -335,7 +360,7 @@ comportamento humano como sendo respostas a estímulos -- e reagindo
 à irracionalidade psicanalítica -- que postula o inconsciente como 
 mola mestra das manifestações humanas.
 
-A principal contribuição para a educação refere-se á defesa de 
+A principal contribuição para a educação refere-se à defesa de 
 uma aprendizagem significante, não circunscrita à acumulação de 
 informações, mas que provoque reorganização dos valores e 
 atitudes na vida do ser em todos os seus aspectos: emocionais, 
@@ -352,6 +377,9 @@ professor tenha uma confiança básica de que o aluno é digno e
 merecedor de oportunidades para o seu desenvolvimento; que o 
 professor tenha compreensão empática, ou seja, que consiga 
 colocar-se no lugar do estudante.'' COUTINHO (1999).
+
+No quadro a seguir, temos um pouco da Teoria das Hierarquias das Necessidades
+de Maslow, também, largamente utilizada, no campo da gestão de pessoas.
 
 .Abraham Maslow
 ****
@@ -378,6 +406,9 @@ onde conheceu importante grupos de psicólogos. Passou a se dedicar
 aos estudos da motivação humana e das hierarquias da necessidade do 
 indivíduo.
 
+
+REFAZER A PIRÂMIDE (ONDE SE LÊ: "Amor/relacionamento" colocar: "Amor/Pertencimento". 
+Onde se lê: fisiologia. Colocar: fisiológicos)
 image::{img}/piramede.eps[scaledwidth="80%"]
 
 Na psicologia, defendeu a ideia de que as necessidades fisiológicas 
@@ -385,9 +416,9 @@ devem ser saciadas para que  posteriormente sejam saciadas as
 necessidades de segurança, e na ordem as sociais, de autoestima e a 
 auto-realização, etapa final da felicidade do ser humano.
 
-Fonte: http://www.infoescola.com/biografias/abraham-maslow/
-
 ****
+
+Quadro 05: extraído da fonte: http://www.infoescola.com/biografias/abraham-maslow/
 
 === Teorias Psicogenéticas
 
@@ -412,15 +443,7 @@ prática docente, a teoria implícita em nossas crenças em nossa
 forma de fazer a leitura de homem e de mundo/sociedade e de 
 educação.
 
-.Vygotsky
-****
-Segundo Vygotsky, o desenvolvimento cognitivo do aluno se dá por 
-meio da interação social, ou seja, de sua interação com outros 
-indivíduos e com o meio e aprendizagem é uma experiência social, 
-mediada pela utilização de instrumentos e signos, de acordo com os 
-conceitos utilizados pelo próprio autor.
- 
-A aprendizagem seria uma experiência social, a qual é mediada pela 
+Para Vygotsky, a aprendizagem seria uma experiência social, a qual é mediada pela 
 interação entre a linguagem e a ação. Sendo assim, o professor 
 deve mediar a aprendizagem utilizando estratégias que levem o aluno 
 a tornar-se independente.
@@ -431,18 +454,14 @@ participação, colaboração e constantes desafios.
 Essa teoria mostra-se adequada para atividades colaborativas e troca 
 de ideias, como os modelos atuais de fóruns e chats. 
 
-Piaget sustenta que a gênese do conhecimento está no próprio 
+Para Piaget a gênese do conhecimento está no próprio 
 sujeito, ou seja, o pensamento lógico não é inato ou tampouco 
 externo ao organismo, mas é fundamentalmente construído na 
-interação homem-objeto. Quer dizer, o desenvolvimento da filogenia 
-humana se dá através de um mecanismo auto regulatório que tem como 
-base um 'kit' de condições biológicas (inatas, portanto), que é 
-ativado pela ação e interação do organismo com o meio ambiente -- 
-físico e social, tanto a experiência sensorial quanto o raciocínio 
-são fundantes do processo de constituição da inteligência, ou do 
-pensamento lógico do homem. 
+interação homem-objeto.  
 
-****
+Finalizando o capítulo, apresentamos, com quadro 06, um resumo das teorias da psicologia 
+contemporânea, com suas bases epistemológicas e conribuições para o campo da educação.
+
 
 .Quadro sinóptico das teorias contemporâneas do desenvolvimento e aprendizagem
 [width="100%",cols="1s,1,1,1,1",frame="topbot",options="header"]
