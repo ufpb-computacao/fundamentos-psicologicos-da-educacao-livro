@@ -11,7 +11,7 @@ digraph G {
   //labeljust=right;
   //label="Estilo enfrentamento"
 
-  antes[label="Antes do nascimento"];
+  antes[label="Nascimento"];
   infancia[label="Infância"];
   adolescencia[label="Adolescência"];
   adulta[label="Fase Adulta"];
@@ -20,5 +20,3 @@ digraph G {
   antes->infancia->adolescencia->adulta->velhice;
 
 }
-
-

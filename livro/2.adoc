@@ -13,55 +13,57 @@ Ao final deste capítulo você deverá ser capaz de:
 * Sintetizar as principais teorias do desenvolvimento e aprendizagem da contemporaneidade.
 ____
 
-A Psicologia do Desenvolvimento expressa nos dias atuais uma complexa 
-rede de significações a respeito das mudanças pelas quais passam 
-os indivíduos humanos, da concepção à morte. Em toda história do 
-ser humano a busca por compreender e explicar o mundo em que se vive 
-sempre esteve presente. A forma como o conhecimento foi se 
-constituindo ao longo de nossa história apresenta diferenças 
-significativas, desde o momento áureo na antiguidade entre os gregos 
-até a contemporaneidade -- nossos dias.
+A Psicologia do Desenvolvimento expressa nos dias atuais uma complexa
+rede de significações a respeito das mudanças pelas quais passam
+os indivíduos humanos, da concepção à morte. Em toda história do
+ser humano a busca por compreender e explicar o mundo em que se vive
+sempre esteve presente. A forma como o conhecimento foi se
+constituindo ao longo de nossa história apresenta diferenças
+significativas, desde o momento áureo na antiguidade entre os gregos
+até a contemporaneidade.
 
-Temos em Descartes a inauguração do formato de pensamento moderno e 
-que por sua vez abriu caminho para o pensamento contemporâneo. As 
-ideias cartesianas enfatizam o método como um imperativo para a 
-organização do conhecimento. O método cartesiano é analítico, 
-propõe a decomposição dos problemas de pesquisa em partes 
-constitutivas como caminho metodológico para organização lógica 
-do conhecimento. A partir da proposição metodológica cartesiana a 
-decomposição dos problemas de estudo passou a ser característica 
+Temos em Descartes a inauguração do formato de pensamento moderno e
+que por sua vez abriu caminho para o pensamento contemporâneo. As
+ideias cartesianas enfatizam o método como um imperativo para a
+organização do conhecimento. O método cartesiano é analítico,
+propõe a decomposição dos problemas de pesquisa em partes
+constitutivas como caminho metodológico para organização lógica
+do conhecimento. A partir da proposição metodológica cartesiana a
+decomposição dos problemas de estudo passou a ser característica
 principal da ciência moderna.
 
-Além do destaque dado ao método, Descartes defende a existência de 
-três substâncias: Uma pensante (a alma); uma material (o corpo); e 
-uma substância infinita (Deus). Essa tricotomia cartesiana foi 
-definidora dos rumos do desenvolvimento das ciências -- dentre elas 
-a Psicologia e a educação -- até os nossos dias. Esse filósofo, 
-físico e matemático francês leva a ciência moderna a adotar o 
-mundo da realidade quantitativa que minimiza a qualidade 
+Além do destaque dado ao método, Descartes defende a existência de
+três substâncias: Uma pensante (a alma); uma material (o corpo); e
+uma substância infinita (Deus). Essa tricotomia cartesiana foi
+definidora dos rumos do desenvolvimento das ciências -- dentre elas
+a Psicologia e a educação -- até os nossos dias. Esse filósofo,
+físico e matemático francês leva a ciência moderna a adotar o
+mundo da realidade quantitativa que minimiza a qualidade
 transformando-a em quantidade.
 
-O racionalismo pressupõe que o conhecimento é reduzido à razão. O 
-conhecimento verdadeiro se chega pela razão e esse é gerado pelo 
-homem de dentro para fora. Nessa perspectiva o conhecimento é 
-anterior à experiência e está sujeita a uma programação inata. O 
-empirismo considera que o conhecimento surge dos fatos e 
-acontecimentos do mundo, nega a intuição intelectual colocando o 
-conhecimento relacionado ao plano sensível ou empírico. Nessa 
-concepção o conhecimento se constitui a partir das estimulações 
+O racionalismo pressupõe que o conhecimento é reduzido à razão. O
+conhecimento verdadeiro se chega pela razão e esse é gerado pelo
+homem de dentro para fora. Nessa perspectiva o conhecimento é
+anterior à experiência e está sujeita a uma programação inata. O
+empirismo considera que o conhecimento surge dos fatos e
+acontecimentos do mundo, nega a intuição intelectual colocando o
+conhecimento relacionado ao plano sensível ou empírico. Nessa
+concepção o conhecimento se constitui a partir das estimulações
 ambientais, portanto, de fora para dentro.
 
-O racionalismo e o empirismo constituem em eixos epistemológicos a 
-partir dos quais as principais teorias psicológicas do século 
-passado se desenvolveram. Também subsidiam, juntamente com o 
-criticismo kantiano, o idealismo e o materialismo histórico e 
-dialético, as principais teorias psicológicas do desenvolvimento e 
+O racionalismo e o empirismo constituem em eixos epistemológicos a
+partir dos quais as principais teorias psicológicas do século
+passado se desenvolveram. Também subsidiam, juntamente com o
+criticismo kantiano, o idealismo e o materialismo histórico e
+dialético, as principais teorias psicológicas do desenvolvimento e
 aprendizagem na contemporaneidade.
 
-O esquema 04 demonstra a relaçã entre a Tricotomia Cartesiana
+A <<fig_esquema4>> demonstra a relaçã entre a Tricotomia Cartesiana
 e o estudo do conhecimento pela aplicaçao do método científico,
 que inclui a dúvida metódica em oposição a intuição intelectual.
 
+[[fig_esquema4]]
+.Tricotomia Cartesiana e o estudo do conhecimento pela aplicaçao do método científico
 image::{img}/descartes-mapa.png[scaledwidth="90%"]
 
 
@@ -74,7 +76,6 @@ Descartes
         Corpo: estruturas mentais, extensão da alma/física
     Conhecimento
         Deve ser Seguro
-        
         Aplica a Dúvida Metafórica (Método científico)
 
 ////
@@ -85,121 +86,118 @@ Descartes
 <titleabbrev>Teorias Psicológicas do Desenvolvimento e Aprendizagem</titleabbrev>
 ++++
 
-A seguir faremos a caracterização das Teorias que vigoram no 
-cenário teórico da psicologia contemporânea: Teorias 
-maturacionais, Teorias comportamentistas, Teorias de campo, Teorias 
-psicanalíticas e neopsicanalíticas, Teorias fenomenológicas e 
-humanistas e, por fim, Teorias psicogenéticas. Compreende-las é 
-imprescindível à formação do educador sob o ponto de vista de 
-apreensão de fundamentos psicológicos para a educação que 
-possibilitem uma formação de qualidade. Conhecer as diversas 
-perspectivas teóricas da psicologia acerca do desenvolvimento e 
-aprendizagem nos credencia a compreender o processo 
-ensino-aprendizagem, e assim desenvolver a docência com clareza e 
-eficácia. Sobre cada uma das teorias evidenciaremos a base 
-epistemológica a que pertencem os teóricos representantes, as 
-proposições teóricas e a contribuição dada aos conhecimentos 
+A seguir faremos a caracterização das Teorias que vigoram no
+cenário teórico da psicologia contemporânea: Teorias
+maturacionais, Teorias comportamentistas, Teorias de campo, Teorias
+psicanalíticas e neopsicanalíticas, Teorias fenomenológicas e
+humanistas e, por fim, Teorias psicogenéticas. Compreende-las é
+imprescindível à formação do educador sob o ponto de vista de
+apreensão de fundamentos psicológicos para a educação que
+possibilitem uma formação de qualidade. Conhecer as diversas
+perspectivas teóricas da psicologia acerca do desenvolvimento e
+aprendizagem nos credencia a compreender o processo
+ensino-aprendizagem, e assim desenvolver a docência com clareza e
+eficácia. Sobre cada uma das teorias evidenciaremos a base
+epistemológica a que pertencem os teóricos representantes, as
+proposições teóricas e a contribuição dada aos conhecimentos
 acerca do desenvolvimento e aprendizagem.
 
 
-==== Teorias Maturacionais
-De base epistemológica racionalista tem como principais 
-representantes Arnold Gesell, Francis Galton, Cattell, Stanley Hall e 
-Alfred Binet. Essa teoria tem como propositura que as 
-características fundamentais de qualquer organismo vivo estão 
-programadas em sua constituição genética e enraizadas em processos 
-biológicos, significando que há uma sequência ordenada no 
-desenvolvimento do comportamento humano. Para os teóricos 
-maturacionistas o desenvolvimento e aprendizagem se dão por 
+=== Teorias Maturacionais
+De base epistemológica racionalista tem como principais
+representantes Arnold Gesell, Francis Galton, Cattell, Stanley Hall e
+Alfred Binet. Essa teoria tem como propositura que as
+características fundamentais de qualquer organismo vivo estão
+programadas em sua constituição genética e enraizadas em processos
+biológicos, significando que há uma sequência ordenada no
+desenvolvimento do comportamento humano. Para os teóricos
+maturacionistas o desenvolvimento e aprendizagem se dão por
 determinantes genéticos e maturacionais.
 
-A principal contribuição dessa teoria para o conhecimento acerca 
-das questões do desenvolvimento e aprendizagem se deu, sobretudo nas 
-décadas de 30, 40 e 50, com os estudos normativos, nos quais o ritmo 
-e as sequências previsíveis do desenvolvimento infantil eram 
+A principal contribuição dessa teoria para o conhecimento acerca
+das questões do desenvolvimento e aprendizagem se deu, sobretudo nas
+décadas de 30, 40 e 50, com os estudos normativos, nos quais o ritmo
+e as sequências previsíveis do desenvolvimento infantil eram
 caracterizados.
 
-O quadro 01 ilustra um pouco do caminho percorrido por Arnold Gesell,
+O quadro a seguir ilustra um pouco do caminho percorrido por Arnold Gesell,
 para formulação da teoria maturacional de desenvolvimento e aprendizagem.
 
 
-.Arnold Gesell
+.Caminho teórico percorrido por Arnold Gesell
 ****
-Para Arnold Gesell, um dos pioneiros acerca da teoria maturacional, o 
-desenvolvimento é um desdobramento natural de um plano biológico, 
+Para Arnold Gesell, um dos pioneiros acerca da teoria maturacional, o
+desenvolvimento é um desdobramento natural de um plano biológico,
 em que a experiência não interessa.
 
-Gesell incentiva os pais a deixarem as crianças desenvolverem-se 
-sozinhas, sem ajuda. Pois acredita que sem ajuda dos adultos, 
-comportamentos como falar, brincar e raciocinar surgiriam com a 
+Gesell incentiva os pais a deixarem as crianças desenvolverem-se
+sozinhas, sem ajuda. Pois acredita que sem ajuda dos adultos,
+comportamentos como falar, brincar e raciocinar surgiriam com a
 naturalidade da idade.
 
-Sendo operacional Gesell é responsável pela produção de escalas 
-de desenvolvimento. Estas escalas estão dividas em 4 dimensões que 
-são: motora, verbal, adaptativa e social fazendo parte da teoria da 
+Sendo operacional Gesell é responsável pela produção de escalas
+de desenvolvimento. Estas escalas estão dividas em 4 dimensões que
+são: motora, verbal, adaptativa e social fazendo parte da teoria da
 maturação.
 
-Outra teoria da perspectiva biológica é a teoria etológica. Esta 
-é referente a uma perspectiva evolucionista e defende que, muitos 
-comportamentos das crianças, são da adaptação para sobreviver. 
-Exemplos desses comportamentos como abraçar, chorar e agarrar que 
+Outra teoria da perspectiva biológica é a teoria etológica. Esta
+é referente a uma perspectiva evolucionista e defende que, muitos
+comportamentos das crianças, são da adaptação para sobreviver.
+Exemplos desses comportamentos como abraçar, chorar e agarrar que
 tem como objetivo a de aliciarem os cuidados dos adultos.
 
 .Gesell em observação e registro. Foto de Cushing / Whitney Medical Library.
 image::{img}/Gesell.jpg[scaledwidth="50%"]
 
-Quadro 01: ilustração do caminho teórico percorrido por Arnold Gesell.
-
 ****
 
-==== Teorias Comportamentistas
+=== Teorias Comportamentistas
 
-A base epistemológica dessa teoria é o empirismo. Seus principais 
-representantes são John Watson, Skinner e outros. Essa posição 
-teórica defende que todo conhecimento provém da experiência (pedra 
-angular das teorias comportamentistas). Propõe como ideal de 
-objetividade a utilização de uma metodologia experimental e rompe 
-com o objeto tradicional da Psicologia, a alma, o espírito, a 
-consciência, os fenômenos psíquicos. Para os representantes dessa 
-teoria o objeto de estudo é o comportamento ou as reações 
-observáveis de um organismo através de respostas a estímulos do 
-meio ambiente, também observáveis. Essa perspectiva tem a crença 
-na possibilidade do controle objetivo do estímulo do meio ambiente 
-na determinação de respostas do indivíduo a tais estímulos, ou 
-seja, crença na possibilidade de manipulação do comportamento 
-humano. Assim, todo e qualquer comportamento pode ser previsto. Na 
-prática o comportamento humano é fracionado em seus elementos 
+A base epistemológica dessa teoria é o empirismo. Seus principais
+representantes são John Watson, Skinner e outros. Essa posição
+teórica defende que todo conhecimento provém da experiência (pedra
+angular das teorias comportamentistas). Propõe como ideal de
+objetividade a utilização de uma metodologia experimental e rompe
+com o objeto tradicional da Psicologia, a alma, o espírito, a
+consciência, os fenômenos psíquicos. Para os representantes dessa
+teoria o objeto de estudo é o comportamento ou as reações
+observáveis de um organismo através de respostas a estímulos do
+meio ambiente, também observáveis. Essa perspectiva tem a crença
+na possibilidade do controle objetivo do estímulo do meio ambiente
+na determinação de respostas do indivíduo a tais estímulos, ou
+seja, crença na possibilidade de manipulação do comportamento
+humano. Assim, todo e qualquer comportamento pode ser previsto. Na
+prática o comportamento humano é fracionado em seus elementos
 constituintes, em estímulos e respostas (E -- R).
 
-A contribuição dessa teoria, ao possibilitar a medida e avaliação 
-quantitativa dos fenômenos de estudo (o comportamento humano), foi 
-fundamental para o campo do saber da psicologia se firmasse no 
-cenário científico. A possibilidade de quantificação do 
-comportamento humano permitiu à psicologia o uso do método 
-científico estabelecido pala ciência na modernidade e assim, a 
-Psicologia adquire o status de ciências. E por fim, essa teoria 
-colabora, de alguma forma, com a possibilidade de compreender os 
-processos de desenvolvimento e aprendizagem humanos com ênfase na 
+A contribuição dessa teoria, ao possibilitar a medida e avaliação
+quantitativa dos fenômenos de estudo (o comportamento humano), foi
+fundamental para o campo do saber da psicologia se firmasse no
+cenário científico. A possibilidade de quantificação do
+comportamento humano permitiu à psicologia o uso do método
+científico estabelecido pala ciência na modernidade e assim, a
+Psicologia adquire o status de ciências. E por fim, essa teoria
+colabora, de alguma forma, com a possibilidade de compreender os
+processos de desenvolvimento e aprendizagem humanos com ênfase na
 natureza social do homem.
 
-Veja a seguir, a visão de Skinner acerca do estudo do comportamente.
+Veja no quadro a seguir, a visão de Skinner acerca do estudo do comportamento.
 
-
-
+.Testes empíricos realizados por Skinner
 ****
-Skinner era um cientista da empiria (conhecimento derivado de 
-experiências cotidianas, que provém de tentativas, erros e acertos) 
-sem estrutura teórica para a condução de uma pesquisa. 
+Skinner era um cientista da empiria (conhecimento derivado de
+experiências cotidianas, que provém de tentativas, erros e acertos)
+sem estrutura teórica para a condução de uma pesquisa.
 
-Skinner não construía uma hipótese, não deduzia teoremas, nem os 
-submetia a verificação experimental.Justificava que, até onde consiguia enxergar, 
+Skinner não construía uma hipótese, não deduzia teoremas, nem os
+submetia a verificação experimental.Justificava que, até onde consiguia enxergar,
 não havia modelos preconcebidos de comportamento e, nem fisiológico e mentalista e,
-tão pouco,conceitual. Aceitava a existência das condições fisiológicas 
+tão pouco,conceitual. Aceitava a existência das condições fisiológicas
 internas ou mentais, apenas não concordava que estas concepções
-tivessem, validade científica, no referente ao estudo do comportamento.  
+tivessem, validade científica, no referente ao estudo do comportamento.
 
 Quadro 02: Skinner e sua visão empírica no estudo do comportamento. Fonte:REVISTA CULTURA E CIDADANIA.
-Acesso:http://revistaculturacidadania.blogspot.com.br/2012/04/o-behaviorismo-de-skinner.html
+Acesso: http://revistaculturacidadania.blogspot.com.br/2012/04/o-behaviorismo-de-skinner.html
 
 
 .Burrhus Skinner em ação (condicionamento operante de animais). Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
@@ -207,107 +205,105 @@ image::{img}/BurrhusSkinner[scaledwidth="25%"]
 
 ****
 
-==== Teorias de Campo
+=== Teorias de Campo
 
-De base racionalista e idealista essa teoria tem como principais 
-representantes Wertheimer (1880-1943), Köhler (1887-1967), Koffka 
-(1886-1941) e Kurt Lewin (1890-1947) e apresentam como proposição A 
-Psicologia da Gestalt ou Psicologia da Forma, principal representante 
-deste grupo de teorias. Essa posição teórica representa forte 
-reação à psicologia elementarista, que explica o comportamento 
-mediante o seu fracionamento em estímulos e respostas por entender e 
-defender cientificamente que os comportamentos e as experiências 
-não são fracionáveis. O todo não é a soma das partes. A 
-associação dos elementos não se constitui num mero processo 
-aditivo, mas há também a ocorrência da ``síntese integradora'', 
-irredutível às partes constituintes. Os teóricos gestaltistas 
-procuravam descrever e compreender os fenômenos a partir da 
-observação da experiência dos sujeitos, evitando a idiossincrasia. 
-Procuravam encontrar leis gerais explicativas, sem, contudo reduzir o 
-todo às partes. Buscavam organizações universais nos campos 
-perceptivos dos indivíduos. Esta universalidade é que 
-possibilitava, de acordo com o positivismo, um discurso 
+De base racionalista e idealista essa teoria tem como principais
+representantes Wertheimer (1880-1943), Köhler (1887-1967), Koffka
+(1886-1941) e Kurt Lewin (1890-1947) e apresentam como proposição A
+Psicologia da Gestalt ou Psicologia da Forma, principal representante
+deste grupo de teorias. Essa posição teórica representa forte
+reação à psicologia elementarista, que explica o comportamento
+mediante o seu fracionamento em estímulos e respostas por entender e
+defender cientificamente que os comportamentos e as experiências
+não são fracionáveis. O todo não é a soma das partes. A
+associação dos elementos não se constitui num mero processo
+aditivo, mas há também a ocorrência da ``síntese integradora'',
+irredutível às partes constituintes. Os teóricos gestaltistas
+procuravam descrever e compreender os fenômenos a partir da
+observação da experiência dos sujeitos, evitando a idiossincrasia.
+Procuravam encontrar leis gerais explicativas, sem, contudo reduzir o
+todo às partes. Buscavam organizações universais nos campos
+perceptivos dos indivíduos. Esta universalidade é que
+possibilitava, de acordo com o positivismo, um discurso
 verdadeiramente científico.
 
-O ser humano é dotado de estruturas pré-formadas que determinam e 
-condicionam todas as suas experiências perceptuais em uma totalidade 
+O ser humano é dotado de estruturas pré-formadas que determinam e
+condicionam todas as suas experiências perceptuais em uma totalidade
 do ser.
 
-A principal contribuição dessa teoria reside no fato de atribuir 
-importância à percepção no processo de conhecimento. Enfatiza as 
-diferenças individuais e a maturação das funções cognitivas, 
-fundamentando a organização do material didático segundo as leis 
-da percepção e importância da significação de conteúdos e 
+A principal contribuição dessa teoria reside no fato de atribuir
+importância à percepção no processo de conhecimento. Enfatiza as
+diferenças individuais e a maturação das funções cognitivas,
+fundamentando a organização do material didático segundo as leis
+da percepção e importância da significação de conteúdos e
 experiências para os alunos.
 
 O quadro a seguir ilustra um pouco da perspectiva Gestalt.
 
-.Gestalt
+.Ilustração da relação forma-percepção na perspectiva de Gestalt
 ****
 A Psicologia do Gestalt surge na Alemanha, no ano de 1912.  Por isso,
 também é conhecida como Escola de Berlim. Surgiu com o objetivo de
 questionar a psicologia americana.
 
-Ernst Mach (1838-1916), físico, e Chrinstiam von Ehrenfels 
-(1859-1932), filósofo e psicólogo, desenvolviam uma psicofísica 
-com estudos sobre as sensações (o dado psicológico) de 
-espaço-forma e tempo-forma (o dado físico) e podem ser 
-considerados como os mais diretos antecessores da Psicologia da 
-Gestalt. Max Wertheimer, Wolfgang Köhler e Kurt Koffka, baseados nos 
-estudos psicofísicos que relacionaram a forma e sua percepção, 
-construíram as bases de uma teoria eminentemente psicológica. Eles 
+Ernst Mach (1838-1916), físico, e Chrinstiam von Ehrenfels
+(1859-1932), filósofo e psicólogo, desenvolviam uma psicofísica
+com estudos sobre as sensações (o dado psicológico) de
+espaço-forma e tempo-forma (o dado físico) e podem ser
+considerados como os mais diretos antecessores da Psicologia da
+Gestalt. Max Wertheimer, Wolfgang Köhler e Kurt Koffka, baseados nos
+estudos psicofísicos que relacionaram a forma e sua percepção,
+construíram as bases de uma teoria eminentemente psicológica. Eles
 iniciaram seus estudos pela percepção e sensação do movimento.
 
-Os Gestaltistas estavam preocupados em compreender quais os processos 
-psicológicos envolvidos na ilusão de ótica, quando o estímulo 
-físico é percebido pelo sujeito com uma forma diferente do que ele 
+Os Gestaltistas estavam preocupados em compreender quais os processos
+psicológicos envolvidos na ilusão de ótica, quando o estímulo
+físico é percebido pelo sujeito com uma forma diferente do que ele
 é na realidade.
 
 .Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
 image::{img}/Necker.eps[scaledwidth="50%"]
 
-Quadro 03: ilustração da relação forma percepção na 
+Quadro 03: ilustração da relação forma percepção na
 perspectiva Gestalt.
 
 ****
 
-==== Teorias Psicanalítícas e Neopsicanalíticas
+=== Teorias Psicanalítícas e Neopsicanalíticas
 
-A base epistemológica dessa teoria é a dialética, que constitui 
-uma síntese entre o racionalismo e o empirismo. Freud (1856-1939), 
-médico psiquiatra vienense, é o fundador da teoria psicanalítica 
-que serve de base para o surgimento das teorias neopsicanalíticas 
-desenvolvidas por teóricos tais como Eric Erikson (1950), Margareth 
-Mahler (1977), Spitz (1954) dentre outros. Freud ao colocar em 
-dúvida a abordagem organicista da psiquiatria do seu tempo, 
-desenvolve uma abordagem psicológica para estudo das doenças 
-mentais em que, mesmo usando o modelo cartesiano de ciência 
-contrapõe-se aos racionalistas acerca a razão humana. Na visão 
-freudiana o homem é grandemente comandado pelo inconsciente. 
-Racionalidade (consciente) e irracionalidade (inconsciente) não se 
-opõem, constituem as bases dialéticas de um único processo: o da 
+A base epistemológica dessa teoria é a dialética, que constitui
+uma síntese entre o racionalismo e o empirismo. Freud (1856-1939),
+médico psiquiatra vienense, é o fundador da teoria psicanalítica
+que serve de base para o surgimento das teorias neopsicanalíticas
+desenvolvidas por teóricos tais como Eric Erikson (1950), Margareth
+Mahler (1977), Spitz (1954) dentre outros. Freud ao colocar em
+dúvida a abordagem organicista da psiquiatria do seu tempo,
+desenvolve uma abordagem psicológica para estudo das doenças
+mentais em que, mesmo usando o modelo cartesiano de ciência
+contrapõe-se aos racionalistas acerca a razão humana. Na visão
+freudiana o homem é grandemente comandado pelo inconsciente.
+Racionalidade (consciente) e irracionalidade (inconsciente) não se
+opõem, constituem as bases dialéticas de um único processo: o da
 formação da personalidade.
 
-As proposituras freudianas tem enorme relevância na constituição 
-da Psicologia científica. Dentre as contribuições que oferece 
-podemos destacar o resgate da subjetividade -- enquanto objeto de 
-estudo da psicologia -- que foi abandonada na transição do saber 
-psicológico, da filosofia, para o campo cientifico estabelecido pela 
-modernidade. Assim, a partir de Sigmund Freud inaugura-se a 
-possibilidade de estudar a subjetividade (dimensão humana essencial) 
+As proposituras freudianas tem enorme relevância na constituição
+da Psicologia científica. Dentre as contribuições que oferece
+podemos destacar o resgate da subjetividade -- enquanto objeto de
+estudo da psicologia -- que foi abandonada na transição do saber
+psicológico, da filosofia, para o campo científico estabelecido pela
+modernidade. Assim, a partir de Sigmund Freud inaugura-se a
+possibilidade de estudar a subjetividade (dimensão humana essencial)
 atendendo ao rigor do método científico.
 
-A contribuição desse arsenal teórico à educação encontra-se, 
-principalmente na definição que faz do papel da escola: ajudar o 
-aluno a equilibrar as exigências instintivas, proibitivas e da 
-realidade. Educar é procurar fazer com que as pessoas atuem e pensem 
+A contribuição desse arsenal teórico à educação encontra-se,
+principalmente na definição que faz parte do papel da escola: ajudar o
+aluno a equilibrar as exigências instintivas, proibitivas e da
+realidade. Educar é procurar fazer com que as pessoas atuem e pensem
 de modo mais racional e mais prazeroso.
 
+Segue um pequeno resumo acerca dos estudos de Freud, base da psicanálise.
 
-Segue abaixo um pequeno resumo acerca dos estudos de Freud, base da psicanálise.
-
-
-.Sigmund Freud
+.Curiosidade acerca da teoria psicogenética de Sigmund Freud
 ****
 As teorias Psicanalíticas tiveram início com os estudos de Sigmund
 Freud e repercutiram em todos os campos do conhecimento psicológico.
@@ -318,165 +314,160 @@ Essas teorias revolucionaram a concepção e o tratamento de problemas
 emocionais, como também o campo de estudo do comportamento, visto
 terem surgido num período em que o objeto de estudo da Psicologia
 consistia na análise da consciência e em que o comportamento humano
-era estudado a partir de uma visão mecanicista e positivista.  
-
-____
- 
-____
+era estudado a partir de uma visão mecanicista e positivista.
 
 ****
-
-Quadro 04: Curiosidade acerca da teoria psicogenética. Extraído da Fonte: 
+____
+Fonte:
 <<"FADIMAN86","FADIMAN, James; FRAGER, Robert">>.  Teorias da Personalidade.
-Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.  
-
-
+Trad.  Camila P. S. Sybil Safdié. São Paulo: Habra, 1986.
+____
 
 === Teorias Fenomenológicas e Humanistas
-É difícil precisar a filiação epistemológica para o grupo de 
-teorias fenomenológicas e humanistas. Podemos considerá-la 
-relacionada com o criticismo Kantiano e com seus desdobramentos 
-através do idealismo e da fenomenologia. Como representantes dessas 
+É difícil precisar a filiação epistemológica para o grupo de
+teorias fenomenológicas e humanistas. Podemos considerá-la
+relacionada com o criticismo Kantiano e com seus desdobramentos
+através do idealismo e da fenomenologia. Como representantes dessas
 teorias, citamos: Maslow (1972), Rogers (1975) e Comb (1975).
 
-Postula uma consciência a priori intencional, uma consciência 
-constituída pela relação sujeito-objeto, em que o sujeito 
-individual é a origem e o fim do conhecimento.  A compreensão do 
-humano se dá para além da visão mecanicista ou racionalista, mas 
-como um ser que dirige e avança a partir de suas experiências e 
+Postula uma consciência a priori intencional, uma consciência
+constituída pela relação sujeito-objeto, em que o sujeito
+individual é a origem e o fim do conhecimento.  A compreensão do
+humano se dá para além da visão mecanicista ou racionalista, mas
+como um ser que dirige e avança a partir de suas experiências e
 valores perspectivadores do próprio bem estar e realização pessoal.
 
-Para as Teorias fenomenológicas Humanistas o passado de uma pessoa e 
-o seu organismo biológico não determinam seu modo de viver, o jeito 
-de ser no mundo está relacionado com a percepção da realidade 
-(fenômeno). O papel da Psicologia, e por extensão, da educação 
-passam a ser: promover possibilidades de visualização dos 
+Para as Teorias fenomenológicas Humanistas o passado de uma pessoa e
+o seu organismo biológico não determinam seu modo de viver, o jeito
+de ser no mundo está relacionado com a percepção da realidade
+(fenômeno). O papel da Psicologia, e por extensão, da educação
+passam a ser: promover possibilidades de visualização dos
 fenômenos humanos e si mesmo e alternativas de avanço.
 
-A contribuição dessa sistematização teórica refere-se ao avanço 
-que impacta no pensamento científico acerca do humano, oferecendo 
-uma alternativa ao reducionismo behaviorista -- que coloca o 
-comportamento humano como sendo respostas a estímulos -- e reagindo 
-à irracionalidade psicanalítica -- que postula o inconsciente como 
+A contribuição dessa sistematização teórica refere-se ao avanço
+que impacta no pensamento científico acerca do humano, oferecendo
+uma alternativa ao reducionismo behaviorista -- que coloca o
+comportamento humano como sendo respostas a estímulos -- e reagindo
+à irracionalidade psicanalítica -- que postula o inconsciente como
 mola mestra das manifestações humanas.
 
-A principal contribuição para a educação refere-se à defesa de 
-uma aprendizagem significante, não circunscrita à acumulação de 
-informações, mas que provoque reorganização dos valores e 
-atitudes na vida do ser em todos os seus aspectos: emocionais, 
-cognitivos, sociais e físicos, dentre outros. Para tanto a 
-aprendizagem deve ser auto iniciada pelo aluno a partir de seus 
-interesses e objetivos, processo no qual o professor é um 
-facilitador e não apenas um planejador curricular, ou mero usuário 
-de livros e outros recursos, ou elaborador de provas e atribuidor de 
-notas. 
+A principal contribuição para a educação refere-se à defesa de
+uma aprendizagem significante, não circunscrita à acumulação de
+informações, mas que provoque reorganização dos valores e
+atitudes na vida do ser em todos os seus aspectos: emocionais,
+cognitivos, sociais e físicos, dentre outros. Para tanto a
+aprendizagem deve ser auto iniciada pelo aluno a partir de seus
+interesses e objetivos, processo no qual o professor é um
+facilitador e não apenas um planejador curricular, ou mero usuário
+de livros e outros recursos, ou elaborador de provas e atribuidor de
+notas.
 
-O que implica dizer que ``o professor deixe o aluno livre para 
-aprender, para escolher o seu próprio curso de ações; que o 
-professor tenha uma confiança básica de que o aluno é digno e 
-merecedor de oportunidades para o seu desenvolvimento; que o 
-professor tenha compreensão empática, ou seja, que consiga 
+O que implica dizer que ``o professor deixe o aluno livre para
+aprender, para escolher o seu próprio curso de ações; que o
+professor tenha uma confiança básica de que o aluno é digno e
+merecedor de oportunidades para o seu desenvolvimento; que o
+professor tenha compreensão empática, ou seja, que consiga
 colocar-se no lugar do estudante.'' COUTINHO (1999).
 
-No quadro a seguir, temos um pouco da Teoria das Hierarquias das Necessidades
-de Maslow, também, largamente utilizada, no campo da gestão de pessoas.
+No quadro a seguir, temos a Pirâmide da Hierarquia das Necessidades
+de Maslow, teoria, também, largamente utilizada na gestão de pessoas.
 
-.Abraham Maslow
+.Teoria sobre a Hierarquia das Necessidades de Abraham Maslow
 ****
-Psicólogo norte-americano, Abraham Maslow  foi o criador da 
-hierarquia de necessidades, conhecida como a ``Pirâmide de Maslow''. 
-Nasceu no Brooklin, Nova York, em 1° de abril de 1908. Seus pais 
-eram semi-analfabetos, mas como a família sonhava em ter um filho 
+Psicólogo norte-americano, Abraham Maslow  foi o criador da
+hierarquia de necessidades, conhecida como a ``Pirâmide de Maslow''.
+Nasceu no Brooklin, Nova York, em 1° de abril de 1908. Seus pais
+eram semi-analfabetos, mas como a família sonhava em ter um filho
 advogado, ingressou na faculdade de Direito de Nova York.
 
-Insatisfeito, largou o curso e transferiu seus estudos para a 
-Universidade de Cornell. Casou-se a contragosto com sua prima, logo 
-mudou-se para Wisconsin, onde conheceu o estudioso Harry Harlow, 
-responsável pelos estudos a respeito do comportamento de filhotes de 
+Insatisfeito, largou o curso e transferiu seus estudos para a
+Universidade de Cornell. Casou-se a contragosto com sua prima, logo
+mudou-se para Wisconsin, onde conheceu o estudioso Harry Harlow,
+responsável pelos estudos a respeito do comportamento de filhotes de
 macacos.
 
-Esse contato despertou o interesse de Maslow pela psicologia. 
+Esse contato despertou o interesse de Maslow pela psicologia.
 
-Tornou-se, na área acadêmica psicológica, barachel em 1930, mestre 
+Tornou-se, na área acadêmica psicológica, barachel em 1930, mestre
 em 1931 e doutor pela Universidade de Wisconsin em 1934.
 
-No ano seguinte, retornou a Nova York, e começou a trabalhar na 
-Universidade de Columbia e a lecionar na Universidade do Brooklin, 
-onde conheceu importante grupos de psicólogos. Passou a se dedicar 
-aos estudos da motivação humana e das hierarquias da necessidade do 
+No ano seguinte, retornou a Nova York, e começou a trabalhar na
+Universidade de Columbia e a lecionar na Universidade do Brooklin,
+onde conheceu importante grupos de psicólogos. Passou a se dedicar
+aos estudos da motivação humana e das hierarquias da necessidade do
 indivíduo.
 
-
-REFAZER A PIRÂMIDE (ONDE SE LÊ: "Amor/relacionamento" colocar: "Amor/Pertencimento". 
-Onde se lê: fisiologia. Colocar: fisiológicos)
+// REFAZER A PIRÂMIDE (ONDE SE LÊ: "Amor/relacionamento" colocar: "Amor/Pertencimento". Onde se lê: fisiologia. Colocar: fisiológicos)
+.Pirâmide da Hierarquia das Necessidades de Abraham Maslow
 image::{img}/piramede.eps[scaledwidth="80%"]
 
-Na psicologia, defendeu a ideia de que as necessidades fisiológicas 
-devem ser saciadas para que  posteriormente sejam saciadas as 
-necessidades de segurança, e na ordem as sociais, de autoestima e a 
+Na psicologia, defendeu a ideia de que as necessidades fisiológicas
+devem ser saciadas para que  posteriormente sejam saciadas as
+necessidades de segurança, e na ordem as sociais, de autoestima e a
 auto-realização, etapa final da felicidade do ser humano.
 
 ****
-
-Quadro 05: extraído da fonte: http://www.infoescola.com/biografias/abraham-maslow/
+____
+Fonte: http://www.infoescola.com/biografias/abraham-maslow/.
+____
 
 === Teorias Psicogenéticas
 
-De base dialética, essas teorias, representadas por Jean Piaget 
-(1896-1980), Vygotsky (1896-1934), Leontiev (1903-1979), Luria 
-(1902-1977) e Wallon (1879-1962), chamados teóricos interacionistas, 
-entendem a gênese do comportamento humano na perspectiva 
-interacionista, em que sujeito e objeto interagem em um processo que 
+De base dialética, essas teorias, representadas por Jean Piaget
+(1896-1980), Vygotsky (1896-1934), Leontiev (1903-1979), Luria
+(1902-1977) e Wallon (1879-1962), chamados teóricos interacionistas,
+entendem a gênese do comportamento humano na perspectiva
+interacionista, em que sujeito e objeto interagem em um processo que
 constrói e reconstrói estruturas cognitivas.
 
-A principal contribuição dessas teorias à educação está na 
-possibilidade de visualizar o sujeito na sua totalidade, 
-compreendendo-o nos processos subjacentes a interação sujeito 
-objeto, em que a escola tem o papel de desenvolver o 
+A principal contribuição dessas teorias à educação está na
+possibilidade de visualizar o sujeito na sua totalidade,
+compreendendo-o nos processos subjacentes a interação sujeito
+objeto, em que a escola tem o papel de desenvolver o
 pensamento/capacidade de analisar do aluno.
 
-Após realizar o estudo dessas teorias é importante considerar a 
-relevância do mesmo para nossa formação docente. Bem como buscar 
-identificar a perspectiva teórica subjacente na prática de cada 
-professor. Pois cada um de nós revela, na forma de conduzir a 
-prática docente, a teoria implícita em nossas crenças em nossa 
-forma de fazer a leitura de homem e de mundo/sociedade e de 
+Após realizar o estudo dessas teorias é importante considerar a
+relevância do mesmo para nossa formação docente. Bem como buscar
+identificar a perspectiva teórica subjacente na prática de cada
+professor. Pois cada um de nós revela, na forma de conduzir a
+prática docente, a teoria implícita em nossas crenças em nossa
+forma de fazer a leitura de homem e de mundo/sociedade e de
 educação.
 
-Para Vygotsky, a aprendizagem seria uma experiência social, a qual é mediada pela 
-interação entre a linguagem e a ação. Sendo assim, o professor 
-deve mediar a aprendizagem utilizando estratégias que levem o aluno 
+Para Vygotsky, a aprendizagem seria uma experiência social, mediada pela
+interação entre a linguagem e a ação. Sendo assim, o professor
+deve mediar a aprendizagem utilizando estratégias que levem o aluno
 a tornar-se independente.
 
-Sua orientação deve possibilitar a criação de ambientes de 
+Sua orientação deve possibilitar a criação de ambientes de
 participação, colaboração e constantes desafios.
 
-Essa teoria mostra-se adequada para atividades colaborativas e troca 
-de ideias, como os modelos atuais de fóruns e chats. 
+Essa teoria mostra-se adequada para atividades colaborativas e troca
+de ideias, como os modelos atuais de fóruns e chats.
 
-Para Piaget a gênese do conhecimento está no próprio 
-sujeito, ou seja, o pensamento lógico não é inato ou tampouco 
-externo ao organismo, mas é fundamentalmente construído na 
-interação homem-objeto.  
+Para Piaget a gênese do conhecimento está no próprio
+sujeito, ou seja, o pensamento lógico não é inato ou tampouco
+externo ao organismo, mas é fundamentalmente construído na
+interação homem-objeto.
 
-Finalizando o capítulo, apresentamos, com quadro 06, um resumo das teorias da psicologia 
+Finalizando o capítulo, apresentamos, com a <<tab_quando_sinoptico>>,
+um resumo das teorias da psicologia
 contemporânea, com suas bases epistemológicas e conribuições para o campo da educação.
 
-
+[[tab_quando_sinoptico]]
 .Quadro sinóptico das teorias contemporâneas do desenvolvimento e aprendizagem
 [width="100%",cols="1s,1,1,1,1",frame="topbot",options="header"]
 |====
 include::capitulos/tabelas/quadro-sinoptico.csv[]
 |====
 
-
 === Analisando e Refletindo
 
 . Quais seriam as bases filosóficas da psicologia?
-. Qual a importância da tricotomia cartesiana para os estudos 
+. Qual a importância da tricotomia cartesiana para os estudos
 acerca do conhecimento humano?
-. Complete o quadro abaixo destacando a contribuição de cada 
-teoria psicológica do desenvolvimento e aprendizagem no campo da 
+. Complete o quadro abaixo destacando a contribuição de cada
+teoria psicológica do desenvolvimento e aprendizagem no campo da
 educação.
 
 // FIXME Faltando o quadro abaixo.
@@ -484,4 +475,3 @@ educação.
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-
