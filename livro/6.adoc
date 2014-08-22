@@ -9,66 +9,83 @@
 ____
 Ao final deste capítulo você deverá ser capaz de:
 
-* Conceituar a aprendizagem nas diversas perspectivas 
+* Conceituar a aprendizagem nas diversas perspectivas
 * Caracterizar a aprendizagem;
 * Reconhecer a importância da aprendizagem no desenvolvimento humano;
 * Inferir posições político-teóricas na formação para a prática docente
-em construção identificada em si mesmo.   
+em construção identificada em si mesmo.
 ____
 
-Dentre os animais, o homem é o que apresenta o menor número de 
-comportamentos reflexos -- reações inatas, fixas e invariáveis. A 
-forma como o humano atua no mundo apresenta um repertorio de 
-comportamentos aprendidos, construídos a partir de experiências. O 
-processo de aprender se inicia com o nascimento e se desenvolve até 
-a morte. A aprendizagem é o processo pelo qual se constrói 
-conhecimentos capazes de contribuir para realização de atividades 
-possibilitadoras de ajustamentos em todos os aspectos -- físico, 
-emocional e social. A importância da aprendizagem é inegável 
-quando se reconhece que o homem vive de acordo com o que aprende. 
-Cada um é o que é pelo que aprendeu e pelas aprendizagens 
-possíveis de serem realizadas frente às demandas de ajustamentos, 
-em que novas estruturas são desenvolvidas para o atingimento do 
-equilíbrio. Tal processo tem papel fundamental na vida de cada 
-pessoa. Em toda a história da civilização o homem desenvolveu 
-comportamentos visando superar dificuldades próprias dos 
-indivíduos, sociedades, civilizações e buscando garantir o viver 
-de forma equilibrada. 
+Dentre os animais, o homem é o que apresenta o menor número de
+comportamentos reflexos -- reações inatas, fixas e invariáveis. A
+forma como o humano atua no mundo apresenta um repertorio de
+comportamentos aprendidos, construídos a partir de experiências. O
+processo de aprender se inicia com o nascimento e se desenvolve até
+a morte. A aprendizagem é o processo pelo qual se constrói
+conhecimentos capazes de contribuir para realização de atividades
+possibilitadoras de ajustamentos em todos os aspectos -- físico,
+emocional e social. A importância da aprendizagem é inegável
+quando se reconhece que o homem vive de acordo com o que aprende.
+Cada um é o que é pelo que aprendeu e pelas aprendizagens
+possíveis de serem realizadas frente às demandas de ajustamentos,
+em que novas estruturas são desenvolvidas para o atingimento do
+equilíbrio. Tal processo tem papel fundamental na vida de cada
+pessoa. Em toda a história da civilização o homem desenvolveu
+comportamentos visando superar dificuldades próprias dos
+indivíduos, sociedades, civilizações e buscando garantir o viver
+de forma equilibrada.
 
-Cada geração desenvolve conhecimentos a partir das experiências e 
-aprendizagens de pessoas que viveram em época anterior e assim é 
-ampliada a riqueza cultural composta por conhecimentos e técnicas 
-humanas. Os modos de ser -- costumes, valores, legislação, 
-religião e linguagens -- se constituem pela capacidade que o homem 
-tem de aprender conteúdos que historicamente são construídos. A 
-atividade de aprender é essencial à sobrevivência exitosa do 
-homem. Em decorrência disso, meios educacionais/escolares foram 
-organizados perspectivando a educação necessária a tornar a vida 
+Cada geração desenvolve conhecimentos a partir das experiências e
+aprendizagens de pessoas que viveram em época anterior e assim é
+ampliada a riqueza cultural composta por conhecimentos e técnicas
+humanas. Os modos de ser -- costumes, valores, legislação,
+religião e linguagens -- se constituem pela capacidade que o homem
+tem de aprender conteúdos que historicamente são construídos. A
+atividade de aprender é essencial à sobrevivência exitosa do
+homem. Em decorrência disso, meios educacionais/escolares foram
+organizados perspectivando a educação necessária a tornar a vida
 do homem sustentável nos diversos aspectos.
 
+O Sistema de educação Jesuíta, servia aos interesses da colonização e
+da igreja contra-reformista, o público alvo era preferencialmente as
+crianças. Apesar do pioneirismo, os Jesuítas seguiram o tradicionalismo
+rígido, além da forte influência religiosa. No período de 1930 a 1960,
+a educação passa por intensas movimentações, neste período se
+processa interlocução entre a tendência ``humanista'' tradicional e
+moderna. Na concepção humanista tradicional, o papel da educação é
+moldar-se a existência particular e real de cada educando, ou seja,
+a essência universal e ideal que o define enquanto humano já na
+concepção. Na humanista moderna, a visão de homem é centrada na
+existência humana, em que as difenlas individuais de cada ser humano
+são consideradas. No terceiro período, que segue aos dias atuais, a
+educação consiste na concepção dialética, em que o homem é visto
+como conjunto de relações sociais. Como se observa na <<fig_periodos_educacao>>.
 
+[[fig_periodos_educacao]]
+.Evolução do Sistema de Educação no Brasil
 image::{img}/esquema7.eps[]
 
-=== Evolução histórica da Psicologia 
+=== Evolução histórica da Psicologia da aprendizagem
 
-A preocupação com a aprendizagem é tão antiga quanto à 
-existência do homem. Podemos identificar proposições acerca do 
-aprender humano desde os filósofos e pensadores gregos até os 
-nossos dias. É curioso perceber como a ideia acerca do aprender 
-humano vai se diferenciando ao longo da história do conhecimento 
-ocidental. Para Sócrates o conhecimento preexistia no espírito do 
-homem e a aprendizagem se constituía no despertar de conteúdos 
-inatos. 
+A preocupação com a aprendizagem é tão antiga quanto à
+existência do homem. Podemos identificar proposições acerca do
+aprender humano desde os filósofos e pensadores gregos até os
+nossos dias. É curioso perceber como a ideia acerca do aprender
+humano vai se diferenciando ao longo da história do conhecimento
+ocidental. Para Sócrates o conhecimento preexistia no espírito do
+homem e a aprendizagem se constituía no despertar de conteúdos
+inatos.
 
-Em Platão, discípulo de Sócrates, temos a postulação dualista de 
-corpo (coisas) e alma (ideias) em que esta guarda lembranças da 
-encarnação anterior. Nessa perspectiva a aprendizagem é 
-reminiscência. Aristóteles preconiza uma forma de abordagem 
-científica ao rejeitar a preexistência das ideias e utilizar a 
-observação e experimentação, defendendo que ``nada está na 
-inteligência que não tenha primeiro estado nos sentidos''. Utilizou 
-o método dedutivo, característico de seu sistema lógico e aplicou 
+Em Platão, discípulo de Sócrates, temos a postulação dualista de
+corpo (coisas) e alma (ideias) em que esta guarda lembranças da
+encarnação anterior. Nessa perspectiva a aprendizagem é
+reminiscência. Aristóteles preconiza uma forma de abordagem
+científica ao rejeitar a preexistência das ideias e utilizar a
+observação e experimentação, defendendo que ``nada está na
+inteligência que não tenha primeiro estado nos sentidos''. Utilizou
+o método dedutivo, característico de seu sistema lógico e aplicou
 o método indutivo em suas observações, experiências e hipóteses.
+O quadro a seguir ilustra com curiosidades que o oportunizam compreender.
 
 ****
 
@@ -97,7 +114,7 @@ juventude.
 Foi condenado à morte e, apesar da possibilidade de fugir da prisão,
 permaneceu fiel a si e à sua missão.
 
-Não deixou na escrito. O que herdamos foi o testemunho de seus
+Não deixou nada escrito. O que herdamos foi o testemunho de seus
 contemporâneos, especialmente o de seu discípulo mais importante,
 Platão.
 
@@ -108,6 +125,8 @@ Platão.
 >| Fonte: História das Ideias Pedagógicas de <<"GADOTTI03", "Moacir Gadotti">>, 2003, 8a ed., p.35
 |====
 
+O quadro a seguir nos coloca dentro de reflexões de Platão acerca
+da educação a partir da relação mente e corpo.
 
 ****
 
@@ -117,75 +136,75 @@ Platão.
 |====
 
 
-Donde vem que tantos homens de méritos tenham filhos medíocres? Eu 
-vou te explicar. A coisa nada tem de extraordinário, se considerares 
-o que já disse antes com razão, que, nesta matéria, a virtude, 
-para que uma cidade possa subsistir, consistiria em não ter 
-ignorantes. Se esta afirmação é verdadeira (e ela o é) no mais 
-alto grau, considera, segundo teu parecer. Suponhamos que a cidade 
-não pudesse subsistir a não ser que fôssemos todos flautistas, 
-cada um na medida em que fosse capaz; que esta arte fosse também 
-ensinada por todos e para todos publicamente e, em particular, que se 
-castigasse quem tocasse mal, e que não se recusasse este ensinamento 
-a ninguém, da mesma forma que hoje a justiça e as leis são 
-ensinadas a todos sem reserva e sem mistério, diferentemente dos 
-outros misteres -- porque nós nos prestamos serviços 
-reciprocamente, imagino, por nosso respeito da justiça e da virtude, 
-e é por isto que todos estamos sempre prontos a revelar e a ensinar 
-a justiça e as leis -- bem, nestas condições, a supor que 
-tivéssemos o empenho mais vivo de aprender e de ensinar uns aos 
-outros a arte de tocar flauta, crês, por acaso, Sócrates, disse-me 
-ele, que se veria frequentemente os filhos de bons flautistas levarem 
-vantagem sobre os dos maus? 
+Donde vem que tantos homens de méritos tenham filhos medíocres? Eu
+vou te explicar. A coisa nada tem de extraordinário, se considerares
+o que já disse antes com razão, que, nesta matéria, a virtude,
+para que uma cidade possa subsistir, consistiria em não ter
+ignorantes. Se esta afirmação é verdadeira (e ela o é) no mais
+alto grau, considera, segundo teu parecer. Suponhamos que a cidade
+não pudesse subsistir a não ser que fôssemos todos flautistas,
+cada um na medida em que fosse capaz; que esta arte fosse também
+ensinada por todos e para todos publicamente e, em particular, que se
+castigasse quem tocasse mal, e que não se recusasse este ensinamento
+a ninguém, da mesma forma que hoje a justiça e as leis são
+ensinadas a todos sem reserva e sem mistério, diferentemente dos
+outros misteres -- porque nós nos prestamos serviços
+reciprocamente, imagino, por nosso respeito da justiça e da virtude,
+e é por isto que todos estamos sempre prontos a revelar e a ensinar
+a justiça e as leis -- bem, nestas condições, a supor que
+tivéssemos o empenho mais vivo de aprender e de ensinar uns aos
+outros a arte de tocar flauta, crês, por acaso, Sócrates, disse-me
+ele, que se veria frequentemente os filhos de bons flautistas levarem
+vantagem sobre os dos maus?
 
-Quanto a mim não estou convencido, mas penso que aquele que tivesse 
-filho melhor dotado para a flauta vê-lo-ia distinguir-se, enquanto 
-que o filho mal dotado permaneceria obscuro; poderia acontecer, 
-frequentemente, que o filho do bom flautista se revelasse medíocre e 
-que o do medíocre viesse a ser bom flautista; mas, enfim, todos, 
-indistintamente, teriam qualquer valor em comparação aos profanos e 
+Quanto a mim não estou convencido, mas penso que aquele que tivesse
+filho melhor dotado para a flauta vê-lo-ia distinguir-se, enquanto
+que o filho mal dotado permaneceria obscuro; poderia acontecer,
+frequentemente, que o filho do bom flautista se revelasse medíocre e
+que o do medíocre viesse a ser bom flautista; mas, enfim, todos,
+indistintamente, teriam qualquer valor em comparação aos profanos e
 aos que são absolutamente ignorantes na arte de tocar flauta.
 
-Pensa desta forma, que hoje o homem que te parece o mais justo numa 
-sociedade submetida às leis seria um justo e um artista nesta 
-matéria, se o fôssemos comparar aos homens que não tiveram nem 
-educação, nem tribunais, nem leis, nem constrangimento de qualquer 
-espécie para forçá-los alguma vez a tomar cuidado da virtude, 
-homens que fossem verdadeiros selvagens (...) Todo o mundo ensina a 
-virtude na proporção do melhor que possa; e te parece que não há 
-ninguém que a possa ensinar; é como se procurasses o mestre que nos 
-ensinou a falar grego: tu não encontrarias; e não te sairias 
-melhor, imagino, se procurasses qual mestre poderia ensinar aos 
-filhos de nossos artesãos o trabalho de seu pai, quando se sabe que 
-eles aprenderam este mister do próprio pai, na medida em que este 
-lhe podia ter ensinado, e seus amigos ocupados no mesmo trabalho, de 
-maneira que eles não têm necessidade de um outro mestre. Segundo 
-meu ponto de vista, não é fácil, Sócrates, indicar um mestre para 
-eles, enquanto seria facílimo para pessoas alheias a toda 
-experiência; assim, também, da moralidade e de qualquer outra 
-qualidade análoga. É o que acontece com a virtude e tudo o mais: 
-por pouco que um homem supere os outros na arte de nos conduzir para 
+Pensa desta forma, que hoje o homem que te parece o mais justo numa
+sociedade submetida às leis seria um justo e um artista nesta
+matéria, se o fôssemos comparar aos homens que não tiveram nem
+educação, nem tribunais, nem leis, nem constrangimento de qualquer
+espécie para forçá-los alguma vez a tomar cuidado da virtude,
+homens que fossem verdadeiros selvagens (...) Todo o mundo ensina a
+virtude na proporção do melhor que possa; e te parece que não há
+ninguém que a possa ensinar; é como se procurasses o mestre que nos
+ensinou a falar grego: tu não encontrarias; e não te sairias
+melhor, imagino, se procurasses qual mestre poderia ensinar aos
+filhos de nossos artesãos o trabalho de seu pai, quando se sabe que
+eles aprenderam este mister do próprio pai, na medida em que este
+lhe podia ter ensinado, e seus amigos ocupados no mesmo trabalho, de
+maneira que eles não têm necessidade de um outro mestre. Segundo
+meu ponto de vista, não é fácil, Sócrates, indicar um mestre para
+eles, enquanto seria facílimo para pessoas alheias a toda
+experiência; assim, também, da moralidade e de qualquer outra
+qualidade análoga. É o que acontece com a virtude e tudo o mais:
+por pouco que um homem supere os outros na arte de nos conduzir para
 ela, devemos nos declarar satisfeitos.
 
-Creio ser um destes, e poder melhor que qualquer outro prestar o 
-serviço de tornar os homens perfeitamente educados, e merecer, por 
-isto, o salário que peço, ou mais ainda, segundo a vontade de meus 
-discípulos. Assim eu estabeleci da seguinte maneira a 
-regulamentação do meu salário: quando um discípulo acabou de 
-receber minhas lições, ele me paga o preço pedido por mim, caso 
-ele o deseje fazer; do contrário, ele declara num templo, sob a fé 
-dum juramento, o preço que acha justo ao meu ensinamento, e não me 
+Creio ser um destes, e poder melhor que qualquer outro prestar o
+serviço de tornar os homens perfeitamente educados, e merecer, por
+isto, o salário que peço, ou mais ainda, segundo a vontade de meus
+discípulos. Assim eu estabeleci da seguinte maneira a
+regulamentação do meu salário: quando um discípulo acabou de
+receber minhas lições, ele me paga o preço pedido por mim, caso
+ele o deseje fazer; do contrário, ele declara num templo, sob a fé
+dum juramento, o preço que acha justo ao meu ensinamento, e não me
 dará mais nada além.
 
-Eis aí, Sócrates, o mito e o discurso, segundo os quais eu desejei 
-demonstrar que a virtude podia ser ensinada e que tal era a opinião 
-dos atenienses, e que , por outro lado, não era de nenhuma maneira 
-estranho que um homem virtuoso tivesse filhos medíocres ou que um 
-pai medíocre tivesse filhos virtuosos: não vemos que os filhos de 
-Policleto, que têm a mesma idade que Xantipo e Paralos aqui 
-presentes, não estão à altura de seu pai, e que a mesma coisa 
-acontece para muitos filhos de artistas? Quanto a estes jovens, não 
-devemos apressar-nos em condená-los; ainda não deram tudo quanto 
+Eis aí, Sócrates, o mito e o discurso, segundo os quais eu desejei
+demonstrar que a virtude podia ser ensinada e que tal era a opinião
+dos atenienses, e que , por outro lado, não era de nenhuma maneira
+estranho que um homem virtuoso tivesse filhos medíocres ou que um
+pai medíocre tivesse filhos virtuosos: não vemos que os filhos de
+Policleto, que têm a mesma idade que Xantipo e Paralos aqui
+presentes, não estão à altura de seu pai, e que a mesma coisa
+acontece para muitos filhos de artistas? Quanto a estes jovens, não
+devemos apressar-nos em condená-los; ainda não deram tudo quanto
 prometem, porque são jovens.
 
 ****
@@ -195,8 +214,8 @@ ____
 
 [frame="none"]
 |====
-^| Fonte: PLATÃO, Protágora. São Paulo, Maltes. <<"GADOTTI93","GADOTTI, Moacir">>. 
-História das Idéias Pedagógicas. São Paulo, Ática, 1993 
+^| Fonte: PLATÃO, Protágora. São Paulo, Maltes. <<"GADOTTI93","GADOTTI, Moacir">>.
+História das Idéias Pedagógicas. São Paulo, Ática, 1993
 
 |====
 
@@ -205,168 +224,167 @@ ____
 
 // FIXME #16 Deveria ser uma nova seção aqui
 
-Na Idade Média Santo Agostinho revive o método indutivo e adota a 
-introspecção para o registro de suas experiências mentais. Santo 
-Tomás de Aquino distingue verdades científicas (pautadas na 
-pesquisa e experimentação) e verdades religiosas (fundadas na 
-autoridade divina). Concebia a atividade de quem aprende como agente 
-essencial da aprendizagem, considerando o processo de aprendizagem: 
-inteligente, dinâmico e auto-ativo. Juan Luis Vives também adotou o 
-método indutivo no desenvolvimento do pensamento filosófico e 
-psicológico. Porém, na Idade Média a educação era essencialmente 
-teológica e teórica. Portanto, pensadores como os dois últimos 
+Na Idade Média Santo Agostinho revive o método indutivo e adota a
+introspecção para o registro de suas experiências mentais. Santo
+Tomás de Aquino distingue verdades científicas (pautadas na
+pesquisa e experimentação) e verdades religiosas (fundadas na
+autoridade divina). Concebia a atividade de quem aprende como agente
+essencial da aprendizagem, considerando o processo de aprendizagem:
+inteligente, dinâmico e auto-ativo. Juan Luis Vives também adotou o
+método indutivo no desenvolvimento do pensamento filosófico e
+psicológico. Porém, na Idade Média a educação era essencialmente
+teológica e teórica. Portanto, pensadores como os dois últimos
 aqui citados não encontraram eco para suas ideias.
 
-A ciência moderna teve em seus precursores Copérnico, Bacon, 
-Galileu, Descartes, Locke, dentre outros, o uso do método indutivo 
-aristotélico, sistematizando a observação, experimentação, 
-quantificação e classificação dos fenômenos. Locke adotando o 
-princípio aristotélico e rejeitando a preexistência das ideias 
-influencia a compreensão psicológica da educação na Inglaterra, 
-Alemanha e Estados Unidos da América do Norte. Esse teórico foi 
-ponto de partida para trabalhos de Comenius, Frobel e Pestalozzi. 
-Contudo, é pelas mãos de Herbart que suas ideias são 
-sistematizadas. 
+A ciência moderna teve em seus precursores Copérnico, Bacon,
+Galileu, Descartes, Locke, dentre outros, o uso do método indutivo
+aristotélico, sistematizando a observação, experimentação,
+quantificação e classificação dos fenômenos. Locke adotando o
+princípio aristotélico e rejeitando a preexistência das ideias
+influencia a compreensão psicológica da educação na Inglaterra,
+Alemanha e Estados Unidos da América do Norte. Esse teórico foi
+ponto de partida para trabalhos de Comenius, Frobel e Pestalozzi.
+Contudo, é pelas mãos de Herbart que suas ideias são
+sistematizadas.
 
-Lloyd Morgan formulou a teoria do ensaio-e-erro que teve grande 
-impacto nas teorias modernas de aprendizagem por colocar a 
+Lloyd Morgan formulou a teoria do ensaio-e-erro que teve grande
+impacto nas teorias modernas de aprendizagem por colocar a
 ação/comportamentos como base.
 
-As teorias da aprendizagem que fundamentam os meios educacionais se 
-estabeleceram a partir das contribuições dos criadores da 
-psicologia pedagógica moderna Herbart, Binet, Dewey, Thorndike, 
-Claparede, Piaget e Vygotsky, dos reflexologistas Pavlov e Bechterev, 
-dos behavioristas como Watson e Lashley, dos gestaltistas Koffka, 
-Kohler e Wertheimer. O estudo dos fatos da aprendizagem também 
-recebeu contribuições de K Lewin. As teorias contemporâneas da 
-aprendizagem se constituem, também, a partir do pensamento 
-psicanalítico de Freud, Adler, Jung, Fromm e do pensamento da 
-fenomenologia de Husserl, Scheler e Merleau Ponty e do 
-existencialismo de Heidegger, Jaspers e Sartre. Assim, podemos 
-compreender que a construção conceitual da Psicologia e a 
-fundamentação que oferece à educação constitui rico arsenal 
-teórico que vem se configurando da Grécia antiga até os nossos 
-dias e que muito há para aprendermos e nos instrumentalizar para um 
-fazer pedagógico bem fundamentado que atenda às necessidades das 
+As teorias da aprendizagem que fundamentam os meios educacionais se
+estabeleceram a partir das contribuições dos criadores da
+psicologia pedagógica moderna Herbart, Binet, Dewey, Thorndike,
+Claparede, Piaget e Vygotsky, dos reflexologistas Pavlov e Bechterev,
+dos behavioristas como Watson e Lashley, dos gestaltistas Koffka,
+Kohler e Wertheimer. O estudo dos fatos da aprendizagem também
+recebeu contribuições de K Lewin. As teorias contemporâneas da
+aprendizagem se constituem, também, a partir do pensamento
+psicanalítico de Freud, Adler, Jung, Fromm e do pensamento da
+fenomenologia de Husserl, Scheler e Merleau Ponty e do
+existencialismo de Heidegger, Jaspers e Sartre. Assim, podemos
+compreender que a construção conceitual da Psicologia e a
+fundamentação que oferece à educação constitui rico arsenal
+teórico que vem se configurando da Grécia antiga até os nossos
+dias e que muito há para aprendermos e nos instrumentalizar para um
+fazer pedagógico bem fundamentado que atenda às necessidades das
 pessoas que precisam de mediadores, da aprendizagem, competentes.
 
 === Conceito e características da aprendizagem
 
-Encontramos na literatura ampla diversidade de conceitos e 
-definições de aprendizagem, decorrentes da diversidade de 
-perspectivas teóricas e cada uma delas apresenta posições 
-filosófico-epistemológicas próprias para analisar o fenômeno 
-humano. As posições teóricas que dispomos na psicologia e demais 
-ciências humanas são lastreadas por visões de homem e de mundo 
-constituídas a partir de posições político-teóricas. Dessa forma 
-é necessário reconhecermos que a visão que temos acerca de 
-qualquer fenômeno humano, e aqui nos referimos à aprendizagem e 
-prática docente, manifesta postura acadêmica e revela a 
-fundamentação filosófica-teórica. Portanto, o educador precisa 
-ter formação consistente e coerente na dimensão pedagógica, 
+Encontramos na literatura ampla diversidade de conceitos e
+definições de aprendizagem, decorrentes da diversidade de
+perspectivas teóricas e cada uma delas apresenta posições
+filosófico-epistemológicas próprias para analisar o fenômeno
+humano. As posições teóricas que dispomos na psicologia e demais
+ciências humanas são lastreadas por visões de homem e de mundo
+constituídas a partir de posições político-teóricas. Dessa forma
+é necessário reconhecermos que a visão que temos acerca de
+qualquer fenômeno humano, e aqui nos referimos à aprendizagem e
+prática docente, manifesta postura acadêmica e revela a
+fundamentação filosófica-teórica. Portanto, o educador precisa
+ter formação consistente e coerente na dimensão pedagógica,
 condição imprescindível para uma prática docente bem sucedida.
 
-Em função da diversidade de conceitos e definições de 
-aprendizagem abordaremos duas correntes: Teorias do Condicionamento e 
-Teorias Cognitivistas. Tradicionalmente esses são os conjuntos de 
-teorias mais aplicados à Psicologia da aprendizagem. Contribuem para 
-reflexões que precisamos desenvolver com vistas à construção dos 
-fundamentos psicológicos da educação, imprescindíveis à pratica 
-docente eficaz. 
+Em função da diversidade de conceitos e definições de
+aprendizagem abordaremos duas correntes: Teorias do Condicionamento e
+Teorias Cognitivistas. Tradicionalmente esses são os conjuntos de
+teorias mais aplicados à Psicologia da aprendizagem. Contribuem para
+reflexões que precisamos desenvolver com vistas à construção dos
+fundamentos psicológicos da educação, imprescindíveis à pratica
+docente eficaz.
 
 ==== Teorias do Condicionamento
 
-Nessas teorias temos contribuições definidoras da aprendizagem como 
-consequências comportamentais, em que as condições ambientais são 
-forças propulsoras. Nessa visão aprendizagem se dar por uma 
-conexão entre estímulo e resposta tornando os comportamentos 
-aprendidos, hábitos adquiridos pela prática. A transferência da 
-aprendizagem, possibilitadora de resoluções de novas situações, 
-é atingida pela evocação de hábitos passados que se apresentam 
+Nessas teorias temos contribuições definidoras da aprendizagem como
+consequências comportamentais, em que as condições ambientais são
+forças propulsoras, em que a aprendizagem se dar por uma
+conexão entre estímulo e resposta tornando os comportamentos
+aprendidos, hábitos adquiridos pela prática. A transferência da
+aprendizagem, possibilitadora de resoluções de novas situações,
+é atingida pela evocação de hábitos passados que se apresentam
 como adequado para solução de novos problemas.
 
 ==== Teorias Cognitivistas
 
 
-Nas teorias que compõem esse conjunto temos a aprendizagem entendida 
-como um processo de relação envolvendo sujeito e mundo externo, 
-numa perspectiva de interação. A aprendizagem é construída na 
-comunicação com o mundo e se acumula na forma de conteúdos 
-cognitivos. A construção dos conceitos ocorre por ação de uma 
-estrutura cognitiva que organiza informações e as integra mantendo 
-os conteúdos aprendidos por processos cognitivos como atenção e 
+Nas teorias que compõem esse conjunto temos a aprendizagem entendida
+como um processo de relação envolvendo sujeito e mundo externo,
+numa perspectiva de interação. A aprendizagem é construída na
+comunicação com o mundo e se acumula na forma de conteúdos
+cognitivos. A construção dos conceitos ocorre por ação de uma
+estrutura cognitiva que organiza informações e as integra mantendo
+os conteúdos aprendidos por processos cognitivos como atenção e
 memória.
 
-O processo de organização das informações e de integração dos 
-conteúdos à estrutura cognitiva é o que os cognitivistas 
-consideram aprendizagem. Esse grupo de teorias enfatiza a diferença 
-entre aprendizagem mecânica e aprendizagem significativa. A primeira 
-entendida como a que se realiza com pouca ou nenhuma associação com 
-conceitos disponíveis na estrutura cognitiva. A segunda ocorre 
-quando uma nova informação articula-se com ``pontos de ancoragem 
-para aprendizagem'' -- termo utilizado pelos cognitivistas com o 
-sentido de conceitos existentes e disponíveis à articulação com 
+O processo de organização das informações e de integração dos
+conteúdos à estrutura cognitiva é o que os cognitivistas
+consideram aprendizagem. Esse grupo de teorias enfatiza a diferença
+entre aprendizagem mecânica e aprendizagem significativa. A primeira
+entendida como a que se realiza com pouca ou nenhuma associação com
+conceitos disponíveis na estrutura cognitiva. A segunda ocorre
+quando uma nova informação articula-se com ``pontos de ancoragem
+para aprendizagem'' -- termo utilizado pelos cognitivistas com o
+sentido de conceitos existentes e disponíveis à articulação com
 novos conteúdos para constituição de aprendizagens.
 
 === Características da Aprendizagem
 
-A partir da contribuição de várias teorias consideramos que a 
-aprendizagem é um processo dinâmico, contínuo, global, pessoal, 
+A partir da contribuição de várias teorias consideramos que a
+aprendizagem é um processo dinâmico, contínuo, global, pessoal,
 gradativo e cumulativo:
 
-Processo dinâmico:: Por realizar-se somente com a atividade do ser 
-aprendente. A aprendizagem não é um processo de absorção passiva, 
-carece de atividade tanto externa (física) quanto interna 
+Processo dinâmico:: Por realizar-se somente com a atividade do ser
+aprendente. A aprendizagem não é um processo de absorção passiva,
+carece de atividade tanto externa (física) quanto interna
 (afetivo-emocional, intelectual e social).
 
-Processo contínuo:: Porque está presente na vida do ser em todas as 
-fases da vida: no início da vida, na infância, adolescência, idade 
+Processo contínuo:: Porque está presente na vida do ser em todas as
+fases da vida: no início da vida, na infância, adolescência, idade
 adulta e no envelhecimento.
 
-Processo global:: Por envolver todos os aspectos constitutivos da 
-personalidade do ser no ato de aprender. 
+Processo global:: Por envolver todos os aspectos constitutivos da
+personalidade do ser no ato de aprender.
 
-Processo pessoal:: Visto que a aprendizagem é intransferível de 
-pessoa para pessoa apesar da escola, movida por concepções antigas, 
-ter acreditado que os professores ao ensinar os conteúdos de suas 
-aulas levavam os alunos à aprenderem. 
+Processo pessoal:: Visto que a aprendizagem é intransferível de
+pessoa para pessoa apesar da escola, movida por concepções antigas,
+ter acreditado que os professores ao ensinar os conteúdos de suas
+aulas levavam os alunos à aprenderem.
 
-Processo gradativo:: Por se realizar por meio de operações 
-crescentemente complexas. A cada aprendizagem novos elementos são 
-acrescidos às experiências anteriores (pontos de ancoragem) em 
-dimensão gradativa e ascendente. 
+Processo gradativo:: Por se realizar por meio de operações
+crescentemente complexas. A cada aprendizagem novos elementos são
+acrescidos às experiências anteriores (pontos de ancoragem) em
+dimensão gradativa e ascendente.
 
-Processo cumulativo:: Visto que a experiência de aprendizagem atual 
+Processo cumulativo:: Visto que a experiência de aprendizagem atual
 utiliza-se das experiências anteriores.
 
 
 === Análise e reflexão
 
-Dialogando acerca das diversas teorias da Aprendizagem e 
-Desenvolvimento discutidas da Grécia até os dias de hoje... 
+Dialogando acerca das diversas teorias da Aprendizagem e
+Desenvolvimento discutidas da Grécia até os dias de hoje...
 
-Estudamos até aqui, as diversas visões, desde os filósofos até os 
-principais teóricos da psicologia e educação. Cada um com uma 
-visão dos processos de desenvolvimento e aprendizagem, uns defendem 
-ou defendiam que o desenvolvimento humano depende, exclusivamente, do 
-amadurecimento das estruturas mentais e do desenvolvimento 
-fisiológico, outros vêm na herança genética a explicação para 
-alguns comportamentos, ou seja, percebem o desenvolvimento cognitivo 
-como inato,  a partir de um código genético. Outros teóricos 
-acreditam que o ambiente é quem molda os nossos comportamentos. 
+Estudamos até aqui, as diversas visões, desde os filósofos até os
+principais teóricos da psicologia e educação. Cada um com uma
+visão dos processos de desenvolvimento e aprendizagem, uns defendem
+ou defendiam que o desenvolvimento humano depende, exclusivamente, do
+amadurecimento das estruturas mentais e do desenvolvimento
+fisiológico, outros vêm na herança genética a explicação para
+alguns comportamentos, ou seja, percebem o desenvolvimento cognitivo
+como inato,  a partir de um código genético. Outros teóricos
+acreditam que o ambiente é quem molda os nossos comportamentos.
 
-Neste capítulo trouxemos uma reflexão socrática, das Protágoras 
-de Platão, que traz uma reflexão sobre o que é aprendido e o que 
+Neste capítulo trouxemos uma reflexão socrática, das Protágoras
+de Platão, que traz uma reflexão sobre o que é aprendido e o que
 pode ser ensinado...
 
 ****
 // #10 Acho que outras atividades poderiam ser elaboradas para auxiliar na auto-avaliação do aluno.
 
-Faça, então, uma reflexão, junto a esses filósofos da 
-educação grega, em seguida, procure, dentre as teorias discutidas 
-por nós acerca do desenvolvimento e aprendizagem, em seguida, se 
-posicione diante de qual teoria seria a mais viável para os processo 
-educacionais que envolve o ensino aprendizagem das tecnologias na 
+Faça uma reflexão, a partir da contribuição dos filósofos da
+educação grega, e das teorias do desenvolvimento e aprendizagem. Em seguida, se
+posicione diante de qual teoria seria a mais viável para os processos
+educacionais que envolvem o ensino aprendizagem das tecnologias na
 atualidade.
 
 // Explicar melhor como o aluno poderia fazer isto.
@@ -375,13 +393,13 @@ atualidade.
 === Material complementar
 
 ****
-Esse espaço será utilizado para refletir dois textos 
-ilustrativos que muito tem a contribuir com a formação do educador: 
+Esse espaço será utilizado para refletir dois textos
+ilustrativos que muito tem a contribuir com a formação do educador:
 
-* O primeiro é um texto com título: *Duas espécies de aprendizagem, 
-do livro Liberdade para aprender*, do psicólogo humanista Carl Rogers. 
+* O primeiro é um texto com título: *Duas espécies de aprendizagem,
+do livro Liberdade para aprender*, do psicólogo humanista Carl Rogers.
 
-* O segundo é um _resumo_ do livro escrito por Maria Cristina Kupfer 
+* O segundo é um _resumo_ do livro escrito por Maria Cristina Kupfer
 intitulado *Freud e a educação: o mestre do impossível*.
 
 ****
@@ -392,256 +410,256 @@ ____
 ROGERS, Carl R. Liberdade para aprender. Belo Horizonte, Interlivros, 1978. p. 4-5.
 ____
 
-A aprendizagem, creio, pode ser dividida em duas espécies gerais, 
-dentro da mesma continuidade de significação, num extremo da escola 
-está à espécie de tarefa que os psicólogos algumas vezes impõem 
-a seus clientes -- a aprendizagem de sílabas sem sentido. Guardar de 
-memória certos itens como baz, ent, nep, arl, lud e outros de igual 
-teor é tarefa difícil. Porque não há significado algum aí, 
-aprender tais sílabas não é fácil e, se aprendidas, são logo 
+A aprendizagem, creio, pode ser dividida em duas espécies gerais,
+dentro da mesma continuidade de significação, num extremo da escola
+está à espécie de tarefa que os psicólogos algumas vezes impõem
+a seus clientes -- a aprendizagem de sílabas sem sentido. Guardar de
+memória certos itens como baz, ent, nep, arl, lud e outros de igual
+teor é tarefa difícil. Porque não há significado algum aí,
+aprender tais sílabas não é fácil e, se aprendidas, são logo
 esquecidas.
 
-Com frequência nos negamos a reconhecer que muito do material 
-apresentado aos estudantes em salas de aula tem, para eles, a mesma 
-qualidade desconcertante e destituída de significado que tem para 
-nós a lista de sílabas sem sentido. Isto é verdade, sobretudo para 
-a criança pouco privilegiada, a quem uma experiência anterior não 
-oferece contexto algum dentro do qual se insira o material com que se 
-defronta. Mas quase todo estudante descobre que extensas porções do 
-seu currículo não têm, a seu ver, o menor significado. Assim, a 
-educação se transforma na frustrada tentativa de aprender matérias 
-sem qualquer significação pessoal. Tal aprendizagem lida apenas com 
-cérebro. Só se coloca ``do pescoço para cima''. Não envolve 
-sentimentos ou significados pessoais; não tem a mínima relevância 
+Com frequência nos negamos a reconhecer que muito do material
+apresentado aos estudantes em salas de aula tem, para eles, a mesma
+qualidade desconcertante e destituída de significado que tem para
+nós a lista de sílabas sem sentido. Isto é verdade, sobretudo para
+a criança pouco privilegiada, a quem uma experiência anterior não
+oferece contexto algum dentro do qual se insira o material com que se
+defronta. Mas quase todo estudante descobre que extensas porções do
+seu currículo não têm, a seu ver, o menor significado. Assim, a
+educação se transforma na frustrada tentativa de aprender matérias
+sem qualquer significação pessoal. Tal aprendizagem lida apenas com
+cérebro. Só se coloca ``do pescoço para cima''. Não envolve
+sentimentos ou significados pessoais; não tem a mínima relevância
 para a pessoa como um todo.
 
-Em contraste, há algo significante, pleno de sentido -- a 
-aprendizagem experiencial. Quando a criança que está aprendendo a 
-andar toca no aquecedor, aprenda a si mesma o significado de uma 
-palavra ``quente''; percebe a necessidade de ter certos cuidados em 
-relação a objetos semelhantes, no futuro; e sua aprendizagem é 
-feita de modo tão significativo, que dela não se esquecerá. 
-Também a criança que guarda de memória ``dois mais dois igual a 
-quatro'' pode, um dia, ao brincar com seus toquinhos ou com suas 
-bolas de gude, compreender, subitamente, que ``dois devem fazer 
-quatro''. Descobriu algo que, para ela, tem significado, de um modo 
-que envolve, ao mesmo tempo, o seu pensar e o seu sentir. Ou a 
-criança que, laboriosamente, adquiriu a ``habilidade de ler'' pode 
--- se ver encantada, um dia, com uma história ilustrada, seja um 
-livro cômico ou um conto de aventuras, e se capacita de que as 
-palavras têm um poder mágico que põe fora de si mesma, dentro de 
+Em contraste, há algo significante, pleno de sentido -- a
+aprendizagem experiencial. Quando a criança que está aprendendo a
+andar toca no aquecedor, aprenda a si mesma o significado de uma
+palavra ``quente''; percebe a necessidade de ter certos cuidados em
+relação a objetos semelhantes, no futuro; e sua aprendizagem é
+feita de modo tão significativo, que dela não se esquecerá.
+Também a criança que guarda de memória ``dois mais dois igual a
+quatro'' pode, um dia, ao brincar com seus toquinhos ou com suas
+bolas de gude, compreender, subitamente, que ``dois devem fazer
+quatro''. Descobriu algo que, para ela, tem significado, de um modo
+que envolve, ao mesmo tempo, o seu pensar e o seu sentir. Ou a
+criança que, laboriosamente, adquiriu a ``habilidade de ler'' pode
+-- se ver encantada, um dia, com uma história ilustrada, seja um
+livro cômico ou um conto de aventuras, e se capacita de que as
+palavras têm um poder mágico que põe fora de si mesma, dentro de
 outro mundo. Só então, aprendeu realmente a ler.
 
-Marshall Mcluhan dá-nos outro exemplo. Acentua ele que se uma 
-criança de cinco anos é levada a um país estrangeiro, e se lhe é 
-permitido brincar, livremente, durante horas, com seus novos 
-companheiros, sem nenhuma instrução prévia sobre a língua que 
-eles falam, aprendê-la-á em poucos meses e adquirirá até mesmo a 
-entonação sentido para ela, e tal aprendizagem se processa em 
-espaço de tempo relativamente curto. Mas se alguém tentar 
-instrui-la na nova língua, baseada essa instrução nos elementos 
-que têm significado para o professor, a aprendizagem será 
+Marshall Mcluhan dá-nos outro exemplo. Acentua ele que se uma
+criança de cinco anos é levada a um país estrangeiro, e se lhe é
+permitido brincar, livremente, durante horas, com seus novos
+companheiros, sem nenhuma instrução prévia sobre a língua que
+eles falam, aprendê-la-á em poucos meses e adquirirá até mesmo a
+entonação sentido para ela, e tal aprendizagem se processa em
+espaço de tempo relativamente curto. Mas se alguém tentar
+instrui-la na nova língua, baseada essa instrução nos elementos
+que têm significado para o professor, a aprendizagem será
 tremendamente lenta ou simplesmente não se fará.
 
-Esse exemplo, fundado em fato comum, merece ser bem ponderado. Por 
-que é que a criança, deixada a si mesma, aprende rapidamente, de 
-forma que não se esquecerá tão cedo e por um meio que tem 
-significado eminentemente prático para ela? E por que tudo se 
-poderia deteriorar se fosse ``ensinada'' de maneira a só envolver a 
-sua inteligência? Talvez um exame mais aprofundado nos ajude a 
+Esse exemplo, fundado em fato comum, merece ser bem ponderado. Por
+que é que a criança, deixada a si mesma, aprende rapidamente, de
+forma que não se esquecerá tão cedo e por um meio que tem
+significado eminentemente prático para ela? E por que tudo se
+poderia deteriorar se fosse ``ensinada'' de maneira a só envolver a
+sua inteligência? Talvez um exame mais aprofundado nos ajude a
 responder.
 
-Definamos, com um pouco mais de precisão, os elementos envolvidos em 
-tal aprendizagem significativa ou experiencial. Ela tem a qualidade 
-de um envolvimento pessoal: a pessoa como um todo, tanto sob o 
-aspecto sensível quanto sob o aspecto cognitivo, inclui-se no fato 
-de aprendizagem. Ela é auto iniciada; mesmo quando o primeiro 
-impulso ou o estímulo vem de fora, o senso da descoberta, do 
-alcançar, do captar e do compreender vem de dentro. É penetrante: 
-suscita modificação no comportamento, nas atitudes, talvez mesmo na 
-personalidade do educando: este sabe que se está indo ao encontro de 
-suas necessidades, em direção ao que quer saber se a aprendizagem 
-projeta luz sobre a sombria área de ignorância da qual tem ele 
-experiência. O lócus da avaliação pode-se dizer, reside no 
-educando. Significar é sua essência: quando se verifica a 
-aprendizagem, o elemento de significação desenvolve-se para o 
+Definamos, com um pouco mais de precisão, os elementos envolvidos em
+tal aprendizagem significativa ou experiencial. Ela tem a qualidade
+de um envolvimento pessoal: a pessoa como um todo, tanto sob o
+aspecto sensível quanto sob o aspecto cognitivo, inclui-se no fato
+de aprendizagem. Ela é auto iniciada; mesmo quando o primeiro
+impulso ou o estímulo vem de fora, o senso da descoberta, do
+alcançar, do captar e do compreender vem de dentro. É penetrante:
+suscita modificação no comportamento, nas atitudes, talvez mesmo na
+personalidade do educando: este sabe que se está indo ao encontro de
+suas necessidades, em direção ao que quer saber se a aprendizagem
+projeta luz sobre a sombria área de ignorância da qual tem ele
+experiência. O lócus da avaliação pode-se dizer, reside no
+educando. Significar é sua essência: quando se verifica a
+aprendizagem, o elemento de significação desenvolve-se para o
 educando dentro da sua própria experiência como um todo.
 
 ==== Texto 2: Freud e a Educação
 
 ____
-KUPFER, Maria Cristina. Freud e a educação. O mestre do 
+KUPFER, Maria Cristina. Freud e a educação. O mestre do
 impossível. São Paulo: Scipione, 1989.
 ____
 
-Freud acalentava o sonho de que um dia a psicanálise pudesse ser 
-colocada a serviço da sociedade como um todo e, principalmente, da 
-educação. E assim faz parte de uma coleção de pensadores que 
-reúne pensadores da educação. Seu modo de produzir teoria revelou 
-a preciosa relação que tinha com o ato de pensar. Foi um mestre da 
-Educação porque abriu caminho para a reflexão sobre o que é 
+Freud acalentava o sonho de que um dia a psicanálise pudesse ser
+colocada a serviço da sociedade como um todo e, principalmente, da
+educação. E assim faz parte de uma coleção de pensadores que
+reúne pensadores da educação. Seu modo de produzir teoria revelou
+a preciosa relação que tinha com o ato de pensar. Foi um mestre da
+Educação porque abriu caminho para a reflexão sobre o que é
 ensinar e o que é aprender.
 
-Por volta de 1908, ele julgava existir uma relação entre a 
-repressão sexual exercida pela vida social de sua época e o aumento 
-de neuroses. Se assim fosse, bastaria, a principio, propor à 
+Por volta de 1908, ele julgava existir uma relação entre a
+repressão sexual exercida pela vida social de sua época e o aumento
+de neuroses. Se assim fosse, bastaria, a principio, propor à
 sociedade práticas educativas não-repressivas e respeitadoras.
 
-No final de sua vida, Freud mudou de ideia. Para ele, a educação 
-sexual, as práticas educativas não repressivas, não garantem que a 
-neurose seja evitada. Contudo, sua filha Anna dedicou-se à pesquisa 
-das bases psicanalíticas para uma educação. Através de seus 
-livros, muitos professores entram em contato com aquilo que passou a 
+No final de sua vida, Freud mudou de ideia. Para ele, a educação
+sexual, as práticas educativas não repressivas, não garantem que a
+neurose seja evitada. Contudo, sua filha Anna dedicou-se à pesquisa
+das bases psicanalíticas para uma educação. Através de seus
+livros, muitos professores entram em contato com aquilo que passou a
 ser chamado de desenvolvimento afetivo das crianças.
 
-Hoje pouco resta dos reforços de Anna Freud. Basicamente, esse 
-conhecimento teórico revelou-se inoperante, ou seja, não se 
-converteu num instrumento útil ao educador. Atualmente, são muitos 
-os psicanalistas que negam a possibilidade de existir uma pedagogia 
+Hoje pouco resta dos reforços de Anna Freud. Basicamente, esse
+conhecimento teórico revelou-se inoperante, ou seja, não se
+converteu num instrumento útil ao educador. Atualmente, são muitos
+os psicanalistas que negam a possibilidade de existir uma pedagogia
 analítica, ou uma psicanálise aplicada à educação.
 
-O tema das relações entre a psicanálise e Educação, e da 
-complexidade da ``missão'' do educador pode ser refletido a partir 
-da seguinte afirmação de Freud: ``Vamos deixar claro para nós 
-mesmo qual a tarefa mais imediata da educação. A criança deve 
-aprender a dominar seus instintos. É impossível lhe dar liberdade 
-para seguir sem restrições a seus impulsos. Seria uma experiência 
-muito instrutiva para os psicólogos de crianças, mas os pais não 
-poderiam viver, e as crianças mesmas teriam grande prejuízo, de 
-imediato e com o passar do tempo. Logo, a Educação tem que inibir, 
+O tema das relações entre a psicanálise e Educação, e da
+complexidade da ``missão'' do educador pode ser refletido a partir
+da seguinte afirmação de Freud: ``Vamos deixar claro para nós
+mesmo qual a tarefa mais imediata da educação. A criança deve
+aprender a dominar seus instintos. É impossível lhe dar liberdade
+para seguir sem restrições a seus impulsos. Seria uma experiência
+muito instrutiva para os psicólogos de crianças, mas os pais não
+poderiam viver, e as crianças mesmas teriam grande prejuízo, de
+imediato e com o passar do tempo. Logo, a Educação tem que inibir,
 proibir, reprimir, e assim fez em todos os tempos''.
 
-Quando nasceu a Psicanálise, os educadores progressistas se 
-entusiasmaram com a possibilidade de uma nova pedagogia, que, 
-possuindo mais compreensão e concedendo mais liberdade à criança, 
-impedisse o surgimento das angustias e neuroses. Mas, logo se 
-percebeu que essa esperança era pouco realista. A ausência de 
-restrições e de orientações pode produzir delinquentes, em vez de 
-crianças saudáveis. As angustias são inevitáveis; mesmo a 
-infância mais feliz tem seu grão de angustia. Contudo a repressão 
-excessiva dos impulsos pode dar origem a distúrbios neuróticos. O 
-problema, portanto, é encontrar um equilíbrio entre proibição e 
-permissão. O rigor é algo necessário ao bom funcionamento 
+Quando nasceu a Psicanálise, os educadores progressistas se
+entusiasmaram com a possibilidade de uma nova pedagogia, que,
+possuindo mais compreensão e concedendo mais liberdade à criança,
+impedisse o surgimento das angustias e neuroses. Mas, logo se
+percebeu que essa esperança era pouco realista. A ausência de
+restrições e de orientações pode produzir delinquentes, em vez de
+crianças saudáveis. As angustias são inevitáveis; mesmo a
+infância mais feliz tem seu grão de angustia. Contudo a repressão
+excessiva dos impulsos pode dar origem a distúrbios neuróticos. O
+problema, portanto, é encontrar um equilíbrio entre proibição e
+permissão. O rigor é algo necessário ao bom funcionamento
 psíquico, nem por isso precisa ser excessivo.
 
-As descobertas acerca da sexualidade é um ponto de destaque na 
-teoria de Freud. Dentre outras coisas, defende que cada um dos 
-aspectos perversos, presentes na sexualidade infantil, os quais chama 
-de pulsões parciais -- pulsão oral, no caso do prazer de sucção; 
-anal, no caso da defecação; escópica, no caso do olhar. A pulsão 
-sexual é passível de se dirigir a outros fins que não os 
-propriamente sexuais: é passível de sublimação. Eis aí um ponto 
-que interessa muito ao educador, pois a educação tem um papel 
+As descobertas acerca da sexualidade é um ponto de destaque na
+teoria de Freud. Dentre outras coisas, defende que cada um dos
+aspectos perversos, presentes na sexualidade infantil, os quais chama
+de pulsões parciais -- pulsão oral, no caso do prazer de sucção;
+anal, no caso da defecação; escópica, no caso do olhar. A pulsão
+sexual é passível de se dirigir a outros fins que não os
+propriamente sexuais: é passível de sublimação. Eis aí um ponto
+que interessa muito ao educador, pois a educação tem um papel
 primordial no processo de sublimação.
 
-Uma pulsão é dita sublimada quando deriva para um alvo não-sexual. 
-Além disso, visa objetos socialmente valorizados. Segundo Freud, há 
-uma espécie de excesso libidinal, algo como uma reserva, que não é 
-usada para fins diretamente sexuais e deve ser, então, de alguma 
-maneira reaproveitada. Haveria, por isso, a possibilidade de certa 
-reciclagem dessa energia, através da ``dessexualização'' do objeto 
-e da inibição de seu fim sexual. Com isso, torna-se possível que o 
-individuo se volte para atividades ``espiritualmente elevadas'', 
-segundo a expressão usada por Freud. São elas a produção 
-cientifica, artística, e todas aquelas que promovem um aumento no 
-bem-estar e da qualidade de vida dos homens. O interessante a ser 
-observado, nesse aspecto das ideias desse estudioso, é o fato de 
-tais atividades serem impulsionadas pela libido, embora o objeto 
-visado não seja sexual. Mas devido a presença da libido, o objeto 
-visado adquire um ``colorido eterno'', a ânsia sexual ainda se faz 
-presente, só que de modo mais brando, transformada em algo terno ou 
+Uma pulsão é dita sublimada quando deriva para um alvo não-sexual.
+Além disso, visa objetos socialmente valorizados. Segundo Freud, há
+uma espécie de excesso libidinal, algo como uma reserva, que não é
+usada para fins diretamente sexuais e deve ser, então, de alguma
+maneira reaproveitada. Haveria, por isso, a possibilidade de certa
+reciclagem dessa energia, através da ``dessexualização'' do objeto
+e da inibição de seu fim sexual. Com isso, torna-se possível que o
+individuo se volte para atividades ``espiritualmente elevadas'',
+segundo a expressão usada por Freud. São elas a produção
+cientifica, artística, e todas aquelas que promovem um aumento no
+bem-estar e da qualidade de vida dos homens. O interessante a ser
+observado, nesse aspecto das ideias desse estudioso, é o fato de
+tais atividades serem impulsionadas pela libido, embora o objeto
+visado não seja sexual. Mas devido a presença da libido, o objeto
+visado adquire um ``colorido eterno'', a ânsia sexual ainda se faz
+presente, só que de modo mais brando, transformada em algo terno ou
 simplesmente prazeroso.
 
-Freud defende que educador é aquele que busca para seu educando o 
-justo equilíbrio entre prazer individual -- vale dizer, o prazer 
-inerente à ação das pulsões -- e as necessidades sociais -- vale 
+Freud defende que educador é aquele que busca para seu educando o
+justo equilíbrio entre prazer individual -- vale dizer, o prazer
+inerente à ação das pulsões -- e as necessidades sociais -- vale
 dizer, a repressão e a sublimação dessas pulsões.
 
-O inconsciente, conceito importante da teoria desse estudioso, foi 
-entendido melhor através do estudo dos sintomas neuróticos, isto 
-porque, esses são vistos como manifestações do inconsciente. E aos 
-poucos, foi encontrando em outras formações psíquicas não 
-neuróticas a manifestações do inconsciente.  Essas outras 
-manifestações, ao lado dos sintomas, são os sonhos e os atos 
+O inconsciente, conceito importante da teoria desse estudioso, foi
+entendido melhor através do estudo dos sintomas neuróticos, isto
+porque, esses são vistos como manifestações do inconsciente. E aos
+poucos, foi encontrando em outras formações psíquicas não
+neuróticas a manifestações do inconsciente.  Essas outras
+manifestações, ao lado dos sintomas, são os sonhos e os atos
 falhos.
 
-Para os propósitos de um educador vale a pena concentrar a atenção 
-sobre os atos falhos. Esses são pequenas manifestações que emergem 
-em nossa fala, às quais se costuma dar muita importância. Veja por 
-exemplo o conferencista citado por Freud que, ao invés de iniciar a 
-conferencia com ``Boa noite'', começou dizendo ``Até logo''. Estes 
-pequenos episódios, longe de serem casuais, são significativos e 
-poderão ser esclarecidos, caso se proceda a uma analise de uma 
-ocorrência. O caso do conferencista é óbvio, ao contrário de 
-outros, que exigem uma análise mais minuciosa. Tudo indica que ele 
-não estava muito disposto a dar tal conferencia, e o ato falho 
-manifestou seu desejo de que ela já tivesse terminado, ao invés de 
+Para os propósitos de um educador vale a pena concentrar a atenção
+sobre os atos falhos. Esses são pequenas manifestações que emergem
+em nossa fala, às quais se costuma dar muita importância. Veja por
+exemplo o conferencista citado por Freud que, ao invés de iniciar a
+conferencia com ``Boa noite'', começou dizendo ``Até logo''. Estes
+pequenos episódios, longe de serem casuais, são significativos e
+poderão ser esclarecidos, caso se proceda a uma analise de uma
+ocorrência. O caso do conferencista é óbvio, ao contrário de
+outros, que exigem uma análise mais minuciosa. Tudo indica que ele
+não estava muito disposto a dar tal conferencia, e o ato falho
+manifestou seu desejo de que ela já tivesse terminado, ao invés de
 estar apenas começando.
 
-Através de atos falhos, diz Freud, um homem pode revelar seus mais 
-íntimos segredos, ``e se aparecem com facilidade e frequência 
-especiais em indivíduos sãos, que conseguirem realizar com êxito a 
-repressão de suas tendências inconsistentes, isto se deve à 
+Através de atos falhos, diz Freud, um homem pode revelar seus mais
+íntimos segredos, ``e se aparecem com facilidade e frequência
+especiais em indivíduos sãos, que conseguirem realizar com êxito a
+repressão de suas tendências inconsistentes, isto se deve à
 futilidade, à aparência insignificante com que surgem''.
 
-Todo individuo que abre a boca está comprometido com que diz num 
-limite que ultrapassa sua consciência. Alguém que fala pode 
-expressar muito mais do que está procurando dizer. Com essa 
-descoberta, a consciência foi desalojada da posição de comando que 
+Todo individuo que abre a boca está comprometido com que diz num
+limite que ultrapassa sua consciência. Alguém que fala pode
+expressar muito mais do que está procurando dizer. Com essa
+descoberta, a consciência foi desalojada da posição de comando que
 vinha ocupando até então na Filosofia.
 
-O que Freud nos apresenta é a ideia de que não somos ``senhores em 
-nossa própria casa'' e acrescenta mais ima ``ferida narcísica'' 
-àquelas anteriormente trazidas por Copérnico e por Darwin: a terra 
-não é o centro do sistema, o homem não é o centro da criação, 
-Agora, a consciência não é o centro de nosso psiquismo, não reina 
+O que Freud nos apresenta é a ideia de que não somos ``senhores em
+nossa própria casa'' e acrescenta mais ima ``ferida narcísica''
+àquelas anteriormente trazidas por Copérnico e por Darwin: a terra
+não é o centro do sistema, o homem não é o centro da criação,
+Agora, a consciência não é o centro de nosso psiquismo, não reina
 soberana sobre nossa vontade.
 
-As realidades do inconsciente e da pulsão de morte não casam bem 
-com os ideais de promoção de bem-estar e de felicidade próprios da 
-educação. Portanto, podemos perceber que do pensamento de Freud 
-emana uma filosofia educacional que leva em conta a dialética da 
-vida. A educação exerce seu poder através da palavra. Seus 
-esforços concentram-se na tentativa de estimular, pelo discurso à 
-consciência, os indivíduos a se conduzirem em uma direção por ela 
-própria determinada. Da palavra, essa disciplina extrai seu poder de 
-convencimento e de submissão do ouvinte a ela. A retórica, 
-entendida como instituição de leis orientadoras para a construção 
-de um discurso, não aspira senão ao aumento desse poder de 
+As realidades do inconsciente e da pulsão de morte não casam bem
+com os ideais de promoção de bem-estar e de felicidade próprios da
+educação. Portanto, podemos perceber que do pensamento de Freud
+emana uma filosofia educacional que leva em conta a dialética da
+vida. A educação exerce seu poder através da palavra. Seus
+esforços concentram-se na tentativa de estimular, pelo discurso à
+consciência, os indivíduos a se conduzirem em uma direção por ela
+própria determinada. Da palavra, essa disciplina extrai seu poder de
+convencimento e de submissão do ouvinte a ela. A retórica,
+entendida como instituição de leis orientadoras para a construção
+de um discurso, não aspira senão ao aumento desse poder de
 convencimento, característico da palavra.
 
-A realidade do inconsciente nos ensina, como já foi dito, que a 
-palavra escapa ao falante. Ao falar, um político ou um educador 
-estará também fadado a se perder, a revelar-se, a ir em direção 
-contrária àquela que seu eu havia determinado. A palavra com a qual 
-esperava submeter acaba, na verdade, por submetê-lo à realidade de 
-seu próprio desejo inconsciente. Aí está o paradoxo. A palavra 
-ensina a psicanálise, é ao mesmo tempo lugar de poder e submissão; 
-de força e de fraqueza; de controle e de descontrole. Como então 
-construir um edifício educacional sobre uma base paradoxal, 
+A realidade do inconsciente nos ensina, como já foi dito, que a
+palavra escapa ao falante. Ao falar, um político ou um educador
+estará também fadado a se perder, a revelar-se, a ir em direção
+contrária àquela que seu eu havia determinado. A palavra com a qual
+esperava submeter acaba, na verdade, por submetê-lo à realidade de
+seu próprio desejo inconsciente. Aí está o paradoxo. A palavra
+ensina a psicanálise, é ao mesmo tempo lugar de poder e submissão;
+de força e de fraqueza; de controle e de descontrole. Como então
+construir um edifício educacional sobre uma base paradoxal,
 incoerente?
 
-As ideias de Freud sobre Educação, inspiradas pela psicanálise, 
-são de certa forma, por ele ``desditas'' ou questionadas. O educador 
-deve promover a sublimação, mas a sublimação não se promove, por 
-ser inconsciente. Deve-se ilustrar esclarecer às crianças a 
-respeito da sexualidade, se bem que elas não irão dar ouvidos. O 
-educador deve se reconciliar com a criança que há dentro dele, mas 
-é uma pena que ele tenha se esquecido de como era mesmo essa 
-criança! Conclusão: a Educação é uma profissão impossível. 
-Impossível não é sinônimo de irrealizável, mas indica 
-principalmente a ideia de algo que não pode ser jamais integralmente 
-alcançado: o domínio, a direção e o controle que estão na base 
+As ideias de Freud sobre Educação, inspiradas pela psicanálise,
+são de certa forma, por ele ``desditas'' ou questionadas. O educador
+deve promover a sublimação, mas a sublimação não se promove, por
+ser inconsciente. Deve-se ilustrar esclarecer às crianças a
+respeito da sexualidade, se bem que elas não irão dar ouvidos. O
+educador deve se reconciliar com a criança que há dentro dele, mas
+é uma pena que ele tenha se esquecido de como era mesmo essa
+criança! Conclusão: a Educação é uma profissão impossível.
+Impossível não é sinônimo de irrealizável, mas indica
+principalmente a ideia de algo que não pode ser jamais integralmente
+alcançado: o domínio, a direção e o controle que estão na base
 de qualquer sistema pedagógico.
 
-NOTE: A viagem ao país das formulações de Freud termina aqui, com 
-uma conclusão, ao que tudo indica decepcionante: *a psicanálise não 
-serve como principio organizador de um sistema ou de uma metodologia 
-educacional*.
+NOTE: A viagem ao país das formulações de Freud termina aqui, com
+uma conclusão, ao que parece decepcionante: *a psicanálise não
+serve como principio organizador de um sistema ou de uma metodologia
+educacional*. Contudo, é uma fundamentação teórica imprescindível à
+compreensão da configuração do humano, conhecimento necessário a
+quem se propõe mediar aprendizagens e formar pessoas.
 
 
 ////
 Sempre termine os arquivos com uma linha em branco.
 ////
-
-
