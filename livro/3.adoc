@@ -55,10 +55,6 @@ valores e características de uma pessoa se configuram em um
 determinado contexto histórico. Afinal, além da dimensão
 individual o tempo tem também uma dimensão social.
 
-.Etapas do desenvolvimento humano
-image::{img}/fases-da-vida.eps[]
-
-
 === Objetivos da Psicologia do Desenvolvimento
 
 Consideramos que a Psicologia do Desenvolvimento persegue três

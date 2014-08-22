@@ -13,7 +13,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="esquema7.eps">
   <defs
      id="defs4">
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="663.34115"
+     inkscape:cx="608.0726"
      inkscape:cy="397.37257"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -192,24 +192,24 @@
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
        x="135.95224"
-       y="533.62305"
+       y="529.46326"
        id="text4329-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="135.95224"
-         y="533.62305"
+         y="529.46326"
          id="tspan4335-3"
          style="text-align:start;text-anchor:start">Economia modelo agrícula</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
        x="99.627052"
-       y="592.27551"
+       y="593.29614"
        id="text4329-9-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="99.627052"
-         y="592.27551"
+         y="593.29614"
          id="tspan4335-3-8"
          style="text-align:start;text-anchor:start">Concepção tradicional de educação</tspan></text>
     <text
@@ -258,59 +258,30 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="522.41125"
-       y="512.29993"
+       x="469.82617"
+       y="529.53357"
        id="text4329-7-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="522.41125"
-         y="512.29993"
+         x="469.82617"
+         y="529.53357"
          style="text-align:start;text-anchor:start"
          id="tspan4546-0">Economia capitalista</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="666.62573"
-       y="537.18445"
-       id="text4574"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4576"
-         x="666.62573"
-         y="537.18445">Luta</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="493.81058"
-       y="578.60065"
-       id="text4578"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4580"
-         x="493.81058"
-         y="578.60065">Forma conservadora</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="498.34335"
-       y="556.37732"
+       x="552.39941"
+       y="583.65454"
        id="text4582"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4584"
-         x="498.34335"
-         y="556.37732">Tendências humanistas</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="594.62396"
-       y="628.09814"
-       id="text4586"
-       sodipodi:linespacing="125%"><tspan
+         x="552.39941"
+         y="583.65454">Tendências humanistas:</tspan><tspan
          sodipodi:role="line"
-         id="tspan4588"
-         x="594.62396"
-         y="628.09814">Forma Morderna</tspan></text>
+         x="552.39941"
+         y="606.15454"
+         id="tspan3055">Forma Tradicional e Moderna</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
@@ -326,27 +297,54 @@
          x="870.03961"
          y="472.81122"
          id="tspan4594">espaço de luta social</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="871.93304"
-       y="538.19452"
-       id="text4596"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4598"
-         x="871.93304"
-         y="538.19452">Tendência dialética</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
-       x="869.74133"
-       y="605.87476"
-       id="text4600"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4602"
+    <g
+       id="g3057">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4596"
+         y="580.62091"
+         x="860.82135"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="580.62091"
+           x="860.82135"
+           id="tspan4598"
+           sodipodi:role="line">Tendência dialética</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4600"
+         y="605.87476"
          x="869.74133"
-         y="605.87476">Educação x Relações sociais</tspan></text>
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="605.87476"
+           x="869.74133"
+           id="tspan4602"
+           sodipodi:role="line">Educação x Relações sociais</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
+       x="779.74109"
+       y="529.53357"
+       id="text4329-7-3-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="779.74109"
+         y="529.53357"
+         style="text-align:start;text-anchor:start"
+         id="tspan4546-0-8">Economia capitalista</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.30117059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.30117059, 2.60234118;stroke-dashoffset:0"
+       d="m 995.67019,495.76812 -885.83842,0"
+       id="path4337-2-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.30117059;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.30117059, 2.60234118;stroke-dashoffset:0"
+       d="m 995.67017,554.29606 -885.83838,0"
+       id="path4337-2-1-4-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

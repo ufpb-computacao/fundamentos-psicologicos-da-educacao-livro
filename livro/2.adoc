@@ -64,22 +64,7 @@ que inclui a dúvida metódica em oposição a intuição intelectual.
 
 [[fig_esquema4]]
 .Tricotomia Cartesiana e o estudo do conhecimento pela aplicaçao do método científico
-image::{img}/descartes-mapa.png[scaledwidth="90%"]
-
-
-////
-
-Descartes
-    Áreas distintas do ser para estudo do método
-        Alma: pensamento (Cogito: penso logo existo)
-        Deus (divina): infinito
-        Corpo: estruturas mentais, extensão da alma/física
-    Conhecimento
-        Deve ser Seguro
-        Aplica a Dúvida Metafórica (Método científico)
-
-////
-
+image::{img}/descartes-mapa.jpg[scaledwidth="90%"]
 
 === Teorias Psicológicas do Desenvolvimento e Aprendizagem: uma Tessitura Contemporânea
 ++++

@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1052.3622"
-   height="744.09448"
+   width="885.33295"
+   height="595.3161"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Novo documento 1">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="piramede.eps">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="293.90321"
-     inkscape:cy="324.02846"
+     inkscape:cx="404.39342"
+     inkscape:cy="257.36817"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,10 +36,14 @@
      inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5">
     <sodipodi:guide
        orientation="1,0"
-       position="44.285714,340"
+       position="65.825394,262.36472"
        id="guide3897" />
   </sodipodi:namedview>
   <metadata
@@ -58,68 +62,68 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-308.2677)"
+     transform="translate(21.53968,-379.41079)"
      style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        x="263.03714"
-       y="586.16058"
+       y="567.62805"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2987"
          x="263.03714"
-         y="586.16058"
+         y="567.62805"
          style="font-size:28px">Realização Pessoal</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        x="258.61038"
-       y="697.18958"
+       y="695.79077"
        id="text2989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2991"
          x="258.61038"
-         y="697.18958"
+         y="695.79077"
          style="font-size:28px">Estima</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        x="147.18962"
-       y="766.86328"
+       y="768.07648"
        id="text2993"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2995"
          x="147.18962"
-         y="766.86328"
-         style="font-size:28px">Amor/Relacionamento</tspan></text>
+         y="768.07648"
+         style="font-size:28px">Amor/Pertencimento</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        x="167.24971"
-       y="849.02563"
+       y="849.505"
        id="text2997"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2999"
          x="167.24971"
-         y="849.02563"
+         y="849.505"
          style="font-size:28px">Segurança</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        x="123.42857"
-       y="940.64789"
+       y="938.13116"
        id="text3001"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3003"
          x="123.42857"
-         y="940.64789"
-         style="font-size:28px">Fisiologia</tspan></text>
+         y="938.13116"
+         style="font-size:28px">Fisiológica</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans"
@@ -207,7 +211,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="piram">
+     inkscape:label="piram"
+     transform="translate(21.53968,-71.143093)">
     <path
        style="fill:none;stroke:#000000;stroke-width:3.30087042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 44.285714,659.80877 812.857146,0"
