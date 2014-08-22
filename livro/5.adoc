@@ -403,14 +403,14 @@ relações sociais. Linguagem e pensamento coexistem numa
 cumplicidade indissolúvel na qual a primeira dá forma e objetiva a
 existência do segundo.
 
-Vygotsky destacou, em seus estudos, a importância da relação
+Vygotsky, em seus estudos, destacou a importância da relação
 do indivíduo com o ambiente sócio cultural, sendo assim, deu
 importância a interação social na construção da aprendizagem.
-Nessa perspectiva, Vygotsky passou a estudar a importância de
+Nessa perspectiva, ele passou a estudar a importância de
 compreender ``até onde o indivíduo chegou'', ou seja, o que pode fazer sozinho,
-que ficou conhecido como Zona de Desenvolvimento Real.
+que ficou conhecido como _Zona de Desenvolvimento Real_.
 Mas existe determinada tarefa que esse mesmo indivíduo só pode
-desenvolver com a ajuda de alguém, que seria a Zona de Desenvolvimento Potencial
+desenvolver com a ajuda de alguém, que seria o Desenvolvimento Potencial
 (nível de desenvolvimento que ainda não foi alcançado,
 mas está próximo de se consolidar).
 A partir da constatação desses dois níveis de desenvolvimento
@@ -419,12 +419,19 @@ Essa Zona Proximal seria a ponte entre o que o indivíduo pode fazer sozinho
 e o que pode fazer com a ajuda do outro social, até o momento que ocorre
 a aprendizagem completa.
 
+Na <<fig_zona_desenvolvimento>> podemos visualizar a Teoria da Zona de
+Desenvolvimento Proximal.
+
+[[fig_zona_desenvolvimento]]
+.Teoria da Zona de Desenvolvimento Proximal
 image::{img}/Papel-da-Escola-no-Desenvolvimento-Cognitivo.eps[]
 
+A seguir, podemos ler um pouco sobre as ideias de Vygotsky acerca da relação
+entre linguagem e pensamento.
 
 [cols=">", frame="none"]
 |====
-| Texto: Pensamento e palavra
+| Texto complementar: *Pensamento e palavra*
 | Autor: Vygotsky (1993)
 |====
 
@@ -496,13 +503,13 @@ realidade é generalizada e refletida em uma palavra.
 
 [cols=">", frame="top"]
 |====
-| {sp}
+| Final do texto: *Pensamento e palavra*, Vygotsky (1993).{sp}
 |====
 
-Após estudarmos o desenvolvimento cognitivo a partir das
-contribuições de Piaget e Vygotsky podemos compreender quão
-importante é aprofundarmos estudos possibilitadores do conhecimento
-acerca de como se desenvolve a inteligência humana e quanto a
+Consideramos que o estudo acerca do desenvolvimento cognitivo a partir das
+contribuições de Piaget e Vygotsky possibilita compreender quão
+importante é o aprofundamento dos estudos sobre
+como se desenvolve a inteligência humana e quanto a
 educação pode oportunizar às pessoas um desenvolvimento que
 propicie o empoderamento que todos necessitam para termos uma
 sociedade inclusiva, em que todos sejam educados/escolarizados numa
