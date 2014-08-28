@@ -424,7 +424,7 @@ Desenvolvimento Proximal.
 
 [[fig_zona_desenvolvimento]]
 .Teoria da Zona de Desenvolvimento Proximal
-image::{img}/Papel-da-Escola-no-Desenvolvimento-Cognitivo.eps[]
+image::{img}/zdp.eps[]
 
 A seguir, podemos ler um pouco sobre as ideias de Vygotsky acerca da relação
 entre linguagem e pensamento.
