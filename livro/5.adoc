@@ -408,13 +408,12 @@ do indivíduo com o ambiente sócio cultural, sendo assim, deu
 importância a interação social na construção da aprendizagem.
 Nessa perspectiva, ele passou a estudar a importância de
 compreender ``até onde o indivíduo chegou'', ou seja, o que pode fazer sozinho,
-que ficou conhecido como _Zona de Desenvolvimento Real_.
+que ficou conhecido como _Nível de Desenvolvimento Real_.
 Mas existe determinada tarefa que esse mesmo indivíduo só pode
-desenvolver com a ajuda de alguém, que seria o Desenvolvimento Potencial
-(nível de desenvolvimento que ainda não foi alcançado,
-mas está próximo de se consolidar).
+desenvolver com a ajuda de alguém, que seria o _Nível de Desenvolvimento Potencial_
+(nível que ainda não foi alcançado, mas está próximo de se consolidar).
 A partir da constatação desses dois níveis de desenvolvimento
-(Real e Proximal), Vygotsky definiu a Zona de Desenvolvimento Proximal.
+(Real e Potencial), Vygotsky definiu a *((Zona de Desenvolvimento Proximal))*.
 Essa Zona Proximal seria a ponte entre o que o indivíduo pode fazer sozinho
 e o que pode fazer com a ajuda do outro social, até o momento que ocorre
 a aprendizagem completa.
