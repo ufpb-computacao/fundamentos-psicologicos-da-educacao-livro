@@ -181,14 +181,16 @@ tão pouco,conceitual. Aceitava a existência das condições fisiológicas
 internas ou mentais, apenas não concordava que estas concepções
 tivessem, validade científica, no referente ao estudo do comportamento.
 
-Quadro 02: Skinner e sua visão empírica no estudo do comportamento. Fonte:REVISTA CULTURA E CIDADANIA.
-Acesso: http://revistaculturacidadania.blogspot.com.br/2012/04/o-behaviorismo-de-skinner.html
-
-
 .Burrhus Skinner em ação (condicionamento operante de animais). Fonte: http://webspace.ship.edu/cgboer/genpsylearning.html
-image::{img}/BurrhusSkinner[scaledwidth="25%"]
+image::{img}/BurrhusSkinner.jpg[scaledwidth="25%"]
 
 ****
+
+____
+Skinner e sua visão empírica no estudo do comportamento. 
+Fonte: REVISTA CULTURA E CIDADANIA.
+Acesso: http://revistaculturacidadania.blogspot.com.br/2012/04/o-behaviorismo-de-skinner.html
+____
 
 === Teorias de Campo
 
@@ -248,9 +250,6 @@ físico é percebido pelo sujeito com uma forma diferente do que ele
 
 .Cubo de Necker e Cálice com Perspectiva de Figura e Fundo
 image::{img}/Necker.eps[scaledwidth="50%"]
-
-Quadro 03: ilustração da relação forma percepção na
-perspectiva Gestalt.
 
 ****
 
@@ -382,7 +381,6 @@ onde conheceu importante grupos de psicólogos. Passou a se dedicar
 aos estudos da motivação humana e das hierarquias da necessidade do
 indivíduo.
 
-// REFAZER A PIRÂMIDE (ONDE SE LÊ: "Amor/relacionamento" colocar: "Amor/Pertencimento". Onde se lê: fisiologia. Colocar: fisiológicos)
 .Pirâmide da Hierarquia das Necessidades de Abraham Maslow
 image::{img}/piramede.eps[scaledwidth="80%"]
 
