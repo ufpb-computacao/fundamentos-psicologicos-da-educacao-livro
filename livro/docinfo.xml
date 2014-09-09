@@ -3,6 +3,17 @@
 <revhistory>
 
   <revision>
+    <revnumber>v0.3.2</revnumber>
+    <date>9/9/2014</date>
+    <authorinitials> Autoras e Eduardo </authorinitials>
+    <revremark>
+- Atualização da Ficha Técnica (#30);
+- Revisão geral do livro (#31);
+    </revremark>
+  </revision>
+
+
+  <revision>
     <revnumber>v0.3.1</revnumber>
     <date>30/07/2014</date>
     <authorinitials> Autoras e Eduardo </authorinitials>
