@@ -3,12 +3,23 @@
 <revhistory>
 
   <revision>
+    <revnumber>v0.3.3</revnumber>
+    <date>1/10/2014</date>
+    <authorinitials> Autoras e Eduardo </authorinitials>
+    <revremark>
+<ulink url="{gitrepo}/issues/33">Solicitando feedback ao final de cada capítulo;</ulink>
+<ulink url="{gitrepo}/issues/34">Adição de links no histórico de revisão;</ulink>
+    </revremark>
+  </revision>
+
+
+  <revision>
     <revnumber>v0.3.2</revnumber>
     <date>9/9/2014</date>
     <authorinitials> Autoras e Eduardo </authorinitials>
     <revremark>
-- Atualização da Ficha Técnica (#30);
-- Revisão geral do livro (#31);
+<ulink url="{gitrepo}/issues/30">Atualização da Ficha Técnica;</ulink>
+<ulink url="{gitrepo}/issues/31">Revisão geral do livro;</ulink>
     </revremark>
   </revision>
 
@@ -18,7 +29,7 @@
     <date>30/07/2014</date>
     <authorinitials> Autoras e Eduardo </authorinitials>
     <revremark>
-- Inclusão de Esquema Papel da Escola no Desenvolvimento Cognitivo (#29).
+<ulink url="{gitrepo}/issues/29">Inclusão de Esquema Papel da Escola no Desenvolvimento Cognitivo;</ulink>
     </revremark>
   </revision>
 
@@ -27,54 +38,74 @@
     <date>27/06/2014</date>
     <authorinitials> Autoras e Eduardo </authorinitials>
     <revremark>
-- Inclusão de imagem com fases da vida (#6).
-- Elaboração dos Objetivos de Aprendizagem (#9).
-- Produção do Capítulo 4 (#11).
-- Produção do Capítulo 5 (#13).
-- Remoção de Sugestão de leitura (#14).
-- Produção do Capítulo 6 (#15 e #18).
-- Referências dos quadros movidas para fora (#17).
-- Revisões pontuais da autora (#19).
-- Inclusão do Quadro Sinóptico (#22).
-- Consistência no nome de Vigotsky (#23).
-- Inclusão dos esquemas (#24, #26 e #27).
-- Inclusão da Ficha Catalográfica (#25).
+<ulink url="{gitrepo}/issues/4">Inclusão do Quadro Sinóptico;</ulink>
+<ulink url="{gitrepo}/issues/6">Inclusão de imagem com fases da vida;</ulink>
+<ulink url="{gitrepo}/issues/8">Hierarquia dos títulos revisadas;</ulink>
+<ulink url="{gitrepo}/issues/9">Elaborar os Objetivos de Aprendizagem de cada capítulo;</ulink>
+<ulink url="{gitrepo}/issues/10">Elaboração de Autoavaliação;</ulink>
+Produção dos Capítulos: 
+<ulink url="{gitrepo}/issues/1">1</ulink>,
+<ulink url="{gitrepo}/issues/2">2</ulink>,
+<ulink url="{gitrepo}/issues/11">4</ulink>, 
+<ulink url="{gitrepo}/issues/13">5</ulink> e 
+<ulink url="{gitrepo}/issues/15">6</ulink>
+<ulink url="{gitrepo}/issues/18">(#18);</ulink>
+
+<ulink url="{gitrepo}/issues/12">Atualização das referências bibliográficas;</ulink>
+<ulink url="{gitrepo}/issues/14">Remoção de Sugestão de leitura;</ulink>
+<ulink url="{gitrepo}/issues/17">Referências dos quadros movidas para fora;</ulink>
+<ulink url="{gitrepo}/issues/19">Revisões pontuais da autora;</ulink>
+<ulink url="{gitrepo}/issues/21">Produção dos capítulos pelas autoras;</ulink>
+<ulink url="{gitrepo}/issues/22">Inclusão do Quadro Sinóptico;</ulink>
+<ulink url="{gitrepo}/issues/23">Consistência no nome de Vigotsky;</ulink>
+
+Inclusão dos esquemas: 
+<ulink url="{gitrepo}/issues/24">5</ulink>,
+<ulink url="{gitrepo}/issues/27">6</ulink> e 
+<ulink url="{gitrepo}/issues/26">7;</ulink>
+
+<ulink url="{gitrepo}/issues/25">Inclusão da Ficha Catalográfica</ulink>
+<ulink url="{gitrepo}/issues/28">(e atualização);</ulink>
     </revremark>
   </revision>
 
-
-
   <revision>
     <revnumber>v0.2.0</revnumber>
-    <date>8/Maio/2014</date>
+    <date>8/5/2014</date>
     <authorinitials>Tânia/Eduardo</authorinitials>
     <revremark>
-- Revisão com autora #19. 
-- Produção do Capítulo 6 #18. 
-- Atualização do capítulo 1: remoção de vídeo.
-- Produção do Capítulo 2 #2. 
-- Produção do Capítulo 3 #7. 
-- Produção do Capítulo 6 #15. 
+Produção dos Capítulos: 
+<ulink url="{gitrepo}/issues/2">2</ulink>,
+<ulink url="{gitrepo}/issues/7">3</ulink>,
+<ulink url="{gitrepo}/issues/15">6</ulink> <ulink url="{gitrepo}/issues/18">(#18)</ulink>;
+
+<ulink url="{gitrepo}/issues/19">Revisão com autora;</ulink>
+Atualização do capítulo 1: remoção de vídeo;
     </revremark>
   </revision>
 
 
   <revision>
     <revnumber>v0.1.1</revnumber>
-    <date>29/Abril/2014</date>
+    <date>29/4/2014</date>
     <authorinitials>Tânia/Eduardo</authorinitials>
     <revremark>
-- Produção dos Capítulos 1-5: #13, #11, #7, #2, #1. 
-- Falta revisão de todos os capítulos
+- Produção dos Capítulos 1-5: 
+(<ulink url="{gitrepo}/issues/1">#1</ulink>,
+<ulink url="{gitrepo}/issues/2">#2</ulink>,
+<ulink url="{gitrepo}/issues/7">#7</ulink>,
+<ulink url="{gitrepo}/issues/11">#11</ulink>,
+<ulink url="{gitrepo}/issues/13">#13</ulink>);
+Falta revisão de todos os capítulos;
     </revremark>
   </revision>
 
   <revision>
     <revnumber>v0.1.0</revnumber>
-    <date>22/Abril/2014</date>
+    <date>22/4/2014</date>
     <authorinitials>Tânia</authorinitials>
     <revremark>
-- Produção do Capítulo 1 #1
+<ulink url="{gitrepo}/issues/1">Produção do Capítulo 1;</ulink>
     </revremark>
   </revision>
   
