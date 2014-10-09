@@ -7,7 +7,8 @@ require 'open3'
 task :default => [:wip]
 
 SOURCE_FILES = FileList['livro/livro.asc', 'livro/capitulos/*']
-@RELEASE_DIR = 'releases/current'
+CURRENT_BRANCH=`git rev-parse --abbrev-ref HEAD`.strip
+@RELEASE_DIR = "releases/#{CURRENT_BRANCH}"
 @BOOK_SOURCE_DIR = 'livro'
 @BOOK_SOURCE = 'livro/livro.asc'
 @BOOK_TARGET = 'livro/livro.pdf'
@@ -18,6 +19,7 @@ RELEASE_BOOK  = "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/livro.pdf"
 RELEASE_WIP_ADOC =  "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/wip.adoc"
 RELEASE_WIP_PDF  =  "#{@RELEASE_DIR}/#{@BOOK_SOURCE_DIR}/wip.pdf"
 OPEN_PDF_CMD=`git config --get producao.pdfviewer`.strip
+FICHAS_DIR=`git config --get abragit.fichasdir`.strip
 A2X_COMMAND="-v -k -f pdf --icons -a docinfo1 -a edition=`git describe` -a lang=pt-BR -d book --dblatex-opts '-T computacao -P latex.babel.language=brazilian -P preface.tocdepth=1' -a livro-pdf"
 A2X_EPUB_COMMAND="-v -k -f epub --icons -a docinfo1 -a edition=`git describe` -a lang=pt-BR -d book "
 PROJECT_NAME = File.basename(Dir.getwd)
@@ -48,6 +50,18 @@ namespace "wip" do
 
   file WIP_ADOC do
     Rake::Task["wip:new"].invoke
+  end
+
+  EDITORA_PDF = "#{@BOOK_SOURCE_DIR}/editora/editora.pdf"
+  
+  file "#{FICHAS_DIR}/ficha-tecnica-#{PROJECT_NAME}.pdf" => ["#{EDITORA_PDF}"] do |task|
+    cp task.prerequisites.first, task.name
+  end
+  
+  desc "Copia ficha técnica para um diretório configurado"
+  task :ficha do
+    rm_rf "#{FICHAS_DIR}/ficha-tecnica-#{PROJECT_NAME}.pdf"
+    Rake::Task["#{FICHAS_DIR}/ficha-tecnica-#{PROJECT_NAME}.pdf"].invoke
   end
 
   desc "build book from #{@RELEASE_DIR}"
