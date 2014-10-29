@@ -3,6 +3,15 @@
 <revhistory>
 
 <revision>
+  <revnumber>v1.0.1</revnumber>
+  <date>4/11/2014</date>
+  <authorinitials> Eduardo </authorinitials>
+  <revremark>
+<ulink url="{gitrepo}/issues/37">Inclusão de mini-sumário por capítulo;</ulink>
+  </revremark>
+</revision>
+
+<revision>
   <revnumber>v1.0.0</revnumber>
   <date>16/10/2014</date>
   <authorinitials> Eduardo </authorinitials>

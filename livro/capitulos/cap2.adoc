@@ -442,7 +442,7 @@ contemporânea, com suas bases epistemológicas e conribuições para o campo da
 .Quadro sinóptico das teorias contemporâneas do desenvolvimento e aprendizagem
 [width="100%",cols="1s,1,1,1,1",frame="topbot",options="header"]
 |====
-include::capitulos/tabelas/quadro-sinoptico.csv[]
+include::tabelas/quadro-sinoptico.csv[]
 |====
 
 === Analisando e Refletindo
